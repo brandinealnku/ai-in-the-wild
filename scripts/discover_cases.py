@@ -80,11 +80,9 @@ def discover(query):
     })
     request = Request(url, headers={"User-Agent": "AI-in-the-Wild-research/0.1 (+github.com/brandinealnku/ai-in-the-wild)"})
     with urlopen(request, timeout=25) as res:
-        if len(res.read(1)) == 0:
-            raise ValueError("Empty response")
-        # Re-fetch to enforce bounded read using a single parser input.
-    with urlopen(request, timeout=25) as res:
         data = res.read(2_000_001)
+        if not data:
+            raise ValueError("Empty response")
         if len(data) > 2_000_000:
             raise ValueError("RSS response exceeds size limit")
     root = ET.fromstring(data)
