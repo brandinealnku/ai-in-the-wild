@@ -1,0 +1,36 @@
+name: Daily AI case discovery (review queue only)
+on:
+  schedule:
+    - cron: '23 12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ai-in-the-wild-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Discover candidates (never edits approved cases)
+        run: python3 scripts/discover_cases.py
+      - name: Validate discovery output
+        run: |
+          python3 scripts/validate_discovery.py
+          python3 scripts/validate_cases.py
+      - name: Commit review queue and source health only
+        run: |
+          if git diff --quiet -- data/candidates.json data/discovery-health.json; then
+            echo "No candidate or health changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/candidates.json data/discovery-health.json
+            git commit -m "chore: refresh unverified discovery queue"
+            git push
+          fi
