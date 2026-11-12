@@ -33,3 +33,17 @@ async function loadApprovedCases(){
  }catch(e){$('load-error').hidden=false;$('load-error').textContent='Case data could not be loaded or failed quality checks. '+e.message;}
 }
 loadApprovedCases();
+async function loadDiscoveryHealth(){
+ try{
+  const res=await fetch('./data/discovery-health.json',{cache:'no-store'});
+  if(!res.ok)throw new Error('Status unavailable');
+  const h=await res.json();
+  const s=$('pipeline-status'),checked=$('pipeline-checked'),pending=$('pipeline-pending'),sources=$('pipeline-sources');
+  if(!s||!checked||!pending||!sources)return;
+  s.textContent=h.status==='healthy'?'Feeds responding':h.status==='degraded'?'Partial source outage':h.status==='not_run'?'Not run yet':'Status unavailable';
+  checked.textContent=h.checkedAt?new Date(h.checkedAt).toLocaleString():'Not yet run';
+  pending.textContent=Number.isInteger(h.pendingReview)?h.pendingReview:'—';
+  sources.textContent=h.status==='not_run'?'—':(h.sourceSuccessCount??'?')+' / '+(h.sourceTotal??'?');
+ }catch(e){const s=$('pipeline-status');if(s)s.textContent='Status unavailable'}
+}
+loadDiscoveryHealth();
