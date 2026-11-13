@@ -21,9 +21,9 @@ jobs:
         run: python3 scripts/discover_cases.py
       - name: Draft evidence assessments (AI optional, review required)
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4.1-mini
-          ASSESSMENT_MAX_PER_RUN: '3'
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash-lite
+          ASSESSMENT_MAX_PER_RUN: '2'
         run: python3 scripts/assess_evidence.py
       - name: Validate discovery output
         run: |
