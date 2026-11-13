@@ -239,6 +239,16 @@ def baseline(candidate, reason):
 
 def assess(candidate):
     original = candidate.get("discoveryUrl", "")
+    if not KEY:
+        return {
+            "candidateId": candidate["id"], "title": candidate["title"], "discoveryUrl": original,
+            "assessedAt": now(), "status": "needs_configuration", "reviewStatus": "unapproved",
+            "model": None, "accessibleSourceCount": 0, "sourceReferences": [],
+            "relatedResearchLeads": [], "retrievalWarnings": [],
+            "assessment": baseline(candidate, "AI extraction disabled: configure OPENAI_API_KEY."),
+            "publicationBlocked": True,
+            "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+        }
     documents = []
     errors = []
     links = []
@@ -248,7 +258,7 @@ def assess(candidate):
         errors.append("Related-source search: " + type(ex).__name__)
     urls = [original] + [x["url"] for x in links if x["url"] != original]
     seen_hosts = set()
-    for url in urls[:8]:
+    for url in urls[:5]:
         try:
             doc = get_text(url)
             host = urlparse(doc["url"]).hostname
