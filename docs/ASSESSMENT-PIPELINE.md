@@ -3,7 +3,7 @@
 Workflow: daily candidate discovery → related coverage search → retrieve up to three accessible article pages → AI extraction (optional, API key required) → validate verbatim evidence excerpts → unapproved draft record → human reviewer.
 
 ## Setup
-In repository **Settings → Secrets and variables → Actions**, create `GEMINI_API_KEY` (the secret is never placed in the source files). GitHub Actions uses `gemini-2.5-flash-lite` by default, overridable using an environment variable. The Google Gemini API can incur usage costs. Each run assesses at most two candidates by default, capped at five with `ASSESSMENT_MAX_PER_RUN`. No AI is called when the key is missing; drafts are explicitly marked `needs_configuration`.
+In repository **Settings → Secrets and variables → Actions**, create `GEMINI_API_KEY` (the secret is never placed in the source files). GitHub Actions uses `gemini-2.5-flash-lite` by default, overridable using an environment variable. The Google Gemini API can incur charges if the selected project has billing enabled. Use an unbilled free-tier project for this $0 configuration. Each run assesses at most two candidates, with a hard cap of two even when `ASSESSMENT_MAX_PER_RUN` is higher. No AI is called when the key is missing; drafts are explicitly marked `needs_configuration`.
 
 The job is tied to the daily discovery workflow and can also be started manually from Actions. **Source access may be blocked** by paywalls, Google News redirection, bots or publisher controls. If sources are inaccessible, the draft is `insufficient_source_access` and does not make substantive claims.
 
