@@ -58,7 +58,14 @@ def safe_url(url):
             ip = ipaddress.ip_address(host)
             return ip.is_global
         except ValueError:
-            return "." in host
+            if "." not in host:
+                return False
+            # Prevent DNS-resolved loopback, RFC1918, link-local, etc. (SSRF).
+            try:
+                infos = socket.getaddrinfo(host, 443, type=socket.SOCK_STREAM)
+                return bool(infos) and all(ipaddress.ip_address(info[4][0]).is_global for info in infos)
+            except (OSError, ValueError):
+                return False
     except (ValueError, TypeError):
         return False
 
@@ -211,13 +218,12 @@ def validate_report(report, docs):
                 for field in ("claim", "reportedValue", "unit", "denominator", "period", "limitation"):
                     if not isinstance(item.get(field), str):
                         raise ValueError("Invalid numeric claim field")
-    # "cross_checked" is only allowed when at least two accessible distinct-host documents
-    # contain the exact figure. Human approval remains mandatory regardless.
-    hosts = {urlparse(d["url"]).hostname for d in docs}
+    # An LLM cannot certify independent corroboration. Even two outlets can
+    # repeat one vendor press release, so retain the claim as reported_only.
     for item in report["numericClaims"]:
-        if item["validationStatus"] == "cross_checked" and len(hosts) < 2:
+        if item["validationStatus"] == "cross_checked":
             item["validationStatus"] = "reported_only"
-            item["limitation"] += " Two independently located hosts were not available."
+            item["limitation"] += " AI cannot establish independent corroboration; human review required."
     return report
 
 def baseline(candidate, reason):
