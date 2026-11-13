@@ -1,49 +1,41 @@
-let cases=[];
-let mode='professional';
+/* AI in the Wild — Research Intelligence Studio
+   All charts and summaries are derived from approved cases.json, never synthetic scores.
+*/
+const state={cases:[],mode:"professional",tab:"cards",open:new Set(),reviewedAt:null};
 const $=id=>document.getElementById(id);
-const escapeHTML=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function options(id,key){const vals=[...new Set(cases.map(c=>c[key]))].sort();$(id).innerHTML='<option value="">All '+(key==='industry'?'industries':'outcomes')+'</option>'+vals.map(v=>`<option value="${escapeHTML(v)}">${escapeHTML(v)}</option>`).join('')}
-function setMode(v){mode=v;document.querySelectorAll('.mode button').forEach(x=>x.classList.toggle('active',x.dataset.mode===mode));render()}
-function caseHTML(c){const id=cases.indexOf(c);const source2=c.source2?`<a target="_blank" rel="noopener noreferrer" href="${escapeHTML(c.source2)}">Supporting record ↗</a>`:'';
-const lesson=mode==='learning'?`<div class="detailbox"><strong>Student discussion question</strong><p>${escapeHTML(c.question)}</p></div>`:`<div class="detailbox"><strong>How to apply this at work</strong><p>${escapeHTML(c.apply)}</p></div>`;
-return `<article class="case"><div class="row"><span class="chip">${escapeHTML(c.company)}</span><span class="date">${escapeHTML(c.date)}</span></div><div class="pills"><span class="pill ${escapeHTML(c.outcome)}">${escapeHTML(c.outcome)}</span><span class="pill">${escapeHTML(c.industry)}</span><span class="pill">${escapeHTML(c.function)}</span></div><h3>${escapeHTML(c.title)}</h3><p>${escapeHTML(c.summary)}</p><div class="row"><div class="metric">${escapeHTML(c.metric)}<small>${escapeHTML(c.metric_label)}</small></div></div><div class="footer"><span class="tiny">${escapeHTML(c.confidence)}</span><button class="btn" onclick="toggle(${id})" aria-expanded="false" id="b${id}">Explore case ↓</button></div><div class="details" id="d${id}"><div class="detailbox"><strong>Evidence & limitations</strong><p>${escapeHTML(c.evidence)}</p></div><div class="detailbox"><strong>Risk or failure mode</strong><p>${escapeHTML(c.risk)}</p></div>${lesson}<div class="sources"><a target="_blank" rel="noopener noreferrer" href="${escapeHTML(c.source)}">Original source ↗</a>${source2}</div><p style="margin-top:10px;font-size:11px">Source class: ${escapeHTML(c.source_type)} · Reviewed: ${escapeHTML(c.reviewed_at)}</p></div></article>`}
-function toggle(i){const d=$('d'+i);const b=$('b'+i);d.classList.toggle('open');b.textContent=d.classList.contains('open')?'Close case ↑':'Explore case ↓';b.setAttribute('aria-expanded',d.classList.contains('open'))}
-function render(){const q=$('search').value.toLowerCase().trim(),industry=$('industry').value,outcome=$('outcome').value,sort=$('sort').value;let a=cases.filter(c=>(!industry||c.industry===industry)&&(!outcome||c.outcome===outcome)&&(!q||Object.values(c).some(v=>String(v).toLowerCase().includes(q))));if(sort==='alpha')a.sort((a,b)=>a.company.localeCompare(b.company));else a.sort((a,b)=>b.date.localeCompare(a.date));$('results').innerHTML=a.map(caseHTML).join('');$('count').textContent=a.length+' of '+cases.length+' cases';$('empty').style.display=a.length?'none':'block'}
-['search','industry','outcome','sort'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));
-async function loadApprovedCases(){
- try{
-  const response=await fetch('./data/cases.json',{cache:'no-store'});
-  if(!response.ok)throw new Error(`HTTP ${response.status}`);
-  const data=await response.json();
-  if(data.schemaVersion!==1||!Array.isArray(data.cases))throw new Error('Unexpected data schema');
-  const required=['id','company','title','industry','function','outcome','confidence','date','summary','evidence','risk','apply','question','source','reviewed_at'];
-  const ids=new Set();
-  for(const c of data.cases){
-   if(c.review_status!=='approved'||required.some(k=>typeof c[k]!=='string'||!c[k].trim()))throw new Error('Unreviewed or incomplete case in publication dataset');
-   if(!['Positive','Mixed','Negative','Unknown'].includes(c.outcome))throw new Error('Unknown outcome label');
-   if(!/^https:\/\//.test(c.source))throw new Error('Non-HTTPS source URL');
-   if(ids.has(c.id))throw new Error('Duplicate case ID');ids.add(c.id);
-  }
-  cases=data.cases;options('industry','industry');options('outcome','outcome');
-  $('total-cases').textContent=cases.length;
-  $('outcome-counts').textContent=['Positive','Mixed','Negative'].map(o=>cases.filter(c=>c.outcome===o).length).join(' / ');
-  $('review-date').textContent=new Date(data.reviewedAt+'T12:00:00Z').toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric',timeZone:'UTC'});
-  $('footer-date').textContent=data.reviewedAt;
-  render();
- }catch(e){$('load-error').hidden=false;$('load-error').textContent='Case data could not be loaded or failed quality checks. '+e.message;}
-}
-loadApprovedCases();
-async function loadDiscoveryHealth(){
- try{
-  const res=await fetch('./data/discovery-health.json',{cache:'no-store'});
-  if(!res.ok)throw new Error('Status unavailable');
-  const h=await res.json();
-  const s=$('pipeline-status'),checked=$('pipeline-checked'),pending=$('pipeline-pending'),sources=$('pipeline-sources');
-  if(!s||!checked||!pending||!sources)return;
-  s.textContent=h.status==='healthy'?'Feeds responding':h.status==='degraded'?'Partial source outage':h.status==='not_run'?'Not run yet':'Status unavailable';
-  checked.textContent=h.checkedAt?new Date(h.checkedAt).toLocaleString():'Not yet run';
-  pending.textContent=Number.isInteger(h.pendingReview)?h.pendingReview:'—';
-  sources.textContent=h.status==='not_run'?'—':(h.sourceSuccessCount??'?')+' / '+(h.sourceTotal??'?');
- }catch(e){const s=$('pipeline-status');if(s)s.textContent='Status unavailable'}
-}
-loadDiscoveryHealth();
+const e=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const validURL=s=>{try{const u=new URL(s);return u.protocol==="https:"?u.href:"#"}catch{return "#"}};
+const formatDate=s=>{if(!/^\d{4}-\d{2}-\d{2}/.test(s||""))return "Date unknown";return new Date(s.slice(0,10)+"T12:00:00Z").toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric",timeZone:"UTC"})};
+function params(){return {q:$("search").value.trim().toLowerCase(),industry:$("industry").value,outcome:$("outcome").value,year:$("year").value,sort:$("sort").value}}
+function visible(){const {q,industry,outcome,year,sort}=params();return state.cases.filter(c=>(!industry||c.industry===industry)&&(!outcome||c.outcome===outcome)&&(!year||c.date.startsWith(year))&&(!q||[c.company,c.title,c.summary,c.industry,c.function,c.risk,c.evidence,c.apply].some(x=>String(x||"").toLowerCase().includes(q)))).sort((a,b)=>sort==="alpha"?a.company.localeCompare(b.company):(b.evidence_date||b.date).localeCompare(a.evidence_date||a.date))}
+function countBy(arr,key){return arr.reduce((m,c)=>(m[c[key]]=(m[c[key]]||0)+1,m),{})}
+function fillSelect(id,label,values){$(id).innerHTML='<option value="">All '+label+'</option>'+values.map(v=>'<option value="'+e(v)+'">'+e(v)+'</option>').join("")}
+function setMode(v){state.mode=v;document.querySelectorAll("[data-mode]").forEach(b=>{b.classList.toggle("active",b.dataset.mode===v);b.setAttribute("aria-pressed",String(b.dataset.mode===v))});render()}
+function setTab(v){state.tab=v;document.querySelectorAll("[data-tab]").forEach(b=>{const active=b.dataset.tab===v;b.classList.toggle("active",active);b.setAttribute("aria-selected",String(active))});render()}
+function applyBarFilter(key,value){$(key).value=$(key).value===value?"":value;document.getElementById("explorer").scrollIntoView({behavior:"smooth"});render()}
+function renderBars(id,by,key){const el=$(id);const entries=Object.entries(by).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));if(!entries.length){el.textContent="No cases yet";return}const max=Math.max(...entries.map(e=>e[1]));el.innerHTML=entries.map(([label,n])=>'<button type="button" class="bar-row '+(key==="outcome"?"outcome-"+e(label):"")+'" data-filter="'+e(key)+'" data-value="'+e(label)+'" title="Filter to '+e(label)+'"><span>'+e(label)+'</span><span class="bar-track"><span class="bar-fill" style="width:'+Math.round(n/max*100)+'%"></span></span><strong>'+n+'</strong></button>').join("");el.querySelectorAll("button").forEach(b=>b.addEventListener("click",()=>{if(key==="function"){ // Function is a search dimension not a dedicated dropdown.
+ $("search").value=$("search").value===b.dataset.value?"":b.dataset.value;render();document.getElementById("explorer").scrollIntoView({behavior:"smooth"})}
+ else applyBarFilter(key,b.dataset.value)}))}
+function buildCards(cases){return cases.map(c=>{const id=e(c.id),open=state.open.has(c.id),lesson=state.mode==="learning"?["Discussion question",c.question]:["Practical next experiment",c.apply];
+return '<article class="case"><div class="case-head"><span class="company">'+e(c.company)+'</span><time class="case-date" datetime="'+e(c.date)+'">'+e(formatDate(c.date))+'</time></div><div class="pills"><span class="pill '+e(c.outcome)+'">'+e(c.outcome)+'</span><span class="pill">'+e(c.industry)+'</span><span class="pill">'+e(c.function)+'</span></div><h3>'+e(c.title)+'</h3><p>'+e(c.summary)+'</p><div class="metric-panel"><div class="metric">'+e(c.metric||"Not quantified")+'</div><div class="metric-label">'+e(c.metric_label||"Reported metric not available")+'</div></div><div class="case-bottom"><span class="source-type">'+e(c.confidence)+'</span><button class="case-btn" type="button" data-case="'+id+'" aria-expanded="'+String(open)+'">'+(open?"Hide evidence ↑":"Examine evidence ↗")+'</button></div><div class="details'+(open?" open":"")+'" id="case-'+id+'"><div class="detailbox"><strong>Evidence & limitations</strong><p>'+e(c.evidence)+'</p></div><div class="detailbox"><strong>Operational risk</strong><p>'+e(c.risk)+'</p></div><div class="detailbox"><strong>'+e(lesson[0])+'</strong><p>'+e(lesson[1])+'</p></div><div class="source-links"><a href="'+e(validURL(c.source))+'" target="_blank" rel="noopener noreferrer">Primary linked record ↗</a>'+(c.source2?'<a href="'+e(validURL(c.source2))+'" target="_blank" rel="noopener noreferrer">Supporting document ↗</a>':"")+'</div><div class="review-line">Evidence class: '+e(c.source_type)+' · Reviewed '+e(formatDate(c.reviewed_at))+'</div></div></article>'}).join("")}
+function buildTable(arr){return '<div class="table-frame"><table class="comparison"><thead><tr><th>Organization</th><th>Sector / Function</th><th>Outcome</th><th>Reported metric</th><th>Evidence quality</th><th>Evidence date</th><th>Source</th></tr></thead><tbody>'+arr.map(c=>'<tr><td><strong>'+e(c.company)+'</strong><br>'+e(c.title)+'</td><td>'+e(c.industry)+'<br><span class="muted">'+e(c.function)+'</span></td><td><span class="pill '+e(c.outcome)+'">'+e(c.outcome)+'</span></td><td>'+e(c.metric||"—")+'<br><span class="muted">'+e(c.metric_label||"")+'</span></td><td>'+e(c.source_type)+'</td><td>'+e(formatDate(c.evidence_date||c.date))+'</td><td><a href="'+e(validURL(c.source))+'" target="_blank" rel="noopener noreferrer">Source ↗</a></td></tr>').join("")+'</tbody></table></div>'}
+function buildLedger(arr){return arr.map(c=>'<article class="ledger-card"><span class="caps">'+e(c.company)+' · '+e(c.outcome)+' · '+e(c.source_type)+'</span><h3>'+e(c.title)+'</h3><p><strong>Reported evidence:</strong> '+e(c.metric||"Not quantified")+' — '+e(c.metric_label||"no metric stated")+'</p><p><strong>What is not established:</strong> '+e(c.evidence)+'</p><p><strong>Risk:</strong> '+e(c.risk)+'</p><p><strong>Last reviewed:</strong> '+e(formatDate(c.reviewed_at))+'</p><a href="'+e(validURL(c.source))+'" target="_blank" rel="noopener noreferrer">Review original record ↗</a></article>').join("")}
+function buildStory(arr){return '<div class="story-grid">'+arr.map((c,i)=>'<article class="story"><span>CASE '+String(i+1).padStart(2,"0")+' / '+e(c.outcome.toUpperCase())+'</span><h3>'+e(c.company)+': '+e(c.title)+'</h3><p>'+e(c.summary)+'</p><p><strong>What the evidence does not prove</strong><br>'+e(c.evidence)+'</p><p><strong>'+(state.mode==="learning"?"A question for students":"The next business test")+'</strong><br>'+e(state.mode==="learning"?c.question:c.apply)+'</p><a href="'+e(validURL(c.source))+'" target="_blank" rel="noopener noreferrer">Read the source ↗</a></article>').join("")+'</div>'}
+function render(){const arr=visible();$("count").textContent=arr.length+" of "+state.cases.length+" reviewed cases";$("empty").hidden=arr.length>0;$("results").className=state.tab==="cards"?"cases":state.tab==="table"?"":"";
+if(state.tab==="cards")$("results").innerHTML=buildCards(arr);else if(state.tab==="table")$("results").innerHTML=buildTable(arr);else if(state.tab==="evidence")$("results").innerHTML=buildLedger(arr);else $("results").innerHTML=buildStory(arr);
+$("results").querySelectorAll("[data-case]").forEach(b=>b.addEventListener("click",()=>{const id=b.dataset.case;state.open.has(id)?state.open.delete(id):state.open.add(id);render()}))}
+function reset(){["search","industry","outcome","year"].forEach(id=>$(id).value="");$("sort").value="newest";render()}
+function csvField(x){return '"'+String(x??"").replace(/"/g,'""')+'"'}
+function exportCSV(){const cols=["company","title","industry","function","outcome","metric","metric_label","confidence","source_type","date","reviewed_at","summary","evidence","risk","source"];const rows=[cols, ...visible().map(c=>cols.map(k=>c[k]||""))];const csv="\uFEFF"+rows.map(row=>row.map(csvField).join(",")).join("\r\n");const url=URL.createObjectURL(new Blob([csv],{type:"text/csv;charset=utf-8"}));const a=document.createElement("a");a.href=url;a.download="ai-in-the-wild-reviewed-cases.csv";document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),3000)}
+async function loadCases(){try{const r=await fetch("./data/cases.json",{cache:"no-store"});if(!r.ok)throw Error("Case dataset request failed ("+r.status+")");const d=await r.json();if(d.schemaVersion!==1||!Array.isArray(d.cases))throw Error("Dataset schema mismatch");const required=["id","company","title","industry","function","outcome","confidence","date","summary","evidence","risk","apply","question","source","reviewed_at"];const ids=new Set();for(const c of d.cases){if(c.review_status!=="approved"||required.some(k=>typeof c[k]!=="string"||!c[k].trim()))throw Error("Unreviewed or incomplete case");if(!["Positive","Mixed","Negative","Unknown"].includes(c.outcome)||!/^https:\/\//.test(c.source)||ids.has(c.id))throw Error("Invalid case status, URL or ID");ids.add(c.id)}
+state.cases=d.cases;state.reviewedAt=d.reviewedAt;$("total-cases").textContent=state.cases.length;$("sector-count").textContent=new Set(d.cases.map(c=>c.industry)).size;$("function-count").textContent=new Set(d.cases.map(c=>c.function)).size;
+$("review-date").textContent=formatDate(d.reviewedAt);$("footer-date").textContent=formatDate(d.reviewedAt);fillSelect("industry","industries",[...new Set(d.cases.map(c=>c.industry))].sort());fillSelect("outcome","outcomes",["Positive","Mixed","Negative","Unknown"].filter(v=>d.cases.some(c=>c.outcome===v)));fillSelect("year","years",[...new Set(d.cases.map(c=>c.date.slice(0,4)))].sort().reverse());renderBars("outcome-bars",countBy(d.cases,"outcome"),"outcome");renderBars("function-bars",countBy(d.cases,"function"),"function");render();
+}catch(err){$("load-error").hidden=false;$("load-error").textContent="The reviewed case library could not be loaded: "+err.message;$("count").textContent="Unable to load cases";}}
+async function loadHealth(){try{const [r,a]=await Promise.all([fetch("./data/discovery-health.json",{cache:"no-store"}),fetch("./data/assessment-health.json",{cache:"no-store"})]);if(!r.ok)throw Error("Unavailable");const h=await r.json();$("lead-count").textContent=Number.isInteger(h.totalCandidates)?h.totalCandidates:"—";const name=h.status==="healthy"?"Research feeds responding":h.status==="degraded"?"Some research feeds unavailable":h.status==="not_run"?"Research pipeline not yet run":"Research status unavailable";$("pipeline-status").textContent=name;$("source-status").textContent=h.status==="healthy"?"Source checks operational":h.status==="not_run"?"Discovery not yet run":"Source status: "+(h.status||"unknown");$("pipeline-checked").textContent=h.checkedAt?new Date(h.checkedAt).toLocaleString():"Not yet run";$("pipeline-pending").textContent=Number.isInteger(h.pendingReview)?h.pendingReview:"—";$("pipeline-sources").textContent=h.status==="not_run"?"—":(h.sourceSuccessCount??"?")+"/"+(h.sourceTotal??"?");
+if(a.ok){const j=await a.json();$("assessment-status").textContent=j.aiConfigured?"AI extraction configured":"Not configured"}else $("assessment-status").textContent="Status unavailable";
+}catch{$("pipeline-status").textContent="Source status unavailable";$("source-status").textContent="Status unavailable";$("assessment-status").textContent="Status unavailable"}}
+["search","industry","outcome","year","sort"].forEach(id=>$(id).addEventListener(id==="search"?"input":"change",render));
+document.querySelectorAll("[data-mode]").forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.mode)));
+document.querySelectorAll("[data-tab]").forEach(b=>b.addEventListener("click",()=>setTab(b.dataset.tab)));
+$("reset").addEventListener("click",reset);$("empty-reset").addEventListener("click",reset);$("export").addEventListener("click",exportCSV);
+loadCases();loadHealth();
