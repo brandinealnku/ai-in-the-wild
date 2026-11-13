@@ -237,6 +237,35 @@ def baseline(candidate, reason):
         "suggestedCaseSummary": "", "studentLesson": "", "professionalApplication": ""
     }
 
+def proposed_case(candidate, report, references):
+    """An editor-ready case proposal; explicitly NOT a publishable case."""
+    metrics = report.get("numericClaims", [])
+    first = metrics[0] if metrics else {}
+    return {
+        "id": "draft-" + candidate["id"],
+        "company": report.get("organization", ""),
+        "title": candidate.get("title", ""),
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": report.get("reportedOutcome", "Unknown"),
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": (candidate.get("publishedAt") or "")[:10],
+        "metric": first.get("reportedValue", ""),
+        "metric_label": first.get("unit", ""),
+        "summary": report.get("suggestedCaseSummary", ""),
+        "evidence": report.get("sourceAssessment", ""),
+        "risk": "; ".join(report.get("riskFlags", [])[:4]),
+        "apply": report.get("professionalApplication", ""),
+        "question": report.get("studentLesson", ""),
+        "source": references[0]["url"] if references else candidate.get("discoveryUrl", ""),
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": ["Review sources and exact excerpts", "Find independent evidence or document its absence",
+                     "Verify all metrics and denominators", "Confirm deployment status and business relevance",
+                     "Check licensing and editorial accuracy", "Manually approve before publication"]
+    }
+
 def assess(candidate):
     original = candidate.get("discoveryUrl", "")
     if not KEY:
@@ -246,6 +275,7 @@ def assess(candidate):
             "model": None, "accessibleSourceCount": 0, "sourceReferences": [],
             "relatedResearchLeads": [], "retrievalWarnings": [],
             "assessment": baseline(candidate, "AI extraction disabled: configure OPENAI_API_KEY."),
+            "proposedCase": proposed_case(candidate, baseline(candidate, "AI not configured"), []),
             "publicationBlocked": True,
             "disclaimer": "Unapproved research draft; no evidence assessment was performed."
         }
@@ -297,7 +327,7 @@ def assess(candidate):
         "accessibleSourceCount": available,
         "sourceReferences": references,
         "relatedResearchLeads": links[:6], "retrievalWarnings": errors[:12],
-        "assessment": report,
+        "assessment": report, "proposedCase": proposed_case(candidate, report, references),
         "publicationBlocked": True,
         "disclaimer": "AI-generated, unapproved research draft; quotes are checked against downloaded text but independent verification and human review are required."
     }
