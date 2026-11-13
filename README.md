@@ -40,3 +40,15 @@ No discovered or AI-assessed candidate is published as an approved case automati
 ### $0 assessment configuration (Google)
 
 Use [Google AI Studio API keys](https://aistudio.google.com/apikey) to create a key in a free-tier project without billing linked. Add only `GEMINI_API_KEY` under GitHub Actions repository secrets. The pipeline permits only `gemini-2.5-flash-lite`, processes at most two draft assessments per run, and never switches to a paid model. Free-tier quotas may change. If a key is absent or a free-tier limit is hit, the dashboard stays available and case publication remains blocked. Free-tier submissions may be used by Google to improve its services; use public sources only.
+
+## Research Intelligence Studio redesign (Nov 13, 2026)
+
+Design brief: benchmark patterns supplied from Observable, Exploding Topics, Our World in Data, CB Insights, Similarweb, The Pudding, Gapminder and Climate TRACE. This implementation applies the patterns, rather than claiming affiliation or copying their interfaces.
+
+**Implemented:** editorial hero, compact sourced signal cards, two linked distributions (outcome and business function), global industry/outcome/year/text filtering, separate Student and Professional interpretations, four views (Case cards, Compare table, Evidence ledger, Briefing), CSV export, and visible research/assessment pipeline health. All plotted counts come from approved records in `data/cases.json`. Changing filters coordinates the four research views; clicking distribution bars applies a related filter.
+
+**Interpretation:** counts are library coverage, not measured business success rates or trend magnitudes. We do not graph mixed-unit reported metrics together, infer business-ROI totals, generate fake growth lines, or treat discovery candidates as approved use cases. Source dates and limitations are part of every record.
+
+**Deferred:** saved research workspaces, natural-language semantic search, continuous trend curves, and one-click branded reports; those require evidence-quality and repeat-use validation before development. The previous eight-case evidence data and unapproved research queue remain unchanged.
+
+**QA:** `node --check app.js` and `node --check review.js` are now included in CI, alongside existing Python validation. Browser/device usability and GitHub Pages published-build verification remain release checks; committing source code alone is not proof of a successful deployed UI.
