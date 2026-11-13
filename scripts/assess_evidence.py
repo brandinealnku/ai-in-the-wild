@@ -202,6 +202,10 @@ def validate_report(report, docs):
         if not isinstance(report[k], list):
             raise ValueError("Invalid array field")
         report[k] = report[k][:12]
+    for kind in ("unresolvedQuestions", "riskFlags"):
+        if not all(isinstance(v, str) for v in report[kind]):
+            raise ValueError("Untrusted AI list contained non-text items")
+        report[kind] = [v[:350] for v in report[kind]]
     for kind in ("numericClaims", "supportingEvidence", "contradictoryEvidence"):
         for item in report[kind]:
             if not isinstance(item, dict):
