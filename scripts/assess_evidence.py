@@ -296,7 +296,10 @@ def run():
     queue = load(QUEUE, {"candidates": []}).get("candidates", [])
     existing = load(OUTPUT, {"drafts": []})
     old = {d["candidateId"]: d for d in existing.get("drafts", []) if d.get("candidateId")}
-    pending = [c for c in queue if c.get("status") == "needs_review" and c.get("id") not in old]
+    pending = [c for c in queue if c.get("status") == "needs_review"
+               and (c.get("id") not in old
+                    or (KEY and old[c["id"]].get("status") in {"needs_configuration", "assessment_error",
+                                                                 "insufficient_source_access"}))]
     drafted = 0
     for candidate in pending[:MAX_PER_RUN]:
         draft = assess(candidate)
