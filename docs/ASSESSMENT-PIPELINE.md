@@ -3,7 +3,7 @@
 Workflow: daily candidate discovery → related coverage search → retrieve up to three accessible article pages → AI extraction (optional, API key required) → validate verbatim evidence excerpts → unapproved draft record → human reviewer.
 
 ## Setup
-In repository **Settings → Secrets and variables → Actions**, create `OPENAI_API_KEY` (the secret is never placed in the source files). GitHub Actions uses `gpt-4.1-mini` by default, overridable using an environment variable. The OpenAI API can incur usage costs. Each run assesses at most three candidates by default, capped at five with `ASSESSMENT_MAX_PER_RUN`. No AI is called when the key is missing; drafts are explicitly marked `needs_configuration`.
+In repository **Settings → Secrets and variables → Actions**, create `GEMINI_API_KEY` (the secret is never placed in the source files). GitHub Actions uses `gemini-2.5-flash-lite` by default, overridable using an environment variable. The Google Gemini API can incur usage costs. Each run assesses at most two candidates by default, capped at five with `ASSESSMENT_MAX_PER_RUN`. No AI is called when the key is missing; drafts are explicitly marked `needs_configuration`.
 
 The job is tied to the daily discovery workflow and can also be started manually from Actions. **Source access may be blocked** by paywalls, Google News redirection, bots or publisher controls. If sources are inaccessible, the draft is `insufficient_source_access` and does not make substantive claims.
 
@@ -21,3 +21,10 @@ Inspect draft source material and verify against current primary sources, manual
 
 ## Operational limitations
 The current workflow is a research prototype. It does not guarantee all relevant businesses or sources are found, and inaccessible articles do not provide negative evidence. No evidence quality score or formal source independence test should be assumed. Production hardening should add a private review interface, robust article access via permitted APIs, budget monitoring, and longer-term retention policy.
+
+## Cost protection
+
+1. Generate a Gemini API key in [Google AI Studio](https://aistudio.google.com/apikey) under a project shown as **Free** with no billing linked. Do not upgrade the project or link a billing account. Store it as the Actions repository secret `GEMINI_API_KEY`.
+2. Model is allowlisted to `gemini-2.5-flash-lite`, and daily assessments are capped at **two**. On free-tier exhaustion, no fallback is attempted. Rate limits and model eligibility can change; verify under your Google account.
+3. Google notes that free-tier API content **may be used to improve its products**. Only send publicly available content; do not submit confidential, student, or client materials. The public repository already stores research pointers and unapproved drafts.
+4. If no key is configured, the repository still discovers candidate stories without AI and labels assessments `needs_configuration`. This is a legitimate zero-API-cost mode.
