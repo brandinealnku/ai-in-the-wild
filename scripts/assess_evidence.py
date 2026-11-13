@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Create unverified, source-linked *review drafts* from discovery candidates.
 
-AI optional: OPENAI_API_KEY enables bounded LLM extraction; without it, drafts
+AI optional: GEMINI_API_KEY enables bounded LLM extraction; without it, drafts
 are marked needs_configuration. No draft can publish to data/cases.json.
 Public repository: never store raw article bodies, secrets, or prompts with keys.
 """
@@ -26,8 +26,10 @@ OUTPUT = ROOT / "data" / "assessment-drafts.json"
 HEALTH = ROOT / "data" / "assessment-health.json"
 VERSION = 1
 MAX_PER_RUN = max(1, min(5, int(os.environ.get("ASSESSMENT_MAX_PER_RUN", "3"))))
-MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
-KEY = os.environ.get("OPENAI_API_KEY", "")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+KEY = os.environ.get("GEMINI_API_KEY", "")
+# Never fall back to any paid provider: no key = no AI calls.
+MAX_PER_RUN = min(MAX_PER_RUN, 2)
 REQUEST_TIMEOUT = 18
 
 def now():
@@ -159,29 +161,37 @@ Do not equate a model-generated analysis with independent verification. Empty ar
 Be conservative and concise."""
 
 def request_ai(candidate, documents):
+    """Use Google Gemini free-tier project. Never invoke a paid alternative."""
     if not KEY:
-        raise RuntimeError("OPENAI_API_KEY not configured")
-    data = {
-        "model": MODEL, "temperature": 0,
-        "response_format": {"type": "json_object"},
-        "messages": [
-            {"role": "system", "content": SYSTEM},
-            {"role": "user", "content": json.dumps({
-                "candidateTitle": candidate["title"],
-                "publisher": candidate.get("publisher"),
-                "sources": compact_evidence(documents),
-            }, ensure_ascii=False)}
-        ]
+        raise RuntimeError("GEMINI_API_KEY not configured")
+    payload = {
+        "systemInstruction": {"parts": [{"text": SYSTEM}]},
+        "contents": [{"role": "user", "parts": [{"text": json.dumps({
+            "candidateTitle": candidate["title"],
+            "publisher": candidate.get("publisher"),
+            "sources": compact_evidence(documents)
+        }, ensure_ascii=False)}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "temperature": 0,
+            "maxOutputTokens": 3000
+        }
     }
-    raw = json.dumps(data).encode("utf-8")
-    req = Request("https://api.openai.com/v1/chat/completions", data=raw, method="POST",
-                  headers={"Content-Type": "application/json", "Authorization": "Bearer " + KEY})
-    with urlopen(req, timeout=60) as res:
-        result = json.load(res)
-    output = result["choices"][0]["message"]["content"]
+    allowed = {"gemini-2.5-flash-lite"}
+    if MODEL not in allowed:
+        raise RuntimeError("Refusing unsupported model: free-tier allowlist only")
+    url = "https://generativelanguage.googleapis.com/v1beta/models/" + MODEL + ":generateContent"
+    req = Request(url, method="POST", data=json.dumps(payload).encode("utf-8"),
+                  headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
+    with urlopen(req, timeout=55) as response:
+        result = json.load(response)
+    parts = result["candidates"][0]["content"]["parts"]
+    output = "".join(part.get("text", "") for part in parts)
+    if not output.strip():
+        raise ValueError("Empty Gemini response")
     report = json.loads(output)
     if not isinstance(report, dict):
-        raise ValueError("Model output must be a JSON object")
+        raise ValueError("Gemini output must be a JSON object")
     return report
 
 def validate_report(report, docs):
@@ -278,7 +288,7 @@ def assess(candidate):
             "assessedAt": now(), "status": "needs_configuration", "reviewStatus": "unapproved",
             "model": None, "accessibleSourceCount": 0, "sourceReferences": [],
             "relatedResearchLeads": [], "retrievalWarnings": [],
-            "assessment": baseline(candidate, "AI extraction disabled: configure OPENAI_API_KEY."),
+            "assessment": baseline(candidate, "AI extraction disabled: configure GEMINI_API_KEY."),
             "proposedCase": proposed_case(candidate, baseline(candidate, "AI not configured"), []),
             "publicationBlocked": True,
             "disclaimer": "Unapproved research draft; no evidence assessment was performed."
@@ -309,7 +319,7 @@ def assess(candidate):
     available = len(documents)
     if not KEY:
         state = "needs_configuration"
-        report = baseline(candidate, "AI extraction disabled: configure OPENAI_API_KEY.")
+        report = baseline(candidate, "AI extraction disabled: configure GEMINI_API_KEY.")
     elif not documents:
         state = "insufficient_source_access"
         report = baseline(candidate, "No accessible full-text source was retrieved; do not infer facts from headlines.")
