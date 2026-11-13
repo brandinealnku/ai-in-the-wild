@@ -30,7 +30,8 @@ jobs:
           python3 scripts/validate_discovery.py
           python3 scripts/validate_cases.py
           python3 scripts/validate_assessments.py
-      - name: Commit review queue and source health only
+          python3 -m unittest discover -s tests -p 'test_assess_evidence.py'
+      - name: Commit unapproved discovery and assessment records only
         run: |
           if git diff --quiet -- data/candidates.json data/discovery-health.json data/assessment-drafts.json data/assessment-health.json; then
             echo "No candidate or health changes."
