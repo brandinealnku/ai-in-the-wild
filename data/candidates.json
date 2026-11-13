@@ -1,5 +1,2470 @@
 {
   "schemaVersion": 1,
-  "lastDiscoveryAt": null,
-  "candidates": []
+  "lastDiscoveryAt": "2026-11-13T19:52:29Z",
+  "candidates": [
+    {
+      "id": "candidate-51864669871b22f7",
+      "title": "The Deployment Failure Holding Back Your AI Investments",
+      "publisher": "Harvard Business Review",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1pxaUxxUzN6MWdwZnA2aTdITmR2RUZDTlpXZG00aWF0ODc1aVZLLURqTnlDbURCRjRRTmZoa05yeDFRRDdtTnlmdEN2dEJFRmRWYUNRS0NSZTVfVUZRa3NZU3NQTUxiVzVSY2hsVFduczZxcWlwbThHa2UxSF9JUG9nQllSZw?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-337a667e4f0a3c3a",
+      "title": "SambaNova and Emergys Partner to Accelerate Enterprise Agentic AI Deployment",
+      "publisher": "SambaNova",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFM1SWpWQi1pNDA5UDBzSW9qVnlDZGFLVkE0ajc3eWdWQkdvTUN4NHV5VjR2V2JORDBvMnJnOEt4bVFJdzFWVFhSTFZOaFY3ZE1IeWFRYm9aY2d6U3d2M1JvZHhoWXZBZmdKdVVWMzJrc1ppUG5wVnQzYTdEY0NJZlBkelBCeUZFTWNHUHZsdTNqQmpKOG9SNUlVcTNzQ1NLcndXeU1n0gG2AUFVX3lxTFAxNE9vemx3Q1E5Ym5zUmRRWDQ4MkJuNFJpYWpKaWNqYkdnUk9fN2ZrbV82MWVMMVJDel9faW1vYW4zZF9pN2V1Z2ZJLThIRzd0WU9rZjA0b1RlakthQzVsYzFFYVlRbEpTSk5YNkttSXU3b19NVExtNFRtME1xVl9DNDQ5MERaeW10T0RfQ2U2Wm84aDRJVVJQRlJGTkpCMXR0OHdidjQ2TFNjbUR1U0hHTy1kbmhB?oc=5",
+      "publishedAt": "2026-10-29T22:09:06Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-449c981b01146069",
+      "title": "Insight Enterprises fast tracks AI deployment",
+      "publisher": "Channel Dive",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHk1VXVYTTRzLXhCamg2UTE4Q2JkVHRGZTVEVnhkU3cxZkktVVVGeHpVMXBrTTNSVUM1VDdpeDM1RVdWNHZ6dzRxM1VhaV9CWlFfX1BDM0s1d2g3RDA0ZUhzUlVPWHZFdDZxYWdXNzBlRVJMV0s2VF9tMmtnTk1Qd2o1cXVOcWcyejFmLW9MUHdpQms?oc=5",
+      "publishedAt": "2026-11-09T22:01:03Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-07b77349f41c3f5d",
+      "title": "Nokia advances AI-RAN toward commercial deployment and physical AI, launches sovereign agentic AI platform for telco autonomy with NVIDIA",
+      "publisher": "Nokia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDJJWEg0cHZuQzFHbTdfOHE0X2tGNERvbUZWT1dYNkZGRDhOQ0RTTFhLS2lFZ0ZGekpfRFgxUWY0QnBzeEVaS3FwaWEtYUtvVGJfczk1ZUQzdUV1VWo4ZTVOdTRkckJpZHV0dnZZZGhWMl9salBFTlo1TmRVVVhhdDgtVnc0c3FzVXVUQXlLOWFaZ1ZHRDBZeWF6N1lUM0FULWpaeVhwcDhCT2FxVml2YUxnQTBEXzl6VHZya2NBWXVZQTVJTGs3LU9qbHQ3WXc5VGFMZWhRU2xqZWFRd1NYdVpqcVJuN1ZqMGs4dGQ1ZzItVjNFdmVIQVJHbDM?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-52db6367eb9d4b82",
+      "title": "monday.com Unveils Frontier to Drive Enterprise AI Deployment and Consumption Growth",
+      "publisher": "TradingView",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNU02TjFSMmpDZl9pYWJteklfMi1KRG5mRDZ0M2dDQnFsQ05jRlRwVFhWWVFkWmx1c21YM2FSMnp6ZzNnWUYzN1ZQWEtJWXZ6eEU0UDlITTRJYUM2NnhXbTE3UWYzckxHdzVEOFBEeTFzWlpLd0NSMTk3blRwaWRNOXYwQmJFazNUVDNNS2Nhd1NPUFVUQ2YxZWtqcTkzc09zdmNEV1gySERid0I0cmk4bC1wMGZlRnZrdFZTLW41cEh6MzN5dG9RVnZ1X2Vxd3licHlITVZ1M2U1cWM5?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4a9ccbaa0d41508d",
+      "title": "Autonomous agents need deployment experts to pay off",
+      "publisher": "SiliconANGLE",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWZiR1ZxX0tKa2VQSUMzVjA4c2h4Znk3Y0lISnVEUDlQa2d3WWNUQ0FNVUw1WURLN0c5YjVjLXNqQkc5cDV0TG1vXzl6TnlYSXd6NUN0cC12Ri02eGpmYkdQZkhvTmt2N1duaDRRVkhBNnZ4ZUl3MG5LNDlVOTkzWGdVcTJJbVpqN3lJeFN3WG9wZHpEWWpxRFRUWmFLdEZnSGc?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-31e86a32a75de18c",
+      "title": "Enterprise AI Adoption: Investment, Deployment, ROI & Business Impact",
+      "publisher": "Beinsure",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hYm54S0lFLXJ3RXRDcW5zVktoc2lVeVZMM2NBaEJwakJ2NGR0OEdpNHNZV3pzaEFOS3IwQ3EwUDRRSFpMOE9XTV9UUVZPbEtMa19wbjVadw?oc=5",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ea35369ea62beda8",
+      "title": "Cloudflare’s AI Workspace Platform Partners with Leading Applications and Deployment Teams to Make AI Productive in the Enterprise",
+      "publisher": "Cloudflare",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOEczQW9mVlRZcEhLdGg0NHRzdVQwNFNIZzVRdTlzVzlya0Y5Qk93U3p5bkE1c0pLbG9oUVZZR2tNdEFrNEw1aXJ4blpYMklpblpfaXRDT0VQN05GWTNROGZNMURpMllZQmxvS1dfS21CRmJONmNuQWU5dENhUnRCbFQ2UC1DeW5RZTN6MnFaWHgxVEtoRGFxUno1MWRHMnhqZUQ2T3RQd3g2dzdIRi12RUhSODF6My0tdkZ0ZHpDN1o3UGoyU3hVWHBrblRQTGltZkFhdTZnUmx0dmlFTUVSSE9zOGJTZlBBZmpuNjQtVEZNTERXVTAzQ3hCLWxpUHZ6elk5a3NSSjNQbFl6YjBRTw?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c6383f132f74a1f6",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "publisher": "OpenAI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ea348605f8465243",
+      "title": "MBody AI Doubles Deployment at Major Northeast Casino & Entertainment Destination",
+      "publisher": "markets.businessinsider.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMER3THlYRGhkaHpWSkRZdGVCTDFzbmNnUjFObGpPZ3kzRlBXaDdsVFBiRGpuc1hPeU5DQmNHMnlNM3B3M1dBNmlEUU5FbTdqMVhxOVRRLVdxMDl4NDgySkxFcXZZT0dDZGh2SHJhdFRFR3QwUDN0ZHJLbHVITFdWSzNXdGIyUWwtYU9zbHY5cURkS0RWcHAzd2pDbG8tTTkzRTJ5MXYxSUIzZjBkeWtOTlBkUzJHZzRldklpQWJNLTcyM0xhVmRxM1U0VzkxcFNCRkZqSA?oc=5",
+      "publishedAt": "2026-11-05T14:41:33Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c191f17f4eb14523",
+      "title": "AuxoAI Raises $20.7M Series A Led by NTTVC",
+      "publisher": "KARV Tech Insider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWQ2eGdaRW9TQlBpbV9mcS1FZ1gxM211VUY2N3BnX294bWMzMzVBTG8tVHV6U1BsUGNCSmhlR2RzZThnWklMelptV2NtMHMtQ2FRaF9rY0tPSHFwb25PUUVsVGhVWnF5NE9qWU1XREZKa2VTUUFSbWdNVWVwSUk2eXZwbWU0VlIyc3E3dms0RS1OQQ?oc=5",
+      "publishedAt": "2026-10-24T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-270a38de94d4cafa",
+      "title": "Brennan named OpenAI Select Partner to boost AI deployment",
+      "publisher": "IT Brief Australia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2dLMlpVYXlLWHFWZDhPOU1tVDY3aVpwdmhNWEkwcUItVWJYc185R0hUSmIxQmplSHE2UWx5ampSMHl5dktpZl94LUJEa3EwYmVRTzFURExIZ0o5d2Fwa3hXXzU3RVBlRkdwckE2NVFXYm93UGstVE1ETjJHaVFDWjlvU295SmttV3pTQzNtZDQ?oc=5",
+      "publishedAt": "2026-11-04T22:30:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-67d842e76ebfe24a",
+      "title": "Crédit Agricole joins forces with leading European players to accelerate",
+      "publisher": "Crédit Agricole",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ0pfcWtKUHE1S1c3aWk0Rm0tOVRXNFBvamJXZjN6STlWRjk3VU5sbHgzSzcyc1NQRjByNkUxb1dZVFliUFhLUUN5M1M0NjRGOFB0T0tabkdJclI4NTFVSmN1cTV4OXI1d1RyU1ZuWkVUQVNBdjNYTjZFaFhnbVh0aWRaOHVhcVBFV2hRWUtjNm5nQTVNdXlYN3VJNWFXeFRTeG5HODFiYk5rVGFZZjh3MTVPRnh5bG9TQkE3R3pXcVdNal80ZlZrWWlGNTlma2NDUU12Q1BkQ0dJSXZ0YjlUdjNTaEVDSzVEQXVpcERpZnFKbVA0Z3VBNlZHc0RsVEI3cG05akppWmhudjhIbVU1MUtfWmN0V2hVQmFHRlBPVlZvTjA?oc=5",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f00901ca97d7dcb7",
+      "title": "Dubai Future Foundation launches AI Sandbox to accelerate commercial deployment",
+      "publisher": "Fast Company Middle East",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2JJekdwckdHNE1GOGw4X1RqdjlSZWV0QzhNVXQxLWxNWUR6SkF0MFJRRlJNNmZ0VFI0blhRZWVpc3BzZmc3WUpqZzJ5NTBGRDI5UGo4VHFxR0g0YzlEcjlfTC1LT3F6MFdYbjJnc2Ftc2tLRUVobS1nU3hVMExfeno1YnhZN3AzUlRhS1Q3TmlBc0JQVFg2a2lualZLYXU5Zl9FNTJxMkJmTXV5ZEkyMA?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3c5555b8122952b1",
+      "title": "Peter Sarlin's PostScriptum acquires majority stake in AI deployment company Brillian",
+      "publisher": "ePressi",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXJjYkI1LVBIMVg1SmlubEFKYnl2ak02NlFJeVR3a250clFWbURYQ1hrLTF2WXhyeEFHNTgtWk9MaDBsVzcycEl6VU9SQTZtckdZNWtZMUVZUlFIcWdSdTNxTU81aXBQcF9PM2h0VG9MMXdxdUJKNFhIbEJDTkpzX1lHSjdBQWVtUjdVUU9mazVocE5ja2xKNEFXUHdsaDR4NlRCODQyaUxQZ0l1elRQWGJPWEJXM2YzV1luLVBtZTltaXo3N2NXbTllWQ?oc=5",
+      "publishedAt": "2026-11-13T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-62ed7e3ab27da613",
+      "title": "India set to become Krisp's largest voice AI deployment market: CEO",
+      "publisher": "Business Standard",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGZXbmxGMTROSlVweDVsamFWYTZkOUhTS19CM3NDUmVNV3ZmR0JWMU9UZl9UX0s4Yzh1Q1hnX3kxU2d0bU14U2t4bzVTSGl0NFdWN29oSTVRVFBHd0pPc2JmMXN2eU9UMk91SUdfTFNaMEV6T1phZXhFdXNpMklaQ2ZDZE1iOG5nSjYtbHFRcXVOV2hKTEhvQXhmWW43U00yWnV3LTdaTjh4ZzBjZ0Vwa2FzQXEzLVVlZU4yNDdzYWR0UXN3QlVaN0ZlYVg0Yjg10gHWAUFVX3lxTE9KQ0QxRHhZWlpOTWk1MW1xSkwzaGpITk12cUgxamVJSG9hT3djSEhHLU5sTGV4REhwaDJVM1hTZHBGNktvUEpsSlpMcHdXV2xEeFVqajFkNHpxRVVQd1NKZnZqZXZjMU5xMk1GOHFhTll0UWpTN1JvTHd6LTRDOHY0dks2TlJiSm1JQzkwRWhTSWpXbGFEMW40Mno4UEVSRjYtZTNWOTlfc3RyakRkSFA3M092RzdDbDdyNTF5VFBHLTlXZEdTVFhGS05QLXlnWklDamMyUkE?oc=5",
+      "publishedAt": "2026-11-11T12:40:08Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f0281934b1ddb2be",
+      "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
+      "publisher": "Business Insider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE?oc=5",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-019be7f989b77f86",
+      "title": "NiCE Launches Next-Generation NiCE Cognigy to Accelerate Enterprise AI Agent Deployment and Orchestration",
+      "publisher": "Business Wire",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXZoVG84d29SMms5TE95eU9UV2l3SkVUNS1qclczSG9vQTc1RUhKaUlMZXdpT3RNSzVCU1cxSC00YVRTbkdyeGctUHltTGJmQ3NrdXhfRmZuSUhmWVBIcGdxUTlUcXhWMHYwdGFYdkRWbzJjV3U1LTh4ZERCREp6M3pKNGd2WkJFS2I2SmtfQnUzVUFJUG14VEFMekg5VkFoS0RGVENCX2JiemFDdnJjWnBQZWRtdUFaT0ctV1ZIMG1MdDEzQ2hqVEpsQnhpRk8tZ1hDQ3RDUC1WbkhyNi1VWTRuM3gyX0R5cnNHd0JieEVJRkxI?oc=5",
+      "publishedAt": "2026-11-12T13:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5c4de2b20cf8e0f3",
+      "title": "Peter Sarlin’s PostScriptum acquires majority stake in Brillian to accelerate global growth",
+      "publisher": "Tech.eu",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtY2hES1Y1Y0NSSEVMakdfdzNOOFhfSFhlV1hFcmdoejVTQU1CNjZuazROWHpUN3RoeDZRMV9qY0NJUUxvSUkxQzE0c0dOVnRQb0d0VnEzaVYtZkQyN0FFNlpnODF3SVBsU1loNEVvQUI4N2laWXNfajNWVG1GSHVOR2pfRndZZ2VuWlIwUmN0ZVZmY1BzZ1FFUy13ZVVNU3hybGFEUjAxVHJvT3pyVkJCVThxOFVnb2c?oc=5",
+      "publishedAt": "2026-11-13T09:25:37Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-da4158ec0b5294fe",
+      "title": "Study Finds AI Deployment Leaders Now Earn Executive-Level Pay",
+      "publisher": "MacTech.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmpkVktwZ0Y4ODJwemVOd3hYbk9kd080dS1wUEpVMUhfODJWNm9UUHMteGFaU2JoMEs5TEpaanUwWlBsZFJzb3pHejZvQ1V6Yzh4TXlhNm1vcm5EN1RTMWF0Nlhqa2ZUUUZfbEVjaGFlRXExdlNDNzJqbFpYeE90RXBGWEJkb1U1VFZ3ZHdabUxxbFRrcTJMWE41bWdIczA?oc=5",
+      "publishedAt": "2026-11-13T12:02:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4139d9b6d0130b3c",
+      "title": "BluWave-ai Closes $8.1M Series A-2 to Accelerate Deployment of AI in Electricity Grids and Electrified Transport",
+      "publisher": "Newswire",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnhySEVNNk9Ddnl0cmhTRV9VczRhcC1SWUdFTUxpcm1rRUhGY2VwZnJUMVVja00xYWpTcDlNU3cwSndRYzRJM2hSdkdsU1RZRHdqZl9qV3N5amJ5aWxSYVQ1Q2NhNE53dzI0Yy1MT3Jrc3JkdWhPMkhCcmVjX2lwVnRCX3JrLUpZMnBiNUc4Uk1NeGhLZGRrRXVtNWxOZTBBZ3FCTFN0UEk?oc=5",
+      "publishedAt": "2026-11-12T14:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a270a533e7fee39b",
+      "title": "AI in Insurance Market Size, Share | Industry Report, 2034",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNm1JTUNCU1NKcTdvcldMU1NvUWJxMlRBYTREMklUWWl2Nzg2Tks1NXcybFZEVVZwM2pUSWhzODBsUkhaYjIxZmllYzFaN0JnZ3JPUk5IUF9XS0x1MTN5djlwcXYwcHkzVHY0aTdUZEVMYS0xSC11aA?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-0406b84b684e04a3",
+      "title": "Former Tencent Cloud AI Executive Eric Muqing Li Appointed Co-CEO of Education AI Company Qimingdaren",
+      "publisher": "DagangNews",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNnJMZlpGLTVMRWpXSVNWbUZqZkc3QW5tWmZBMU93Uzd0TkJFeTdKZ3ZqQlBwNEw0bU1hcEtKc05HWkRyZXB2VFNZTDI5SFVWSE0yQm5iY1dUdkdlb0xXdmVlS3lDaDB0dThpVnY4Y3lQR1ctaDZpRG5iY3ZwcTd1SkxiejJMRGs1YWlzQkM1NFUxZFdLd1M2WEoxdEpJejMxNG84aFZfYW93QlZFblg4cWtwWW9PN1h2UDFzQm1CQmZ4RjY3anVWOGJTZEFpNW1HN0pnampoVWs2MExfcVpIQQ?oc=5",
+      "publishedAt": "2026-11-13T09:46:32Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-62ae337fa0d44176",
+      "title": "Tech Talk | Multiplayer AI: Moving From Individual Productivity to Team Results",
+      "publisher": "ADTmag",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVNaSmgxWWF1ZXNraF92SlpCRWxDb0hoVkU1M3VGemp4Rl9lcW41alEycGF3emtROEE2OXV2SF9GQlo0MDYyYUN6c3VqUU5ocmN2QkQwSUZEMy16Smx6SUJnc0ZUSGtQVm93RnJsLWhPekMzN3M0LXNNOTQyV2x0VDBfbHplM0plVWcxZ0Jnd0dIUXMyb0FPdE5qYXJPZVBPSmg1MjlvLW5xYXRxeU4xeGlrRW55ckVfN2swSnV4Q3RxcG96?oc=5",
+      "publishedAt": "2026-11-11T19:46:42Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e30787e490ecf588",
+      "title": "Companies are cashing in on AI productivity gains. Some bosses think workers deserve a cut",
+      "publisher": "Fortune",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlE0dzlIR0hSMWpXUENwUGtTRWVzZHRMcmg5OWx0MEdoaGxPTkJaclRYbnYxenYyRlZyR0FITkk5VkF4NGctVHN6T1JBemw3aXpkVmR2QTFXUXF4Qk5NVDlrRmh3VjBhZ2VqU0xremZ5dlFNa2dNaTRMaGVwU0FwcjZDUzc1QW5sVnJiNHFHMHplSlROMHdiS3RvRlI?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5fdb8a4bd06f0c0d",
+      "title": "Nice CEO links 500 job cuts to AI productivity gains, including in R&D",
+      "publisher": "CTech",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zck9GSWEtLWpjell3alRPeVVBdDRXY3MzWXQxMkpRdjhKZUplb01vbVRXNFd4X3dxWHZWVS1HSE5tYUh2NDNtWGRSRG8tLUNReHRreVZPYmRoOExLVWxfZnM5Z2pTMjQ?oc=5",
+      "publishedAt": "2026-11-04T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-dab699dc35979abf",
+      "title": "US Foods Says AI Is Generating $75 Million in Benefits, Slows Sales Hiring as Productivity Rises",
+      "publisher": "Distribution Strategy Group",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYW9PNldVeWdSczNrRWNYMjBibkVWdGFxY1FaQl93RmVtS3ExSU9rb1BEZ3JjSUJVaW1USDlneEo3VHdlOHptLVpFLV9pOWdRNlZqZ3Y1TThneExCb051ZlVzdHFZdmVUWjh6Wm5oTUZPbzJqZ1otOWEybWRaMFhBeXFPUUV6MHNvOWJjc18xdXZMSDRyTGd5dWNtenp1ZFNZM3h1bE9xMzN4c3U4RDdPZkxxT1NzV3hnNWRDVmQtWHdSUVZ1YjNwRF9ZMmZEYmc3RVE?oc=5",
+      "publishedAt": "2026-11-10T15:08:05Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-faae01ef9aa565c1",
+      "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
+      "publisher": "CNBC",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
+      "publishedAt": "2026-11-01T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a8a77143d7e3eba6",
+      "title": "AI Productivity Starts With Redesigning the Work | Opinion",
+      "publisher": "Newsweek",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdvek9vSk4yX2xvOEJPbEtLWHI1ZzdDZER6enA1UHBmcXpIaWhPZnZ5aWVzcjdERmljVVU3bktiRXFFYjRoMlAxZTV2eXp5NDJrTUllZUY4alJCVmRGNVYwVDB0ZWUxVERWWWtsRkJSeElwTUlXMzliNDdZZmRDcGNFbjNrc0xGSGd4OWtQdC1EcUFVWHdiSDRB?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d3a4b432b4c2dcc7",
+      "title": "Productive Individuals Don't Make Productive Firms",
+      "publisher": "Hebbia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnRIWjZQSTdCX0dCSi1TZmFyX2tzUVhxamJodzB0dG8wZ192VDdpR1lEV0swaVlfSndYMHlpOWNNTjBHWng2N2l5YWtoNDFIZG92ZDB4S2R1c3JyMUc3MTgzV29FTF93YXE5Sjhaa1RtUmhNNUxIN0UzOEZkUEM2WnNGdw?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c438c497900d5b73",
+      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
+      "publisher": "McKinsey & Company",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGMxZW9DUi1QOXoyd2N1Y3lnTTRBX25tanFkTFlNblVPSTU2YUhMOVBhbVc1em43bXNfRDlBWlpyeDRpOGh1djFGUGM1YW00a0RIRGYydHJJRGtlZGtKbURyTjIzd1N4OEZidTBET1ctVHJQUWxTZXBuQkZ2czFtakVjUHZDT05UNmpCYXlTOWFmOEo4Z3AwakFnY2Y?oc=5",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cad6ad67d7a4d51a",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "publisher": "TechCrunch",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEgzUThrQWlERjRZbTk4N25KSmhGNTZjelVUN0RDR00xS1hoYjYyekFDUFJ1a19wdVdVZlJMOEstbFZmbTVHR0RlQ3pZTUlkd1JMeVVRZUZEUm5YS3BNRFdrRVVCV0JDaEpuX08zVGstWmk1NDNpV1d4d0NmZnJwTTRyd3pIV01ZeFRoS3ZHSkxMd0NqTHN4VGNJdnpSUkRsYkNiUGFOMEpnMTRVMEZuOHFGcElqSE05RG4wbnhqSQ?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-613de9e20e7c7cfb",
+      "title": "AI in Hotel Operations: Productivity Gains and Frontline Challenges",
+      "publisher": "Hospitality Net",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMm5hOVRtN0E1VlFsYWk1N25sVGJKbTVVemxrN1JCenVFSGU4QmlvbElId3V6X1FabGxOREpwYVE4SHVuT3RjQTRZQVAzQ0VyQmx0aHlpenp1Q212UEJfTmNJcHNLOVN0TGZjOVZoTnVhQjVfRFNvX0ptV1h6OG1vWTBZeTduaUN3SGFfYkZCTDcxWjRnWEUtQ3Q1SWJjS2hTXzN2bzJtbHJqQzdXazY0?oc=5",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-471ac629a4ab1e4b",
+      "title": "Learnings from Earnings",
+      "publisher": "Goldman Sachs Asset Management",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KR0NvMWptNXZ1VDZwVWdzYjdUeWdGZU51Z0tjQllVWTlTXzFkQjRxMEd2OHU4RXFfdGZrcnAxYmlocXRLOGRrWWNJMWdKRE9qYzV2NERUdHJ6WG1sNVdqN2FLYnNiRDlmR2hUMHBrLWZjV3lsZ1pJRjk2bDhlQQ?oc=5",
+      "publishedAt": "2026-11-10T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b8806a582ff5f228",
+      "title": "The Enterprise AI Gap: Productivity, Agents and Security",
+      "publisher": "WSJ",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2l0OEhoZElJN3pHNWJsUlctZ0pjTkttSXp2bzJxQm5Kd0o2LVliaWwwYnBReTBRUDU1UlRwOGpPR0lnS3FzMHNkQllhQUlfM3d1UUtwUEpvN056MGdPLXJ1RFF1NEdsb0pVQTRidTdocXVTRFFNRTRlQmhfWm9KT3BRX0ozaktrVlg3eHNsX3ZPNkx3Q092Z25ZaDBFczZyaW1KYVNpMTBXS3VyaHlnM0NWQTNrYm5W?oc=5",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f3a8b33bdee81d6f",
+      "title": "Top AI Statistics And Trends: Updated For 2026",
+      "publisher": "Forbes",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-14c7b05fb50ed0a6",
+      "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+      "publisher": "The Guardian",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGtBREc5bkZGWEZuOWh1VFljWllKZ1FaUDM1eElQNFFfTFpkM2JqNzRxSzRlUnFQRUdITWNQM1NGMGxPN3lpdDd3cFZCbzB6OUVlUEJYWEN0bGhUYW5LckdlU1FVVlk5VHlsU01MNDg4SXFETFdXR1FBdDJ5bEROdHkzUzRGMmYzbVlTcjduR3M?oc=5",
+      "publishedAt": "2026-10-23T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5c99c639f8f2f16c",
+      "title": "Earnings call transcript: CGI posts stronger Q4 2026 results as AI gains build",
+      "publisher": "Investing.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ00zZEY2NXJoV1R6ajJtLWgyLTd4VEllUndjV1ZYYW5fWTBCZW9EMVNNWWlXVWZGTExJdUZuQ1MtVFJmTzFWckhJZ2pkbVZKbHRyU05RNlRMdVJ2cXhsVnY0RktyaDlYODZnQnhqWE1aY0lLX2RLeDdOLVlTTV96NkEyNEgxWDV1WDhQNFpLM1NkY0NTbmlpZzNlZ3VodTU3NlZaOGJzZWtBTFB0T0ZwS3VaTm4tczhiREFNTXpZNG5oYjZSTEVoYlhxZ2pWQQ?oc=5",
+      "publishedAt": "2026-11-11T15:18:16Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-299da2b02b6281df",
+      "title": "Individual AI Productivity Soars but Organizational Impact Stalls",
+      "publisher": "Business Wire",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVRUcFR1cElEeHFQTm1XN1JaR0hEbDZQTzNLdUtPa3daU3BpQVU5b1M1Rm9qb1psVEE4TUhxLTFCM29fX0NrZmhIYlNtdUxubmIwV0dNbjA0QUp2X0JOdU5vb0JSc0JJZDlJdnVpcEQzM0w2MlhsVS1IT3N1dmVVdzg2ZExVOUZ1RklRalFFRWVoeWV2RXl6aU5oaXlybUJodU04SVBDUHF2RG5sWXUzMm91SjNQSVVOYzBnZDBWYw?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f20cbe20b4eab613",
+      "title": "AI productivity gains should be shared with employees",
+      "publisher": "The Business Times",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkF2RktZcmJYb2FsTGtrQVN4YVBEaTlYSGJNOFdVY3I2ZWdmbmdURndJRGVmVlhoRjB5RWR0LXNpOFVOR0UzcjZkUFB6NUU4S1Jldk8wTm1mRENrNXE4VFhWbmlFcGpwVndkVkFqUmg2ZC16TlViV0taaFFjTnRfTmY1c05sNWItZmxmc2toRHlSVTladzFXYXRvNGI3aE0?oc=5",
+      "publishedAt": "2026-11-04T23:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8e9b6619ff1ccd53",
+      "title": "FF EAI Robotics Ecosystem (FFR) Announces 2026 Q3 Results, with Approximately $2.3 Million in Cumulative Revenue for Acquired Robotics Business",
+      "publisher": "TradingView",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQbVRwQVUtNDNRa01FbDc2a2toc1plZERITGhVVjdkWHI0NmZEaW55dkhqMVNfZE9iREZEcVhsVUJrdHV2STlXdmJ1aHo4Zmg2eXZzZTRwUzBkTGg1enhRRHRmQTROaExqT2JhMTNfRGhuNWwtVnJfOUpNX0M3UndSd0Fnb0RqV011V2hpYkFaM2J2LW5CbHhYVEtVb3h3WFdRTGViRHlhdU5XcjNWRkJBczIwTFFVQWJ0b19FV0V3Q1gyVkpmUW9saEZOMVhndm03c0RBYnRDa3JmdjluOFdUVzFMS1NVZFNERnJ2YlpvUklXcnNDXzNDTGw2Y01HSGNPR2V0UGpXZUxBenFDZUZQM3lqMjdicDlXUmRxRm1OSlpQNDZKelQw?oc=5",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4ad9ef58d5e67fbd",
+      "title": "What CGI Group (GIB) Said on Its Q4 Earnings Call",
+      "publisher": "TradingView",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3hONTJCNjdLVFNNOEhHZXBYRnlua2lOLXREcWxMV1JMUWhhYUNRMG54MG1MbGFKM05DdUJCZlBhREhHR0N3RUxqeE5KX2p3QjBnQTktQTRsN3Voc01aY3FUek5TLWFxUzBLbVJBMExuUVJFbW1vUDY0VmtEQ2lCYWd1d25SODNLak5hblFEcVJtdzJOdHBsaHY2Ujdabk5jamY0MThYR3NpYnd3?oc=5",
+      "publishedAt": "2026-11-11T16:15:39Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ff89a145f60c7ad6",
+      "title": "Earnings call transcript: Adecco Group tops profit forecast in Q3 2026, shares jump",
+      "publisher": "Investing.com UK",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV1IxYjkyTTlISnVQVllQSWc5UTRSU2xNVnZnYVJ6Ry1ld013VnZmN3hramVqZnc0S1dSOHJuTTltOUdmQ3NrVTRCRzMtNDhRS2FXY2d5Qnc2NHhHYWNrWHFWQTN2RkdfcUN0dE1lNVFOSzZRWkhUelExOFV4STBIMkhCdE1zWnNDbnlHVVl6REVuaFUyZS0wU2tfSmRRS2VBVnBsWEwwMkxDeDFOZllmWmFqeVZ0MTBFMTVtVVFMNE5UQkdKMGotMGxJQ19Yeml0c1F6ZktXcG5GZw?oc=5",
+      "publishedAt": "2026-11-12T09:50:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-210d94f9f71998fb",
+      "title": "An AI chatbot files for bankruptcy. Is it a bad omen for the industry?",
+      "publisher": "NPR",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTVTNldsSEdVamsxdmExY1NMQVpiaGd5YzJTb3h5MlE3MzRlLU5VTnRqRHBRMU9lZndHZ3JiT2Npd25ySkNJYXVnYVUzR2hLR01CaTlKS3pVMnpDdlBYS3I5bVk1MDJqSTFRa0ZzZGFVWnk3YjJrZVo5d0F2c3VqaXdGRlNPNjZ5N3NRYTZ6MlN1VHRNRXRhc0JVRXN0UjBRUUtsd21ocW15VEJCZEpCYVdfUQ?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-841a320df72b13f9",
+      "title": "Delta Just Replaced the Best Way to Get Customer Service With an AI Chatbot",
+      "publisher": "Inc.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanpDdjliV1pkRHZfUktjcC1FZl83MV9pVzFvdmdGNGM0aGRSVXYtMG0wYjNiOHI2WWFJX3hFNDBPR3JvWFFqcEtBc0lyQmVvUXlRVmx5c3N4OVJURGtmb3BZTUNKMXF6Wkc0TjJ2c1Nqal9ubV9rV1drY1VoUzlIYXVrRm5HcWExWnl6clYwdEJ0Nm43V3ZheWVmejlXamJ6aXEwZFZPVDNPZVdiQTFKN1F2OWlFdw?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b98df9176c1112c1",
+      "title": "Hochul signs bill to regulate AI chatbots used by minors",
+      "publisher": "Crain's New York Business",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlSNWN4dlhRc3l1V09mUE5jVW9zWDEwWXNFaWVMSUY5YlNQUS1VUWVOYUdrU0ZsR1B5RzU4aHVQbWhUZ29DdUw5SzNjTkg5ZnZxRkxBeW5Zc0dJaGY0QWNDc285N0FFRjRHLUVDYjBqd1dyZ0ZwUXZ1SE0tYlR6S3F4bG5lTXFiOVhQWl9oYXRjQTIwLUUwTQ?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-639497f30c2f55d4",
+      "title": "AI blunders: 10 famous failures from Tay to Google Bard",
+      "publisher": "qz.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zM2hqZGlXMGdOdGsxZ0RzRjI3T1ZRX1ViS041Y2R4dEdrU2lPcG5JUXhVUGpFZmlfYWY5eTRDTDhyaktZWDNWQ1lDWG82WXBO?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8a2fe219834272f3",
+      "title": "Explained: How ChatGPT and other AI chatbots actually work",
+      "publisher": "Ticker News",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmVNc2pUVk9WYW5aUlRJbHI1bUJoMURYY2RFUmpFZ1B0d24wMW1Jc0JDaEdVRGJLNm9MdE9obTh3VVBnWHJSdkZVTUpMeVdsX1hlOENiVGxHcG1wTTdXa2w1dkJXSU1yWkVtSWdxRzQtOGlzRms5bDBHaUE1bG9ZRWpnVTNDQTA?oc=5",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-769facac5f3367aa",
+      "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt",
+      "publisher": "Reuters",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0F0S042MGswT2lfTFJQd3hZTmdoU1hPZWhuSUVDNUhBdjRQTnRBWjJFRVdVaGNJeHVRNWN4M0hVUGVaNTVtNkU0ZFVOb2RQR2s4WkcwLWNFWXpIUEp4VWx3cTZIWFhWdWtIaUxlUlBoajhxSnZVU1VyWmJCYWItaG4wNENHMFdUTHpuS3NFcW5UUFVqczRxQk45Umh2Z2t0U25URUlMVUVjTGJ6Q1RidlFTbFlwbjlkT1Z0eEl6M3A?oc=5",
+      "publishedAt": "2026-11-05T21:09:24Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e02e9ddcabf15553",
+      "title": "Register Blindness: What a Failed Prompt Reveals About AI",
+      "publisher": "Fair Observer",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjc0SjltQTljbS1TdGN6MnJ0RWQzQTU5eE44VzN3NkhvWHNhQzM2QlZHTFJiRHYtWERLNU1TTkpqUzRYYUFzdWV0T1lIMVpDd01Pa3pONG9ib2t5ZkdlRUp3RVhKeklSUmplWFFHdjl3NmNmSU9LTU9uckd3NmNfb0Fzcnl3YkZDM0FYVXZEdTg3R2lqdzZVNUJaX2hIRm0x?oc=5",
+      "publishedAt": "2026-11-09T12:13:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-605443c1b4cfa0a0",
+      "title": "Disney Agrees to Hire Majority of Character.AI Workforce Following Chatbot Startup’s Bankruptcy",
+      "publisher": "AI Insider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUVSYW8tbmpzYlZLV2ZtWjgzcVZSNjF1dnpzNXU2Zk52N2k4bnpuUG9id0hhSFZTUUwwMjAxTHlzbFFhSWFEbmc2dm95QV9Ubko1RXJXc0tWQzl1NUtvcmlxdTFOU3ZvYmpETUtlLThDWU5teUlGVmc0RS03d0hjT0IzTHVJQjNBRzFxY1B2WEI5b1ZjeV9VRTVxcmd5VVB4M3FOM3dzUWhORkJBU2RRZUEwMWVtMzFvaURCeGliOGtGOGIzZElrZEYzT0k?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-608c5ef3a94d4b7a",
+      "title": "Proposed AI chatbot protections face revisions",
+      "publisher": "knoxradio",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXd4THZodE9SMUd6RDAybW1XZlNuN2kyQVB5UkJnLUhETzF6LUlOQVdPU2dLQ3RObFI0d0pWQ0NMaXhFYzR0Tk5xU1NzSlV0SFhObDlQRUhkeHZXa1hVNnRDV0hGRWR0c1MzVE55Q0RyM25DT3g1cWZlR040UDVzbEdXcHcwb00?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3fe47cc8e70a666d",
+      "title": "AI financial guidance needs caution and context",
+      "publisher": "WFTV",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1JXN0xBdnN6bEpSdmZNY013bnlVbkVzVXljTjNEd0dtR2FZeFNJMjloY2FXQnk0b1JRQllLNGkwRzNjMk5tTm1Nb0MwN2VrbzV3SE1ua0lxTS16SG9sUkJaNUdhVXo1X2dYQzZlcmxSNnBnTjcyYV9odDctTFppTkFIN2dXTkUxMXkxbkREeGxncHluRnZIenloQmJBNFFvZkVPV0laWHVNVVV0TXByYjhualNIUmFsX1HSAboBQVVfeXFMT0dSVzdMQXZzemxKUnZmTWNNd255VW5Fc1V5Y04zRHdHbUdhWXhTSTI5aGNhV0J5NG9SUUJZSzRpMEczYzJObU5tTW9DMDdla281d0hNbmtJcU0tekhvbFJCWjVHYVV6NV9nWEM2ZXJsUjZwZ043MmFfaHQ3LUxaaU5BSDdnV05FMTF5MW5ERHhsZ3B5bkZ2SHp5aEJiQTRRb2ZFT1dJWlh1TVVVdE1wcmI4bmpTSFJhbF9R?oc=5",
+      "publishedAt": "2026-11-09T19:33:47Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ed7a453c05950da3",
+      "title": "How business executives are combating AI sycophancy",
+      "publisher": "TechTarget",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2U2V0lvLVpPOHFualZ5SWIzODN4M0V0WTdzajZyWXBFRDVscUFWRTlaLWhuM2NRY25Fc0gwS3o2SzRtSmY4SHY5LVdQVkNseU5FU3E3Tm8ySk4yR1RweFZ0WkpTeENod2JGeTZHVVhMXzRtZUFPSmFsTjdNM1JQQWNfWFFIUDRfNi1hTXVlb2l6UjBEU0E?oc=5",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-7eccf392f23f1164",
+      "title": "Hochul signs bill regulating AI chatbot ‘friends’ that endanger children",
+      "publisher": "New York Daily News",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNek5zT205SVdpMXZCMTRjdGhBVGY2SkJIVHcwZDZJVXpIdTk4bm04RGJBSXNwQnBxME1ULUl2ckd1VUJ2LTZrdVRpZDRtRDVMNTg5R0FndFk3MWNUTFgyZzAxcGdWb3Z6a0cyQUdJeEExZVFKZEtCQkJROE5lVDBNZ1JxY2poWGhpM0ZvblU3dEd1LU5zOFlfODB1R2RVaEg0U0E?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9b58f97761ddd90e",
+      "title": "When AI chatbots become advisors, who is responsible when things go wrong?",
+      "publisher": "Business Standard",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXpxVGVFOGwtVnNaYjVHNHU4NGxtNVJEWGVjSlRMazZZbUxMOWFITDhEdDVIZDhVbTJFR1B6dGQ5WXVGMEJ0eE0ta0hRcGE3Nlh1Q1FETU5RdjY5VGdRaWk0M0hHMW9GSk1WRmx2ZDJ3eS15dmJ6VXh4RHo0bHpWX0YxR2owdWpwNklUZTliZDdYTE9ZNXY0d182NjFVZG1kZEtaaTMyTXJQb0l5YnZoYWI4aWJtcHFINUw4OENzT1ZWMy1PR2c0YmcwNWM4cVRIaXfSAdcBQVVfeXFMUGRyX25Ma2s0bEVhRnp0T2hTdm1zN3I5ZmIzZnlYWll3d2ppbXFGVDB3ZGdCTGdOT01QYmJOWFNPLURwQUhqcWhkSWV0VkJ6UE9MQ24zbjdpemxMTEdIQ1pVNFRxY3ZXMDRkaExHZU9pc2s2V0pIdWxVUHFOTFMtQS02bFI0YmwtRDVaQXJXWEVtYkZWME9xVlBLVWFCdjhMRktlUnA4UUdNVkduSFk4TjZCQVlfSVVkU3hxWk1VYWJlU0RNQi1EQTNoV2t4dWV2V3lvOGc4a28?oc=5",
+      "publishedAt": "2026-11-03T10:05:37Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible adverse outcome — verify with primary evidence",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-aa1130ac35eace87",
+      "title": "Character.AI: A huge AI chatbot company has gone bankrupt – and experts are worried what happens next",
+      "publisher": "The Independent",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU09xNm9MNFhySDJtODAxRjdQYU5fME5abi1TT2dJa1JtSE95UUpyT2VvRTdGWXJlbFNub09NbmlLVFR2LVFNdW00TGRXcGF4MVRuYmxycEhXSHU2cHNuV2dBTHEwVHJXSDM3Zm8zWGpCU00xQlNMQUlVYnlfbzZZYXhvV29RUEJtYVV6Y1ZQZkFyWW9B?oc=5",
+      "publishedAt": "2026-10-15T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-291fa916a4bda9ea",
+      "title": "Can EU Inc still make business easier? Ask the Euronews AI chatbot",
+      "publisher": "Euronews.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHdIX2dfVWVQTlMzUWptX1p0ZGF3ck02TFNxTmJiTmxrMVJaZVVYcUQyWHFhbmRpdmdUeWVXc0kteUJtYVhscHBHc2JQbF84UF9MNDRRbFgyVjUxZWprX2pUY2hYT215Sm9PT2pPLU1KUXJJazhHQnJwUzY5a3o0MWJuR3M2NFVPTS1QbFYyX2drM1daWGxGanJBaTFwYllYVWhV?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9996933958d9ad66",
+      "title": "The Vogue Business AI Tracker",
+      "publisher": "Vogue",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
+      "publishedAt": "2026-11-10T11:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1359eb06b1354a30",
+      "title": "Find the Best Free AI Chatbot: 12 Steps, 60 Min [2026]",
+      "publisher": "shattered.io",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUzFUSlNIZ0FkMTc4UERyaW5FbF9qZXJRTnBmMDJyVlpjNVBnbS1mQ3FBZHVNVzAyZU5iN0xMNXZBQVVHVzliLWpneEdfaXdUWXl0TThMekw4NUlGeHIzNzlqY0Q4cW8?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c7686871efcdc437",
+      "title": "AI File Upload Limits: What Each Chatbot Actually Accepts",
+      "publisher": "Fello AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0U2ZBdVdoM3pxUEticnF0czItU2w5UXh4emw3LXltZlZSdHlMQUpqVzJDUlpYcTRiY29hMlhIZXNXbVlUREpLb2RuNnQ2MXZpOWl4Mg?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-7354bd0aa2a89e43",
+      "title": "Suppose Bank A entrusted most of the loan screening tasks to artificial intelligence (AI). As AI rep..",
+      "publisher": "매일경제",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IVkd4MjItVHBKZmJqRWhFSTFEMmM5ZmxiTWxXelIwR1o4QldzSVMwa0hqT3ZuUUx2OU16cVlYWjB2RzZYTFRfT1A1Yw?oc=5",
+      "publishedAt": "2026-11-13T02:09:39Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f17821bb7cf89acf",
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "publisher": "NPR",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3BHS185cFY1Q0Z5eEIxekY1Mm5aNFYzWjgwSTNJbGpkcm1zU0pSOXdBanc1UEtIRERCdngwNHRaanNmVm9lYl9VMkhtY1kxWGFNdVZtRkNYVkVWWHN5ektNenp5UUlQX3VaSEpkekNzemZZc29YcG1PeFRiVUZxajVR?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible adverse outcome — verify with primary evidence",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4eec4c8325d9ffcb",
+      "title": "AI chatbots for customer service: Types, costs and ROI (2026)",
+      "publisher": "Netguru",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeUFVcjlpOFVwNENzYS0tQmdrRWlzLVVUeVdmVkV6UFR0NEZtRFdpZWNCWXdndlBtZzZRcnBFZHQ2VW5lRzBRUE40TEpHSzNOYy1iSHNUN08wZ0w5Z29hNmVBYlJyQlo4cXVFZWxVQXRrVzF0cUE?oc=5",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-debe8bf24250bdd4",
+      "title": "Microsoft updates on outage disrupting Outlook email, Teams, and Copilot for users",
+      "publisher": "Yahoo Finance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXRGTzRHWGVubjllRE1ILWQ2R0NMNU1fcFNQTlZhU0U3eHYxZ21DN0JPZElYSWxXb1ZTRnBlMHItR3o4Q2w0ZE5MN0c5SlZtUXhxYkt3ekVRdkdVTFBwLW5vakJHbHM2QUxMVVdqV29UMW1aN1NUa0VCR2I1aUZ2TWNrQWdsbmhSY0QwMkRaX3Q4dEtEOXRScmJSUEgybUxsWm9MbFdSeXhRaXM5RWdLVVdLV3Y5aG1ZUC0wRTJ6djVTbGI0OExFRXFSMkc?oc=5",
+      "publishedAt": "2026-11-13T13:56:39Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-2b9cd6ac9bc6957e",
+      "title": "Gemini Failed to Flag Teen's Suicide Queries for Weeks",
+      "publisher": "The Tech Buzz",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlltV2c4dmY4NEZlcy1GS0Q2T0U0ZUowZnFXMU9LZ1l2dnZ5eEZ1ZlM0NllKS2RBbi1fS1VCWVZ1dlhZS29tNjFDR21wTnBZZl9TM3h5aUhhZloyaTZDejhUR0h6QUdYLVpZOEk3cDB1UUtGaF96aWlZYlpveEN0UDhQQV92NWxpdW5XaDVlZHk?oc=5",
+      "publishedAt": "2026-11-11T11:31:45Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e9962faf25630745",
+      "title": "Elon Musk's record spending on Republicans failed in fierce midterms",
+      "publisher": "BBC",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQS14aEQzbWlhaVY2Sl95aUxZdUUzaFJKX0lKSkRyNjFWQVVqc0tmcGpadF82QXptYUkxY1lSUFBGNmk5NnFzLWljQVEwekI3aDJROGxjd2U0Vm8?oc=5",
+      "publishedAt": "2026-11-04T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e259244dcbf1aad5",
+      "title": "AI Is Making South African Call-Centre Work Harder, Not Just Fewer — BPO Leaders",
+      "publisher": "iAfrica.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzBjdFVsS3FET0tWV2thbkVxQUxGQWJQZzIwMFVFcy1rZjFrV212WjFORmFGVVZod0ROSWl3cFQ2al9GSDJUb3dsX3Z5WDFMRW5OWTBPMkl3aDMzUlFLb1VkdE84QXU1STJUWTJXdEp5LWRjeExpcVBJQXFLTkgyY2x5OGRQN25DVTVnaUVxT0JTaTBJY0wwY2R6dHRRbHc?oc=5",
+      "publishedAt": "2026-11-12T09:11:33Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-17fb0e32e5b22162",
+      "title": "AI chatbot development services: A practical guide for businesses",
+      "publisher": "London Daily News",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXJxdDlSbm14azhxTE9rc25sX1JMNW1Ib2FNejhRRWFiRzVGemxHZDZKQ2dtbENWRWFsZUNDNzAyMFIzM0tPVnVCSjBmUk1RU09RWHBqNzF2VnVubDZ3bXJpeTVXWDZ4UjV3R2d1S0JyLWNCQVdXcmhBb3pPOWsxNmdNMENIc1lISkwxeE4wZzR1Rjk3Y3RFNDlR?oc=5",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cf39a35fa9a46953",
+      "title": "HMRC AI chatbot tax rules to change in 2027: Here's what new inspection powers mean",
+      "publisher": "Geo News",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTF4UC1nRzRDYVFPSC13NzdaYWlpSk1PN0hjdHoxdmV6eTJwZEZpWllNcElWd3V3V3ZOd0EtUmFlVEthNW1DZFBQeldISG5KT2lVQjlCb2lwb2hrbF91Ni1OYzV0TUQ5RWFVVllGamdFQXpoeXRybVhoeGtZMEEzbm04OTN0bEVCNEFOTWlFRS15U1hBc2NVYlgyM2pVYlNMYVNxY1NVZ1dMRGZGamlJdXlkb0U?oc=5",
+      "publishedAt": "2026-11-11T13:20:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3e370c1e8b03646e",
+      "title": "Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation - Petrie-Flom Center",
+      "publisher": "Petrie-Flom Center",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-219e00ccff895060",
+      "title": "OCC Issues Supervisory Framework for Banks’ Use of “Super Intelligence”: A Risk-Based Approach to Generative and Agentic AI",
+      "publisher": "Consumer Finance Monitor",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTJXOGZBQjRWNU1DVldSQUFnZ0pUMmlaSW02YTdral84V3I0Q2xOU2ZtY1VpQTRFOXZYZlJ0Y0dYN3ZYR01zX2gtVGlzM3QwWVhWVHlKM3IxVC16Y0x2Zm1rMWVUWmRCNDdEbUJkQXlGTWhwWHRLWF9fbDZfcVd3U1R6RzROQXRwcF84WEZpaXU2bkZpaUtYNnd5V3ZwWUJSNFNkZmo0allkbjJZdkJwbzVKOUQtOWJnODBUTWdTc2s3dmtFaUpBd19laDZNc2dJRkg2d2RFdDBlVEttUmd6UUdyWTZaNkJOYzNTSnZ3bWlJVUJGRTF2U1RYb2E2b3c?oc=5",
+      "publishedAt": "2026-11-06T19:58:38Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4de96ef5ebbbbaf9",
+      "title": "2026: The State of Enterprise AI",
+      "publisher": "Menlo Ventures",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ba417284dcb41ece",
+      "title": "The rise of conversational AI in healthcare",
+      "publisher": "Amazon Web Services (AWS)",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVy0yRU54N25GS01PLWZlb3lVY3QtYlJvODdrai1YbWlvNkZLU3BfdHliczVzcDRVeVZuU29ZZDZKYUNzN3VtNkpDZjVwRVpNRktvOEJ3aFJTRllQZWdYRWlRUXpIZ1hfLUNsTFBTQ1JDM3l6VWtFcUphV1luU01POVplWi15V2UyNjBEVXA5QQ?oc=5",
+      "publishedAt": "2026-10-17T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3ee4436feb2dfc1f",
+      "title": "AMA releases governance framework for agentic AI in healthcare",
+      "publisher": "Healthcare Dive",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGM2OHIzd1hhWTRkOXdzVVBEMzh6R1VOc2d3cVBWWXJkQ3VidElzNTd1TW9Qd1FENV9zV2RaQjdiNXN1dFVTdExOTUtNbnJscnNMT2hkQ1RNZHE5YVdEcm1BdmYtejZGOUFrM0l5SFJmZVFZcTlvZGIwN2JFMzJaMjhsRFNETmVVbWJYWTJ1enhVOEt6RC1EcWNVb3VNX1Q4R1dQaEtLdHVHUQ?oc=5",
+      "publishedAt": "2026-10-15T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-529c18a109a5e227",
+      "title": "The Rise of Agentic AI in Banking: Use Cases and Benefits",
+      "publisher": "Oracle NetSuite",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaU1WV0hhLTlUYVBZRzZaZ1lldTJJNTFzcjNJREV4SDVxQ0tybWRyWVAtdEtzMkJxTkRXOXRDcmJLdDRhZEZfY1B3dmJmNmtpQ0ZFV3RIS0pYLWl4dEFnNHlJcTIyb0ptclRlaFVON3o5Xzl4bjlHNWdYNy1UWEMyWW9mQUducUVVNWJvNUVVbU1xU3FmcHBOYndQVQ?oc=5",
+      "publishedAt": "2026-11-01T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4b67a26f683c9621",
+      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
+      "publisher": "Radiology Business",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjZUVzh1YmRKWVJhTWRNUk5mOVZzOUxEVHIyRzY1MmgzV0pWWHk4dXFWdnVoTVh4RjJvSnQwYXV0U1ZISjhEdlNKR2IyRm01clAzS3hGUUJOOW5CcU9RUFVhNmdtU3pINzBZZm5FRkk5c2stQnVhV3Bya083S1EwZUpfdFh5aEV6QmhPS3VYTGRibmRudUR3TU1NYkVtWjNDT3NTT0RpcldUMGN1OW1jcnRqVE1GX01xbEM0?oc=5",
+      "publishedAt": "2026-10-23T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-311d6aa4197eb198",
+      "title": "AI Governance in Healthcare: WHO Principles & QA",
+      "publisher": "CASRAI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WGItaVgyYzBBVi1MaEVSZ0Z6RlhkR1VHdVFPZ0YtcFQ2ZXNNQjZmQUNqSjQ1VmJyTkFqWngtb251LXFHbFhqdlo4dGcwdUN2VnZCVklfWjNMWjBYX0EwQUQ5QQ?oc=5",
+      "publishedAt": "2026-11-09T23:46:53Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4389e97bcda1bb4e",
+      "title": "What do patients think of AI in patient portal messages?",
+      "publisher": "TechTarget",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU9LTnNWdWp3dTREZ29uUFlPX1pBZ2Q1bmxON1R3ZkhIX2JjYzNCa3RLNURyVy15Yk9wWU1JOXNLdFZhQUdZT0dNN3pjelVRNFAwRmJ5aVlkYVlFM1BWUHhjZGt3RXZQb0VsMXliclBOV3pMczVBay1lcTVINl9DOThNS2xNZHR4WFAtUzR6clFodC0zdGlHbTJ3aWlXeVQ5V1F6UjExQmxLRldXVFVmRVV3?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-004663ed3ff4da55",
+      "title": "Automated phone menus have caught us in loops for decades. Will AI chatbots save us?",
+      "publisher": "cbs8.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMU1teHc0QUlGcjctWnhkYlhwQnU0YlgteHVXYWJOSlNsUVJaekRCN1JXMFV3M2dTcTVGLXMyUmZRLUt3TjRnbG9PM3lzNVM1RzFXSGJ3MTJTaVFYSUhhMUJPb3I2TWhuaWp4Z2V0SmE2Q0pCQmlvUWxEOFJGTkFjU3lRLXlQNHB1ck1fWE5xaFhla2tzbWl4RnZhRDVyNE9jcDdub3k5ZFVERWxleTZSZTd1UEMxc1Zlai00SjNtX2FJalNQVy1SWEszcmc1ZzNlNXpvNjZVVzZEQ3ZvTzFoMmtqMGxLY3RibGYzZXBYaXd2YlpVRmZZZHRaYjgwMEU?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-be3955092ecc38ea",
+      "title": "The Disability Gap in Healthcare AI: From Bias to Inclusive Co-Design, Testing, Deployment, and Governance - Petrie-Flom Center",
+      "publisher": "Petrie-Flom Center",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnNFSk9nR244MEZXV1RuWmpWbnA0YnNsZlZ4OEFvMDlRdlUzMG9IZVFnald5RTZKaVV4Y05TbmV4a1R2c25ucUo1R3NiMno4VGxGZnZLX3JlYWQxZmcyc1U4VkVHZmhpUll0SWxiT3hYc29mUFptbGJLU1hLcHE4UlFQVW90VVllRU1oQXJIY0sydUhJTXNfVnpRSUpSTHlKYTFIYnN5dTRNOW0xRWRvdGpTdjFLYW9STmUyaGN0Tm54YnlGYXNWQnFpMkNwUFRTOGYwbmxpS0kxYjBNd0h2VTBkQQ?oc=5",
+      "publishedAt": "2026-10-30T12:07:30Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible adverse outcome — verify with primary evidence",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c40e9a6bdf9b526c",
+      "title": "Scoping review maps generative AI in healthcare and finds a carbon blind spot",
+      "publisher": "Bioengineer.org",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmlMSlc2MHJFSDFzTXJTYUt0ZGtJaXlFS09hVC1UOUdZcUtUbzJkU2h1NXpTS2hkQ29Dckhia1VMMEJXaDVseVB2WU1SMHpyZzg1TnZQUHhyVlVhUWxIUlo5LThEclVSSy1qUHBoMXREeXBEcnNsTzJjNW00ejMyMWF3akZ1Rl9GSEc5dlBoOXpVdm96VFJ1Q2wwOHp1M0dQWVFoQg?oc=5",
+      "publishedAt": "2026-10-29T03:47:47Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e7ca6a9ef7314c1b",
+      "title": "Concentrate AI Launches HIPAA-Compliant AI Gateway With One BAA to Simplify Model Access and Reduce Inference Costs",
+      "publisher": "Fortune",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEQ3eElta1o1b3ctVWZSNXFUMXNuMVRNWW1lYkhfRVV3LTRzVENGaWpOTzZTdFdhdWZSdTBGVFNRSHVrT1BCaldmcTdsRjFLYm11NkpnRnJENGhEUGZLYV9KQk5WbF9aWVYtalZ2YUcyMnFyWEpvb253YllkYl9QNmNrX1FqMUkzQ25fV29n?oc=5",
+      "publishedAt": "2026-11-12T13:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1217a44eeb93be42",
+      "title": "Which banks lead and which are falling behind in AI deployment success?",
+      "publisher": "Finextra Research",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG9xalp3SldGZWxTNWphMW00LWFaRkEtOUxud3dqZVFGNVUzZjBIOVJCZXlMQVhaMjdhMVUxNEJnLWxJT3Bnc2dPM3V4Q3NILVVsZDlLZXV1YlRmRVZSUHhRRjUtNE1oOHZKd1pRRE1Ka0g3UEdaODlzVk9hZXB5QXk3a3RZd1BWM1BSVDlmMzFJeUN4VnB2RlJOQVQyLVhyUUhBR3FhZmR2MFNzVndBOTZINmw?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-15935aeb313ef23d",
+      "title": "SBS and NVIDIA Launch Sovereign AI Foundation for Secure Banking Operations",
+      "publisher": "Konsulteer",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTZqRzZtS0VpS0gtazgydUtCX2RqdTNHcVI4RFFWRUNmVjVHUUQtTzJYdTNOazJyOWRVcGRJYjItU2pvTHU3UDZ1SEh1Z3o3NlNPOG5Yems4ZW5NaEJ2T3d4S213VTJzd0RKTEJ0a29rZ3h3Vm1UaVJXaWZSQ2ZHM2xMS1lIYWtqSWx4bklNYWdmYlczQVNuYmhQcWR5T1dwNUpwTkV6VUNPOWtCUE44?oc=5",
+      "publishedAt": "2026-10-15T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-dedc1c5977f0e30e",
+      "title": "AI in Nurse Staffing Market Size, Share | Growth Forecast [2034",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZQjdnLTVfdXY1cjB6ZGxVa3Y4ajZNdDJ1V1ctZzQ4NGdaRVcwOWtCdi1uV2VVLTJwd2VGcFNGQnFCdXVtY2tRS3k0N3phV2hCZVdvY284MlRwT0UwcFFSejUxTW42SFhuUTRvRlc3cTg5S0xyYzNJcW9zNW9vbk0?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-89cfd015193536d5",
+      "title": "Turning AI governance into better public services in Southeast Asia",
+      "publisher": "GovInsider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVF1eEg5cmx0VGNKb182VUR5QTBoRXl5UlFPUV81TnFoeTNqZ01GZi1KX0p2Q3BrekczUmpIdVRTU1pjdzBfaDNaakhPUnh2OG5tTzh3RFFwNkdNR1JTYU1Yal9jQ2swbTRLYXlKYV8yOV9tbDdCN1NPNi1rVkhXcjVERUJYdFhZTnZHbEt0SFRKQ1drenktU3VQZFhaQVJfTmdpWFBEUWlnSlE?oc=5",
+      "publishedAt": "2026-11-13T01:01:33Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5d88affdee0a8985",
+      "title": "Emirates NBD Becomes First MENA Bank to Deploy OpenAI GPT Models via In-Country Infrastructure",
+      "publisher": "FF News",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmh6dlN0cFlzQjVRb0QxUGVGcC1vYjlRd1A5czBSVE1GLXU4ZER0WDJ4Y3YxdWZDOGhIR2tqZGJaQ3BpTVBWUEMyWUlVVENQUlFURzM0UjlqTkRvVTFSUmFya0ZyOTluREhMYW1nb2VzUkZnLTZhazl2MXdZWDBIWnpiZ2ZMV29SSGdOQ2JqQWlHRjJlLThJYXBiZHNYY2YxbUZpdjVIOUtSUUVPX19UWGdnOA?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d67e2895f74607fc",
+      "title": "GoodRx Launches MCP Integration with Google Cloud Gemini for Healthcare: Real-Time Prescription Pricing at the Point of Care",
+      "publisher": "HIT Consultant",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUNZdWt0dzBpOWZ1RnRJc3dFUWRLcTlQeWIzVU51Q2lfazdpRC0tdHN1MVg4SWtUOGFGV0RXRF9fOWYtM0FSUDJLNDctdTFmSzhBOU85M1VmT0RPcHdBcE1GdDItT1lFaGhpNWs4ODNvd09RYkNWTDVqV3FjTE1CLXpzVkRjZVBRemtGZEZ6UGtvYUJsUkJFcTVpMVpZYmVpOGR2UFFFMWZDYVE?oc=5",
+      "publishedAt": "2026-11-10T19:47:12Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ea879705daba3e62",
+      "title": "Generative AI for Clinical Documentation Market Size [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b744f45083689fe2",
+      "title": "Reveleer Names Healthcare AI Leader Fadi Almachraki Chief Technology Officer",
+      "publisher": "StreetInsider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFlOWEtFbzd6c3Zhb0NYU3Bzd3k0ME5Sa0VLalI0dlFWWndCRWs0NUVUVzNXZnY3dTE3LVV3VHVFUzJrNWpiNXVldFJvX2dFMEN6cjdUYkY0LXpUc0ZDZXExM3FtcUtmVlB0RnBsZE96S1pzSHVZWnY2NWFJUkN1QUhrMFlxVXFuMVROTWVGVlRIeHR1dUp4N2FnWVI4b0NfM2xfamwwREd6STNUblY5YnpmVDZ2UG96QkN4SWMxblpDbHdndGlFSnl1YlRNMHc?oc=5",
+      "publishedAt": "2026-11-12T14:14:04Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9efa7a963a892273",
+      "title": "Capital One Rebuilt Its Tech Stack for AI",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOci05TjhsVGpBdExaNWZlNzBtTlBibEFySzl5NkRzdDEwcS1VaHhMRm1CVDdKUW9uX0FJYThiQmNvRmV3S2E1Z0s3eng0cXlVTzVnRVBzYkROUUt1YTJ3NXVMT1N5M0tYNllid1JWNjhaZXItZ241NFpEc01PMWtTVg?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-6ded1f05e57938a1",
+      "title": "Healthcare AI Governance Market Size, Share & Growth [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVZueG5IMVY4NWtOaVhjeENSaGZHbkRuS1pZdllVSlhXM2lfZFZSd3hvN3FVVVBfOUFhaXdsOGExNTFoSkE5VWw1ZU9BLU1NWjBzbWd2WlpGY255ZjNqTHEwdE9nVkk5a2FDMklZcGpybmVtbXRvbzU0RUJxNDYyR2ZndU4?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f2715f28f2a31eba",
+      "title": "SBC Medical Announces Capital and Business Alliance with NeuroBrain Dynamics to Advance Clinic Profitability Through Medical AI",
+      "publisher": "Via TT",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbzJvcWRKN0VvX0NOOGVRS0pIWFFuWTR6SzFUaW1ublM4cTJaRll3UEs4cTZfdG1OdlJjaHBKaHRBODZsYk5UalRWNnF6TFJ0M29RdXpKMUVwM0pKekV4VUNoMXI4Nlp1eDRfQjlNTnlMVjNDVXAzV1VOXzMzalFIbjZNdk9qUkF0ZTFoSGlzWDBPLTIzSGhIQnJEQmJjV1RTLXhtTDFfeVdSZlY3UHZUNXJzM09XSktUektqQl9UVU44Sjl5TGFBZzhpeWFCaUdJcjYxTXduano1dlBVNm5ibEVCcmhXdWE2SUE3QXc0TWlYSWZFdUdBRUtrT0hsQ3dHc1FsQXM5MkhUaWJ4S1hRZ0J2NmQ2YXRKX2tMVExreWFSZw?oc=5",
+      "publishedAt": "2026-11-13T11:30:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8ca21ca4c390a3b4",
+      "title": "MLOps Market Size, Share, Trends | Growth Forecast [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DeUtQRmVQU1Zpc2gwZE03bUktUnRib2xBU2pQN1pMZ3B2MTFMNVVqR0NhWEZRVjloOTJBa0FzM09VOVZvUFZrbmRPX3lWME4yNkZHdnVOZ25aZk5DUGVJcE1qaW9FM3hBRzFv?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-763bae4758a6e2f2",
+      "title": "AI In Pharmacovigilance Software Market (2027 - 2035)",
+      "publisher": "Grand View Research",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWRkLTBqSFlfSG9FTDlDclJwY3hPbmhlYThLWnVUc3BzXzJ4cS1NOFVYTTZyLUhYeDZXVkwzQUFZMktwOE9QTVpFUFF3Yi1XVXczVmthQ1JWM2hyR0EzcHJabmNSeXY1RExCLThHMW9vVEVhMmVmZ0hQMzBzdEJlY0xCanNHUVJnaXRjWWkxS0hXZzNhNklLX3JBMA?oc=5",
+      "publishedAt": "2026-11-12T10:07:40Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d6b742cc1208c3a7",
+      "title": "AI Learning Roadmap: Step-by-Step from Basics to Expert (2026)",
+      "publisher": "Coursera",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdmtJUi1jbkN4dmtLZVdGUU1yTE9CeHN3WHNJVnBnV19XazYzYnpfLXpPVHUyNDRMNWFvaVFaTlo3NlhNR0NrY2Z3OEFUdU1VZDZtUUJyNmg0bmhYejhFMWI1Wm8?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c5bc10a703a3ee7a",
+      "title": "Schwab Clients Can Now Trade Through Claude",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkZBY09hWmh5eElYZzVnNmVoQVU5Q2gzVlFWdFNIZ0hVQ1VCUlppNWN5ZkZhZG15azY4Mnd1Q0VFdmdjSkpQN0gyTTR0N2NSajdkMUJscUxrbUhpX0RDalVCd2p0X0JfLUpGZ2pZOFJQWlZRMDA3TUZHSk03eGllY3ZGWQ?oc=5",
+      "publishedAt": "2026-11-13T11:35:08Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e665aab15583cefc",
+      "title": "Mastercard's New AI Doesn't Read. It Counts.",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaEJLYlBzbGhkODdJeU9Bd0RFdWk0NUU4MHZOSmZjRmNyZllkZllKYm81aVRqcmN3a1JJNnRrQjNXeThQc0VuWXlhY0R3Y1NFRzJYTEQ2WDV3ejRGYXpkZm9IVGNKdTFMei11eTZLcGlyVkFwTWM2ZmRDT25RRUU?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cf501b8ff5813d1e",
+      "title": "Outside AI Agents Are Locked Out. Software Vendors Want a Toll.",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak9hSGZQVzJacllDa1pGYzZxaUwyTkJLMzk2c0Y5dzd3VHlpczA3X2hrcV94WlBvVkotYmNNemRuY2laUkhwOVlXdG5aY3E0b0cwN2g0U0IxUjVqS1ZGM1ZsUmlYRzJEaS1vRFJaOFZ6UkI4OVNxRXBiOWpFR1Q1c0FOS1J0Rk0yakYxMm1TSXJjb0phUW1qaTZqcw?oc=5",
+      "publishedAt": "2026-11-12T11:52:30Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ba2646d4a88dbf1b",
+      "title": "A One-Employee Biotech Gave Anthropic Its First Drug Candidates",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUE3OUhDcXdDR1N5U2U2SkpCNlE1blE0aUMxaUY0MHlPdGpSaGtscUMwRnRSRk4wd0dZNWFhQnlEalJzQ0FSR3c0bmtrQzFSVzdvUEFHd2ktZFpSc1VkTnJycEZ2RFVEa2tJaXNPV1F5dUl2WDAxXzFDUTNwb0dLV2hNVFRFOWxhXzZkQlBhWjJDUDZQanJjalFmbDQ?oc=5",
+      "publishedAt": "2026-11-12T07:06:08Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d1d9bca3bd7b3e2a",
+      "title": "Retail AI Analytics: Building a Reliable Foundation for Faster, Better Decisions",
+      "publisher": "Snowflake",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ekVnOTMzaGw1ZlVvSnNqbzBoMjV3dGhYaDhZNXhEZjh4SllNMUx0NEs5RFFfdXFxUG9RVU9lQjV3Q3VLUFNUMFFhZTI5X3FleWVYRy1BWmY2eTNqWWFXa0hVWHpnUU1uNl9z?oc=5",
+      "publishedAt": "2026-10-15T06:02:01Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3b6b5a6df71893f7",
+      "title": "Why smart factories don’t deliver smart outcomes",
+      "publisher": "NTT Data",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTk5KbFdmNjk4REY2cmVCRW5jaTlrTXpZOE0yQ1ZZRG1Tc1ZKY1lKV2VKV0JISjF5YXhoNnVoRFBWWVlqbUxBRW9wSy14Z0dJVndKb0FSdDA0V3d5cE9obmZVS1pTMFdxMVBVbE5KVjdHQzNSNkZCcmx2dEppX1RZQXh1ZElyZm9qYmQzVWRiOUxvdFdYNkZLYjNNZ3ZmNlRmYjVmaVVTZFNQQUpFa3BkTXNUMDAzWTFfM0JUajU4Yw?oc=5",
+      "publishedAt": "2026-11-10T14:07:40Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ee1165246148943b",
+      "title": "Revolve Lifts Revenue per Visit By 50% With AI-Personalized Landing Pages",
+      "publisher": "PYMNTS.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlZ0blI4VkRuWHlBSjdydmlLRE9zSGJlS3piMVVlOHY5ZmYxYU9YUFZDdTFUWTUzdk9zLVRhY2p4bDAzakhSSzF4QkNrblprNUV0TG1JeUt0ZWlxU09kVVJPalh6cFpkbzVwcmx1bWl1VlpJblhCcWFDSmlRTkhyOWxpRTdTaDBFN1FiVFI4WVBrSXF5M01Gb2V6TUJlSXVodi1QMnZsZkxidUMxWG9oSGc4cVFiaFVsOW92OQ?oc=5",
+      "publishedAt": "2026-10-30T20:40:05Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-466178782bfe5248",
+      "title": "Case study: How Xylem scaled enterprise AI",
+      "publisher": "EY",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJJX3RrUlZqMG1PVDhIZm9BYWN4M3hiNmxnTHpNbmEzLXpPT1RzR3BxTHF0V00wTTdzdm1JX2Y5THozQ0ZaXzk2enJGYWZwLWtQLUI4UllzMGYxQzluR0otU0VwWXEyYjZEX3hGUmlnY1V1ZGdleWhSTElrX0RjUXh0ZHpnTUJ2ZkJOUEdYN3NXbkZfRWhJVXpveDVRQTZVWkJBaFJzUXRQbTQ3?oc=5",
+      "publishedAt": "2026-11-08T18:59:01Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-2023d0ae4a8260da",
+      "title": "Special report: Physical AI moves toward the factory floor, but full autonomy remains years away",
+      "publisher": "Fierce Network",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRG5Ma2YtbnFWd0I4eVNKV0pBQTZoVnBaQ1hLUXNpVzFGMk9ESndybFRKRi04dFlWMGtTY2RtcUYyZFZNOWlhT2F6dlFjdXl2S3ZZS2FxODFlU2RVYVgybEpuSXhiemlGSGc0YzFvd0pyLVpqaFdNOVVSak1DZXNma2tiXzk1cHYtS3cxUi1rWm1BT3JnQ1JBMW5KUTdxdjZMX201MTNmQUJzX2lMU2tkUW0taTNWOHFGbV9ObUNhNzc?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f87fac01f49a6dd2",
+      "title": "Which AI tools will Americans use to navigate Black Friday and Cyber Monday in 2026?",
+      "publisher": "YouGov",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0VfS0ZXRXloelhpT3hxX2ZXQUZ5eE9kMG1id0J6ZXZwdUE2TFNGZnN5ZFBBaVFnMXRTSEptalRZcVNVOWxZcWpyYzZGbTk3ZUd0d0VSSmEtSEtGaVoyM3I3bjczeURIdExZM3hyaFlCNEpiNE0tSHNGcEpUaHVTbm1hcWlsZ1hqb3RGZXVmUUVoc1VKUWxvWFNyWWh0elQ2VGkyU3ViWkxzcjh2U3NtLURjclZlR0VsQ2ViMFVENk0?oc=5",
+      "publishedAt": "2026-11-04T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-56b8a763d448cb78",
+      "title": "AI and Digital Biology Is Accelerating Drug Discovery. Can Manufacturing Keep Up?",
+      "publisher": "Mashable Benelux",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXNFSi1ZcjZtMjh4QlBZUktXVUp3YWRISVFBNldGYTMyNEExNW44QUxmNWpmdUxzUlE3TGZwTmFmSXNXMTN1UWpON3YwRk55QVpiXzhLVFotdXBhYW54T0J3d2hvYlBTcTE2S0lOYk8wSzlHdkZPVUc1RVlRMW5aaUVVNnpycm0tbnU2dWI0LUJMWUhoa0tQOGJiczMwcXJVMDUwdmNSNkVwelZUNDRTZ0ZPTUs?oc=5",
+      "publishedAt": "2026-10-17T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-412f487506f7b934",
+      "title": "London events to target AI adoption across retail, finance and critical infrastructure sectors",
+      "publisher": "Technology Record",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMHRGdzB5TllfMkJEaWFUMzA4RWRVaGhwNm9SRnNtenNIUVZSTC1fcnpkZmJpWUdBcGVpTkQybE1sd00tdjRCSm9aTVNqQzAwRURqNWNkZE90QzN3N1ByM2xJWGh5c2htcHp5cHRZYzFNUExvSVRXTzJzWmFQUDlCSnY0LUhIYml0d0lvMERHN1BNbXFGLWhFeWprcEdfYTVTUmNYUUU5eHFEVlN6RG1OUE1wODFwTlVWSFY3OHE5RzUyb1JNWDJkOEhvOHd1RFk?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1e0f9b75161c65d3",
+      "title": "FLORA case study",
+      "publisher": "Google Cloud",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10WHVMOVhybFVZb1JYQUJNWjlDc1NudUtRM0x0SU5OZ3c0b21PdDA1ZU5HTUFyMjNzUFprUS1nWWx1MlRlOG1aaFBVcEZzQ1VYbXc?oc=5",
+      "publishedAt": "2026-10-21T18:44:24Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3acc3226d4138938",
+      "title": "Microsoft Intelligent Manufacturing Award North America 2027",
+      "publisher": "Roland Berger",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnV4RW5pWHp0a1RsakpYemo3LUxIbUhfTkhRZmdoNDlqa2JFbk1BSHFBVWZ5cGVhV0QyTzE5eUhfRGJoMnpncExsV2tYYjl5QUpqaVRJR2VJSlpta1h5VFVMNFJudGFXMFQtbVBmME85c05sQTczeXFjcmU3eU1oQmlpaVZXTWpIR0p4cjNjQnEzUHhwRk1KSkV0WVMtNE9yVEllckhyMXN2OUZJVFZBdzBKY05SajJhVWtZ?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d279f7d72a2f5c83",
+      "title": "AI Utilities: Top 25 Use Cases & 48 Case Studies",
+      "publisher": "AIMultiple",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OQUpZaEdLbDRpLWxJbjh3SXZJUDN0TmFSMmhvMUVDNHpmR1hIRnFVYWlKRi1neW1WeHBtUUR5aU00QUVPTUhQNjRpaw?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-58f436a6f77f6224",
+      "title": "China Proposes Export Curbs on AI, Biopharma, and Solar Tech – How Will It Impact China Sourcing?",
+      "publisher": "China Briefing",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUldXVkxWOE81amt2QzFleFYzV0dUa0JmS2QzZWZuTXV5a0hBUGUwMUdaWTlmUTVTVC1uZEUySTdNdXdkVnF3Wldzb2JCeG9PbGxIWkY3amo2SG9rLUpuYnRlenFGQURoRFhUcWhMUEswQWNxaGZMYg?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-0e4f6b897d30c574",
+      "title": "Toothbrush Maker to Build First U.S. Factory",
+      "publisher": "Design and Development Today",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkxtMjlTSFdMUWpqamhFcl80aWZ2bFkxd1VoOVh5azFzbmYtRHpiaGlpclZfQ3U0U2tuYVByU05Gcm9YU3FLZEhNc0dpbWNYYkp6NjhRM21od3FITGUzME11NmFjbmI4RFpMeGpkWUU5VjdrcllDa2V2dHZSQjVFeWpSZVpHaldZR1kwREVOUWg4U0lhS1g0bzBndC1XQkRUbzd6X2NTUnY2bXRLdWR3VzUwdWFGdXh1MzRKRQ?oc=5",
+      "publishedAt": "2026-11-13T15:24:59Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f758464a9b94dd96",
+      "title": "Meta's 'Muse' Moves Into Shopping: South Korean Retail Industry Seeks Joint Response to the AI Purchasing Era",
+      "publisher": "BigGo Finance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95VFVyX2tZQVhhM2xHRkJiQklLQ21seUJKV2tXdXJTOVBfMHJUWDZxNDBPbWEtUkthUXlRMWVQeDZhdHc3MkhkNXZQZ3oxSU9DelEzNkN0SUZEWVFkVS05bUtJOFRKMTNvRmQ4aVRLakQ2R2MtQWc?oc=5",
+      "publishedAt": "2026-11-13T01:05:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9c9ab2f2ade72f0f",
+      "title": "Movado, Bynder Webinar Focuses on Where Peak Season Content Operations Stall",
+      "publisher": "Retail TouchPoints",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjYzUUJwbUI0QmN6V0Y1VnhjaTBLU1lqM19YM0JyM290UDhfRC04b2Z4OFhkWWtVeUM0bWs2TEFJd29XTm9DZXhZVmVrQS1DVXlQd0VyS3poUzExcjRuSC1jdTctQTNRWmFMSmZMLVhxdlVTeGppLWVYRWloaWRwNm1pT011TUxxMm1CVkRzcDV6M09qd09wT2tyNWFaVmo4dUlpck1FdkFXWGV6WElYRmFfM05uWVl0TGszZGM0UQ?oc=5",
+      "publishedAt": "2026-11-12T17:02:41Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-bb0bb194a53ff925",
+      "title": "Global beverage leader revolutionizes retail trade spend with GenAI",
+      "publisher": "NTT Data",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlhNYU1zQnhxbXpQcTBpVGNNQXVSbzF2XzZ2NE1LeXY3YldRV2hndDk4cEUwWl9PazQ0UzVyeWMtc2FWeTRuVlBUUk55U1BpbXBkTE9ramFmTDJuTi00akY1bFJuLUE5RGFhQmZuVVhkRFprYkh1bVFEMUJVQWdjQkNXcFdESl9BT0hsRWRrblBjd1pZSnFfQ1ZMOW9tVVBZcUlTck1EeTZoYU80UDYzVU85YTBSOHRITFNr?oc=5",
+      "publishedAt": "2026-10-31T01:22:40Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a37798dcab912583",
+      "title": "Commerzbank case study",
+      "publisher": "Google Cloud",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRVpIek5kUGRWRXRpQ1pmSmlSUUtqVkdNVU5LVlVOOHpkWFF2RXM0ZEloZUlNeDM2Q05tbUZpek1tSXFHYUNEMWNVaDVRVGR3MnhJN3RBMHFGeUpEVlE?oc=5",
+      "publishedAt": "2026-10-31T19:42:42Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b2db3f3d50c25e52",
+      "title": "Alfonso Rodriguez: Turning visibility into autonomous action",
+      "publisher": "Technology Record",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkIxX2pwMTRaQ05PVTdGb1RVOUNiMWVyV2RtMktJbThQazJYVlMya3BiZ0ZhMW1iNzdSbWlDVmNJNkRSa05qX2cyYl84WDBFSFA1WEZmQUxkeWdjQmxzSHA2VGJTZEJ2dHlXeUgzUkJxYjA3Q1ZYZlM0a3h4b0JHUDNsSGZnVzBzR19jaWthakxfelZWR1E0S21fUU13MzlLVmc?oc=5",
+      "publishedAt": "2026-11-10T13:48:14Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cec0bfbec90e3563",
+      "title": "China’s AI Regulation in 2026: Enforcement, Guidance and Compliance",
+      "publisher": "China Briefing",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHNfRlNnclkyTFlra1lrUnZIMld3T0pLYUlYaWVlV3d0R3JldWs0YU1qTjVWdlRWMVVhYi1IbWkxYzR1VnNsbGhzbXFQZDBqbU9YZkVnQjA4c1BoSFgyZWVQZERqamcweEwtdXR0bEZuRDdvMUpjUVBMYXphLUwyUDgtcVk5TEhNV1pvQllyd3RWMnBfZUNEeg?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-80c32132ba46028d",
+      "title": "Every Cure case study",
+      "publisher": "Google Cloud",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XQjBOSVFlSG5NbXVBaURwWnY5RmlsN0dSemtITDZ3b21nQUtERWZYdS03eTNTXzYxbEFqajJUbi16ZDRQUTNlazltLTBHcWdYLTlkTFlfSQ?oc=5",
+      "publishedAt": "2026-10-28T23:16:43Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f220fa06f83d907c",
+      "title": "AI Textile Designs Require Substantial Prepress Work Across Commercial Print Facilities",
+      "publisher": "Bioengineer.org",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnBDOFVJLUNSV2hudjYtXzFWUFRUMFR3MHd5RHNOazJGRnNCeGdmUGdncHdmQnVsZ25kdlo5d2M1V1hGMlNvZ0RXMEpZWndPQ3lSTmxCanE5Sm54cmZsaUg2a29BMEM0a2xmM1BhTUlYNU9GTW54SWdHWWEwbmZGbnlhQWstM3Z3ZS16WGdwbXBtX05UN0RYWkkyVmJoSTVsYnNJR2xiVlg1QkRrbjZhdVln?oc=5",
+      "publishedAt": "2026-11-12T17:51:46Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-da180f67c908e627",
+      "title": "H.B. Fuller Closes Another 7 Sites as Part of 'Project Quantum Leap'",
+      "publisher": "Design and Development Today",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTm5udTYyakE3R24tREdUMUV2bld3Y0M4elJnY3Y4REFSU21EVE5iT1lYNktvRjhaVE4wa1ZVckE5Vzl0Um1kRzBCaER3bWtFT2hLTjlYX1hfUEZHMG4xY1lFLWhiSmZtbHN1OVlhcmthUDBxb015eUZSWHNUUEw4dFBSZGNiekNKRS1GclNuTnJIenFaTjJRaUMtQ2JmdGRfWS1vTmRSajFJRkJrTTNiZEdsLVNFQ1RwbHZlWkp0RllsRHh5Uzd1czZqZG0zR3pHTjJZa3hsT0NqZw?oc=5",
+      "publishedAt": "2026-11-13T15:24:59Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ede27b2cb6fc82b4",
+      "title": "China’s AI Regulation in 2026: New Laws, Rules, and Compliance Requirements",
+      "publisher": "China Briefing",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2hTZUgyb1BqdkYwRlBLTU9hZkpKSWZVSVJQb2JvZkdUcWNnbDVLVGh2QV8xLTZubU00WTJfWnVObGVrNkhOaGRVYWtxQ3BGRGM2MkpjNFJVbjFDR04tLVZURjVXWGJueEtmR1lKSEhSVVdjeldSQ1dhVGN3QVk5dklR?oc=5",
+      "publishedAt": "2026-10-24T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1eb840e08449338a",
+      "title": "How smaller businesses can use AI to improve productivity and cut costs",
+      "publisher": "The Times of India",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMFF6NlBqT0hmQ3d1cDlUSXFSeVhhOU5tcG50TEVLWGZBZ0liaDB6MUJydFdEa0UxT0QyVTM2aGtkQzA4bXZFd1dSMGN1QXhPalZacklSMFB0YVVXTHVvSXFGaXBUSXFIbE5WZXpGRklvZlJFZk9uZlhTTVVEU0pndEl5cDdybkp6eWdWVVhmUTR2eGU1bUVPUDMyQTFvbml1Unc1ZVNiTElKLS11ckdTaklQcFhyYUhmZ1d1VnNxTk9hc1lKeGRodWFqN2hvSFZrV3Bic00wN3pHNDRFN3lLaUtB0gHnAUFVX3lxTE9nTHctMmNhbHhCRGdiQ3JkSmRmc09VU2FxNVhYX0x4eFlMTzBIT0VfaWgza3J3SDhEQzVSSTNTTGZzdWZBY25tYUhscm9lblRjU3BfcHdRS3FlNkh6ajU0ajVXTjJORjN3X3VLc0pveVhVZk1wc05ZeEtoOGdfZ0s2TG5VaF9HTnlyX0IwTkpWRjVaUTdFTndkelR5WGpVWVE4RmY3VlhxRHZYWjdUQVdsZEt5di1mWXBjVXduNzUzaWk1dllJZlNtNjN6VmtDT25IOGlXVEMtdE55OVJjc2FuVDB1WnRaUQ?oc=5",
+      "publishedAt": "2026-11-11T04:56:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b176b2154c67c080",
+      "title": "AI Trailblazers Initiative: How Companies Are Using Gen AI in Singapore",
+      "publisher": "Singapore Economic Development Board (EDB)",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSldqd3RNN2hIYzQ4bU5kUU5jV0Jua3hCcGJfOFdXM0p5dVVESFQwOV84N3Y5UGtTRVlESjY1RDU3TlQtcnQ0NHV3azFxM3FCZnZ6SVNQbUhDVjlWVTFiMng2WUNHTW1IRmszelNZUzQ4c3R4Q2pDcG96UDdPbDB3T1dDdTRQWHkzUTd5dnRnUmRrd1FBaEFORWNlNTdxM09KcGMxSFBZYzFiTGdlTXlEMkN0MUU1SWwwdXBtcTJ3?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ad0709038dd8ded7",
+      "title": "Black Farmers Bring Groceries Back to Birmingham After Nearly 70 Years",
+      "publisher": "Food & Beverage Magazine",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWG5EU21RdE9OZWEtOXVFVmlncmdDYjZxYTFKdWx5OFBRcGZzTy02QlVXLXRxLTZKVEpDdmUzNWwySm5HNWFQVFZDYWpPeUIzTUdGLTNLZmpPRGpnYUVSTS03ZUY1QUtkdmZWYWUtSmRTLW5LanlxbEdfVlF2TU9WMTNwb3UtMWZqUldfR3d4X3lEYWpaYjlTVmE5eHUxdw?oc=5",
+      "publishedAt": "2026-11-09T21:05:08Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-6dd663f5fe211b39",
+      "title": "Cummins India Launches REDEFINE 2026 Case Study Competition",
+      "publisher": "Machine Maker",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjhyYl9vVk54QjR6UnZHSDlpVGRWSHBRQkMxeTZZRHlWRm5Hb2h2N3RwNTdXQ3JfcFZXbTZ1MzZiQzJKaWtMMHQ3M0Zvb0ZWQUJaOWlCZ3BDcV96VElTVmhVRTVBZHFtY1RGZ2N3WHVhcUMtdXdsclRhN2ItY2JXMXhhcVN3cmEyYWZwZDVPZmxObl9BYU43NA?oc=5",
+      "publishedAt": "2026-10-17T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ec873ab3cec4f40d",
+      "title": "Primark taps AI technology to overhaul supply chain decision-making",
+      "publisher": "Retail Gazette",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3FPSlh3a3FpeUYzMFRyUlFQa1RJTHBiYTk2eDBlQjlITnZoeUhnNXhBcVQtNDAxY3NWMEpEZ1dUN0wyaksxaGJvVkhjZW1scDBVblRNTVRXTVY5NTdRNDA0TEZIeEgxa1NsQS04MG9nS0VGZnRUVFkxWDdaZkxsUTB5Y2dlcHhrUXowdXliY1lMT0dnc2FuQ29VdVBXTVh1dVFtQkRoVWRmU0tKU2YwZHRZOA?oc=5",
+      "publishedAt": "2026-10-23T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-b36de73639f63a58",
+      "title": "The Best SaaS SEO Agencies for Scaling MRR and Pipeline",
+      "publisher": "365 Retail",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QazFmbGhNQmJrUENXa3pKV01IWFVjVnNXUmNNSEluZFM5dEh5VVB2bzluUHRkOGNET0ZXbHlpd1BjV2hWZ3NGOVJkYTNBUjNoVm10ZjFiVjJyUm9FeWZFUlZoLTJqQzhFU0hzZlVGM1ZObTNsUU9n?oc=5",
+      "publishedAt": "2026-11-12T15:05:24Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4ad4c10c8232c3e5",
+      "title": "Veefin moves to NSE, BSE main boards three years after SME listing; bets on ‘AI employees’ for next phase of growth",
+      "publisher": "varindia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXBkYTJocklYVFB6WWZWRmo0eV94QjMtN2pBbEx2RzFPTm5nWE14Yk1QLWVhSTU0SDE3dldpTlpLUHNSZU9rZUJ5ckQ5d1dnQU5QbFNxVTRKbGpwV3NKbHVZVEItamtGTmw3dEZfaEFpN1NfWVJvU2c1eGdlRW5NNW5yYzE1aG1qMl9pLU10YVlRVlJOTjhMeWY3MDhoYmEwV2hVUEJUa2JtRWdyQWdjMnh5U244NzVJLUktaGNTSnQxOFgzSWZyQzVaME9LdjBXTU1vOFhhMm9JbUFSNmZTQ2FPajJFN1ZJVGJlUjlrZnlybms?oc=5",
+      "publishedAt": "2026-11-11T09:15:51Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-779781d3eaf5ada7",
+      "title": "Snowflake Helps Enterprises Deploy AI Agents with Trusted Business Context and Built-In Controls",
+      "publisher": "Snowflake",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlZpcVZsSlhET0tLWmE2SS1ZSzFRWkszYWotOVN5Wldja0NhLV9fQlIzeG5sMmRKc1NnYlV0MnhrcUdLS0h5cGlNWnV3OWE0TjAxTG1vVEhhU2c5VmNQQkExb3o2OGNxR2lHRFpUX1FQaUpfbHhKeDBJYTlicndLaGd6RXBQbXRXSU1DLW45c0pnWHF4M3VCSzNR?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-19c5cdfa4246b82f",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+      "publisher": "Microsoft Source",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+      "publishedAt": "2026-11-10T13:09:26Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-184c4bd6c06de923",
+      "title": "The context layer every enterprise AI deployment is missing",
+      "publisher": "Zoom",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGTExXRXRXQUMyYWdkR1V5aGZvMkZaLUZ4WUdGUndudWEzYWVQaEpRTGxlZXU1bmJuM3h3QWxfMU4tTTNkV3ppWXZfaVk1RG5WNkg4MmVyR1UxUVNKOG1fUXlUWE50R3FxWUpkN1RHdUhxWm01dWZ4Z2wwX0g?oc=5",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e9fe9c5b4e39ef24",
+      "title": "IBM and Microsoft Launch Agentic AI Platform for Enterprise Deployments",
+      "publisher": "Petri IT Knowledgebase",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZW9GUmhqTldzVVVjR0hWV0JqaURoeWtqZU5HVzJzNklkazZ6dHM0d2FVVHJCalhHTF81ZjBBdk5hWGk0X0dnM0JLVFJpSEIxV2tCN25IMjk0Yjl6RmNyR05rc3ZzSW5zLUF1UnBB?oc=5",
+      "publishedAt": "2026-11-11T16:08:48Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c8a21b96cdcdbe9e",
+      "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did",
+      "publisher": "TechCrunch",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5",
+      "publishedAt": "2026-11-09T15:24:59Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-883a64bdaae0b6f3",
+      "title": "LTM and ServiceNow turn internal AI agent deployment into enterprise go-to-market play",
+      "publisher": "CRN Asia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWtaQTlPbmJuMjN4X0hMcWoxSkVldUVSWjY1UEVJMnhSNEpmbEcxS1c3QmtwcjczdFdhVE9EYTkxVkVhMGk5WWZkdlprQi1vZXBMcHVJQ3ltNVdJYUtpRGVLQm82U0FTS29talpYMkc3UzZZRXNDRjBtWjRHUGN6ODVPNUVtZ09XcF80aEstTWxxRDlsYVdXcHEzU3p4UURxd0FFSklfeHV3bGg3OXVTVElwa2VsbjlIMVNqYTRqbHo0Nkox?oc=5",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-aa806527b1829d84",
+      "title": "Israeli AI start-up NanoCo brings governance and security to enterprise AI agents",
+      "publisher": "The Jerusalem Post",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObllYdVVfNy1hU0dkdEVydkJQeC0ybmxqQzNORU44UWVOd1pyZ29IbjZha2JqNTctekhUb0JmcFRDRmpreVl4Ym1fX2xuOXZCYktkZENNODdRLU5kek5BZjhUMjFoUmQ0Y2ZoZg?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-02681847602936de",
+      "title": "NVIDIA Launches OpenShell to Secure Enterprise AI Agents",
+      "publisher": "The Tech Buzz",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0F0cGNtY2JRWE81bHpEeWh3eDhIakFUUUFSTUFVQzc5SDAyaVA5SEJPaEN6bURYdFBhZW1HMVdrTF9BX2RnaE9hcFhLamxwVks4cHY4SUFDZjNnNVA4dk5lYVA5ZWRKNnFfVEYtUjlHQVBWT1ItMDZ5SHYxUkN4SVRDb1hsZEU0Sm1tT2ctUEhkWUE?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-39a8d8347e86f9d9",
+      "title": "Microsoft & IBM: Inside Imagine Enterprise’s AI Agents",
+      "publisher": "AI Magazine",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjRBQ1hDSWstN2hLMEVMT1BVNUFWdFZsaW1DS2FoeDJ3NXlwQUdHUVE3NUx6M3BXaE14Rzg3WTlTVmtIU1VNUVlYVi1CWEZkczhvR0YzN093WjhyOGs2VEYtbEs2cUE1QnRIWUFJMmQxSDBPVU9MSDNnWk9XQlZ5czZWaXo?oc=5",
+      "publishedAt": "2026-11-12T20:11:29Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-367703dbedcaa7a4",
+      "title": "Viridien partners with AMESA to accelerate and scale enterprise AI autonomy",
+      "publisher": "MundoGEO",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFd1S0tKb0xRNEJaUVZMOWM3Njl5VUl0VTlOZU5qbFRWTjFuWEdMNFFhV3pvby1ERTljbWdnaHAzWVZ5SU5nSnp4eTdJMGdiZzZnOUxBelJ6eEoyU045RmhXWF9BZVZGenM5VldPVVY1eVZ6VVlmVVYyaUVFdnMtaXhibldpRHBOSU4xY1o5SjlET0lENXRuOXRtX2F1Mk9ua1gxT09EcE9BZlNHUXhXWtIBtgFBVV95cUxOeFhUYW9WVXVLN3dMVWY0U0ROazRWcE14ajJqOHpPNklMTEZFRjVSaTJLeW1NTWNEanRjUklkbGxLRy01aUJrZXVTWTFYRXA4N0FPMG9NY01VbGpiSlo5OC12bEtKMFVPUzJ0bDdhUzBBYkxYeGVYV3JHQTBPN3dJSm1yZGlCRlhDZC1pQ1dGRUg0YjNfcW8zUEFBMnFGMUp6X2pUVlFxVTNNY1VnQS1RbDNteWc2dw?oc=5",
+      "publishedAt": "2026-11-05T21:27:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d445931e9cdd7e13",
+      "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents",
+      "publisher": "EdTech Innovation Hub",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
+      "publishedAt": "2026-11-12T00:26:53Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e4370e4d03de6403",
+      "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
+      "publisher": "IBM Newsroom",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWJmRGsxR0pnTGhsTEdsRGZsRHNTMVRib1lxdDE2SWxhMkd4N1dQVVhZdnZUT2F6Z0ZIeWV3eDduTFJSd25hNkJMQ2IwVk52MEZFLTUwd29PSHhvbTdPQWlqcTk5V3ZGbkNjcnFHek5hMTloV1NFUmNwTXR3cUl0MTJBNzNRVV9wVEF6NjhPdDFJS3BlaU9ZZWZlc3NYM1hCN3JyazAzbFktQzFkRFpXeU4wbXFGVzNxSDFhMnZHNWtCMnRRSlloa21DeDZwUVZQZ1E?oc=5",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-321f00c7b85d129e",
+      "title": "IBM, Microsoft Launch Imagine Enterprise Agentic AI Platform for Businesses",
+      "publisher": "The Fast Mode",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbVVxVXBlNmNxckdnOUJMQU81NUwwdy1xdUVxcWJ4ZUo3TU0zeVRoaGt6cTdlRjFPNFI2d1B6OUZuUlVmcGxHRDdzT1Buel9XV3BPc0ZJQmNTY3EzaDJZeUxYUWk0OTZnUV9zYUlRcUFNWFdfLU1qSnlCUlVrSnJ6RzRoVEc4c2lhSDZiaFBaQ0h0by1jN015cENnQUlxTGVYSl9vcUJUeDh3ZnVULTB4VV9hbTQ2NndkWWZ0dWRYQTNLdlFfWTFCUHpvWW82UQ?oc=5",
+      "publishedAt": "2026-11-13T02:16:07Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-7d5cba8fa72000eb",
+      "title": "Stack AI's Max Poff: Enterprise Agents Get Crushed Between the Demo and the Trusted Rollout",
+      "publisher": "BigGo Finance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSm03RnhoLXVpajduMzFncDVwNDlUQVFQdkZQNldqWFlKLVRpUkJPRldRRXVySUtIcE1LZTR1QkRNWjBKbldDTkR2VG1uc2xLeXNodVIxM0ZVV3M?oc=5",
+      "publishedAt": "2026-11-11T12:08:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-001e4e012a1a975c",
+      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365",
+      "publisher": "Microsoft Source",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
+      "publishedAt": "2026-11-12T03:41:41Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-0fc135b50962969a",
+      "title": "Kindo Raises $30 Million to Expand Enterprise AI Agent Control and Reduce Costs",
+      "publisher": "Unite.AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1bDg3WDlGLVdvRUF5X2thVTZsV1dWMlVxNlRrV2dlWVU0WVAxa0M4eTJNeEZSYmluZzRCZVhkSWF5WWNic0Zwa090WkxYODRCZVotYU1kTFZrYlQ3YWJGRkphUzBzdk85WUpaaExtOS1JVWVx?oc=5",
+      "publishedAt": "2026-11-12T14:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-70c32885b4d77fe2",
+      "title": "5 Agentic AI Certification Courses for Solution Architects Focused on Reliable Enterprise Deployment",
+      "publisher": "Tech Critter",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMF9yc25zOFdJMUlpejVsNWh0U0s2Mk9OV1BjSHNWbTF3SVNwR1l0dE12QnlXMGFfVERQSXdiS0Q4cHBUak11OFhqVGM5Q1NlV1EwVEpkWFlLajRXUWNRQk4taVVVdzZVU3VRTjJvdTVBaXhRckg1RkotaHNYbmRlMzNZZkhiNlNxOFRCMlFjcW1TT0YxbjBLd1p0NUp1Uk9rWnFZQlVIYUtWQWpxbUVIbks4U085Zw?oc=5",
+      "publishedAt": "2026-10-24T07:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-994c75a4a660e3c8",
+      "title": "Amplitude Cuts Product Cycles to 2 Days With OpenAI Agents",
+      "publisher": "The Tech Buzz",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3duZXB2VE5MRDhEcUF4QkdvVVB5SWw4YnlHby16ZWhzdWFJNFNyOXQxc0pBSzRiVFVza0VXLTFqcFA2cmlZeFVTaWlqaHdxT3FSUHRXMVVwa0xGaWE5c3FqdFFoYVI0bW5Ua3lMQWJzX0pkenc4ckJ6eVZlMHhJcVN0QzZlR1BZb0dZNzBDNGcxXzhodnc?oc=5",
+      "publishedAt": "2026-11-12T21:08:41Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-408c46fe8c536c60",
+      "title": "Enterprises Rush To Deploy AI Agents But Struggle To See How They Actually Make Decisions, Dynatrace Report Finds",
+      "publisher": "SMBtech",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnBBWjdXUjA1OEVka0lvNU9MVHJhRndNb3RpdVh1OU9RWGV0N1ZYUDdGcVNyZ0tfNkJiOW1waF9Zd0ZROWc2OFEwUmI4QVFwbS1CXzc1VlYwaU1QT3lpUVE3T25lQ1VKVlN2NDNqRDg2UkUzNW1IMnBNSlhyYWJjTS1KVnFCSmg0SlhERVBwdFpHdmJsMDhGUEZBMWlnV0xzaEV6aTNmT0JRRC1VM1ZVcWNMUlNHY0QzQVpIUU1yZzMtZ3lWQ2ZJaFprdkI3YWJDNWs0?oc=5",
+      "publishedAt": "2026-11-13T05:49:03Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ecddc91c69cc8d37",
+      "title": "Enterprise AI adoption: Genpact's insights on agentic operations",
+      "publisher": "The Cryptonomist",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZVhPSUM2UjNaaWRFTC16a0lyY1BScHV4LTg4d1B2dTVSZnRQMUhtVm9oT3ZxUEt1WkZxVGdmVjJBOVlUdXJmN25SUVNZSVg0OTNoc21VNUVLTjJsNTVOVGhkTnQzOUJ0UHZkRFZ3?oc=5",
+      "publishedAt": "2026-11-12T11:54:51Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-47d349da0dc108e5",
+      "title": "CrowdStrike Extends Anthropic’s Claude Cowork Enterprise AI Adoption with Falcon Guardian Protection",
+      "publisher": "Business Wire",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ0JKcU9QbGlGdWh4ZnBvdFhtSFVkYlhTVDBhNldJbUkyeldBaWRLR0d1dHh3cGRFRE5VYkN1UzN2WHpkc2I0ZDRxN3pSeTBpWTVsNHZfYmJ1QjhFdExrTlh3WWxOcktmN3ZnZXU1dmt0ci0xNFJBZ0xMMjA3Q0RONjBLVWdqMGhmWUZxeGw1dUptVDRSTGpwUVFVVENoQnVmMTBNMlVONkFWQXl6b0tHc1lhMDM2YnpFVEpQX3NBU3I4NWdYVDE1WVdidDlFTTFoeVZER0FySzJwaWNsYUt5NlQtaHB1NktCUGN2Wg?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8f0954b796eb4224",
+      "title": "Enterprise AI Deployment Spending Reached an Estimated $176.8 Billion by September",
+      "publisher": "TOKENPOST",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85OUxPbHF6M2t1YmdFQXlxMng5aWJaZDNvQTlOOE1mSHFRdEpDUUExZm9qcFdlLVlQcjlzWUFlRnBQOEtBbGVVa3pIVlczdzBUam5CWWk1SWw?oc=5",
+      "publishedAt": "2026-11-04T06:41:17Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e0b4d41017af6df5",
+      "title": "IBM stock gains as Microsoft AI platform expands enterprise push - ad-hoc-news.de",
+      "publisher": "ad-hoc-news.de",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkR5M2NEREdmQVJUVkRENEVTNUFzcHdMSy13RTdMT1NiWnhZRU5kak11eHkwUXFhUlNGUXZZcC1RZ3RYeXBGWm1INjRrVTEwMGI4emJ5OXVtQVQydU1zVmF4aHp3ZGh1YURvSU1YWVJQOF9Rd2RDRVYzekZlTDFQTS15VEF5Y19mN0xySUU5OGdqZGc5SmNsVGc2dXk3NHBBTUZNajNaUHdtRlMxYmtLS2NsUkJOS2xid0wwbHNScVpzZkJiN2c?oc=5",
+      "publishedAt": "2026-11-12T15:35:22Z",
+      "firstSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-13T19:52:29Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    }
+  ]
 }

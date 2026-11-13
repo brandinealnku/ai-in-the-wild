@@ -1,12 +1,61 @@
 {
   "schemaVersion": 1,
-  "checkedAt": null,
-  "status": "not_run",
-  "sourceSuccessCount": 0,
+  "checkedAt": "2026-11-13T19:52:29Z",
+  "status": "healthy",
+  "sourceSuccessCount": 6,
   "sourceTotal": 6,
-  "newCandidates": 0,
-  "totalCandidates": 0,
-  "pendingReview": 0,
-  "sources": {},
-  "disclaimer": "Discovery candidates are unverified; none are automatically published as verified cases."
+  "newCandidates": 154,
+  "totalCandidates": 154,
+  "pendingReview": 154,
+  "sources": {
+    "enterprise-deployments": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 23,
+      "newCandidates": 23,
+      "note": "Google News RSS discovery; not primary evidence."
+    },
+    "measurable-results": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 21,
+      "newCandidates": 20,
+      "note": "Google News RSS discovery; not primary evidence."
+    },
+    "failures-incidents": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 27,
+      "newCandidates": 27,
+      "note": "Google News RSS discovery; not primary evidence."
+    },
+    "health-finance": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 31,
+      "newCandidates": 31,
+      "note": "Google News RSS discovery; not primary evidence."
+    },
+    "manufacturing-retail": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 30,
+      "newCandidates": 30,
+      "note": "Google News RSS discovery; not primary evidence."
+    },
+    "agentic-workflows": {
+      "success": true,
+      "checkedAt": "2026-11-13T19:52:29Z",
+      "lastSuccessAt": "2026-11-13T19:52:29Z",
+      "recordsSeen": 26,
+      "newCandidates": 23,
+      "note": "Google News RSS discovery; not primary evidence."
+    }
+  },
+  "disclaimer": "Daily discovery is not evidence verification. Nothing here is automatically approved or published as a verified case."
 }

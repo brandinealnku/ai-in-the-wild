@@ -1,10 +1,15 @@
 {
   "schemaVersion": 1,
-  "checkedAt": null,
+  "checkedAt": "2026-11-13T19:52:31Z",
   "aiConfigured": false,
   "model": null,
-  "newDrafts": 0,
-  "draftCount": 0,
-  "statusCounts": {},
+  "newDrafts": 2,
+  "draftCount": 2,
+  "statusCounts": {
+    "needs_human_review": 0,
+    "needs_configuration": 2,
+    "insufficient_source_access": 0,
+    "assessment_error": 0
+  },
   "publicationBlocked": true
 }
