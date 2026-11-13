@@ -30,9 +30,13 @@ No discovered or AI-assessed candidate is published as an approved case automati
 
 - Read-only review interface: [review.html](review.html) — on GitHub Pages, visit `/ai-in-the-wild/review.html`. It explicitly labels all records as **unverified**.
 - Pipeline: [scripts/assess_evidence.py](scripts/assess_evidence.py) searches for related source material, retrieves limited HTML text where permitted, asks an LLM to extract source-linked claims and contradictory evidence, checks that short verbatim excerpts exist in retrieved text, and generates `proposedCase` editor drafts.
-- Setup: add GitHub **Actions repository secret** `OPENAI_API_KEY`; the default API model is `gpt-4.1-mini`. A valid key and API billing are required. If missing, drafts show `needs_configuration` and no AI call is made.
+- Setup: add GitHub **Actions repository secret** `GEMINI_API_KEY`; the default API model is `gemini-2.5-flash-lite`. A valid key and API billing are required. If missing, drafts show `needs_configuration` and no AI call is made.
 - Source accessibility is not guaranteed; paywalls, anti-bot controls, publisher terms, and redirect behavior may prevent assessment. Unavailable evidence is explicitly flagged rather than guessed.
 - Output: `data/assessment-drafts.json`, `data/assessment-health.json`. Published `data/cases.json` is never modified by scheduled research.
 - Safety and review details: [docs/ASSESSMENT-PIPELINE.md](docs/ASSESSMENT-PIPELINE.md).
 - Run tests: `python3 -m unittest discover -s tests -p 'test_assess_evidence.py'`, `python3 scripts/validate_assessments.py`.
 - **Verification status**: uploaded source and workflow files are confirmed in GitHub, but a successful live API-backed assessment and end-to-end GitHub Actions run are not yet confirmed.
+
+### $0 assessment configuration (Google)
+
+Use [Google AI Studio API keys](https://aistudio.google.com/apikey) to create a key in a free-tier project without billing linked. Add only `GEMINI_API_KEY` under GitHub Actions repository secrets. The pipeline permits only `gemini-2.5-flash-lite`, processes at most two draft assessments per run, and never switches to a paid model. Free-tier quotas may change. If a key is absent or a free-tier limit is hit, the dashboard stays available and case publication remains blocked. Free-tier submissions may be used by Google to improve its services; use public sources only.
