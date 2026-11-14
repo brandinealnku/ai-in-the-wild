@@ -1,7 +1,551 @@
 {
   "schemaVersion": 1,
-  "lastDiscoveryAt": "2026-11-13T19:52:29Z",
+  "lastDiscoveryAt": "2026-11-14T18:17:52Z",
   "candidates": [
+    {
+      "id": "candidate-c71d21b68bc9b4bb",
+      "title": "Genpact Study Finds the Real AI Challenge Begins After Deployment",
+      "publisher": "Newsweek",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTB4S3VBRVA3WENNZUk5YXFrdmhkUFFyT0d5ZDZFekZXZkcteUx0RlZqX1YwaTdWMWlXVnc3TGVCRVhOTjhDcVd4ODhxUUc5LUhBem5ueWpSMWpGQnN3RVZ6SE9SYUlBREVOd2xUOGZVam95eGpET3BfVEtiWW83YkpMQ1JIdVdndnc?oc=5",
+      "publishedAt": "2026-11-12T11:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c86a85e2c12577f7",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "publisher": "Financial Times",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+      "publishedAt": "2026-10-23T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-03039825ce55cd1d",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "publisher": "BBC",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWVdJWjFtOWFyR2FOZzJSZlF5TmFGZDh6UVV6SHZ2V2ZvV0NDdm9hVUVBWDVQYjhZYms1aDA4YU9iRzRoMmpSY1BJQ1puNXpCM3RoLVRDbWU3Zmc?oc=5",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-90afec411d2812e9",
+      "title": "Companies are not saving money with AI, Gartner finds",
+      "publisher": "HR Dive",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTTFER0hkSWtaTFA2OVpnYXFCWTQ5YWRZWFlGWndSM0VDZUdpR25KZ2hqNXh1RWVFSFY0T050MVpOMmphdThZSUpLTW01ZHZIMlhIYThId2l5cnBPcHJlTUNiX2ZhdWhnYjJReUR1cXA2NlFOeENQOFZHZm81R3M?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-eca8025477805046",
+      "title": "72 Percent of Executives Say Companies Aren’t Really Transforming Work With AI. It Shows Why Increasing Productivity Isn't Enough",
+      "publisher": "Inc.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOE5sZlpmajFsSkFhZ1kxOVJ5NXd0VkJFMTNpVWN2QWRyOElpd2ROc2c4ck94YUtueDdPdmVlTXZCLVR2YW9sX2NFd3hMYmdjNFZlNHluWDMyYXlrN3luLVp0NUVkZXhienFxTVdkY1cwc1hXaVVGUk9XdG1XYzBuNFhKZjFaZXk2ZVJRMUlSQUdGWnhJS0Fsa1lHS0lsSEt1QWlOaldpNWZtdjg1Sl9hZXJzZXozVWliZjV1UFpZRnZLeXJsZ0VKbW1BZExtSjYwcWU5MjVUWExhbWx1YjBqcXZuMFBGbXVadmlBMTJSbVBiRnh1cFhma0pjUG1GaG5N?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9826113a0d510ee8",
+      "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI",
+      "publisher": "About Amazon",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOajY2MDU2cll6ZWRoYVVWb3hXd2Zsb2xMbjhkOWNMRVQwd0twRFJUX3J5WjBFWlpycS1LS2UzTngxbU9kTmVTQnN2RW12UGh1S1UwWktOeS15bkdVSFNRNndqYjlCUmhMWTlmaW01bHI2UFhzc2NDUXc1c1lEbG1XN1JUTkdLQXVpaW91UEdDSHV2dw?oc=5",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1602b5992299d7bc",
+      "title": "Applied Materials Earnings Call Signals AI-Fueled Growth",
+      "publisher": "TipRanks",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNam0xUUxTUERzTldETFN0YTRRU3V5VEhPYU5jQzhUNFNHMzVtVDNhVHdRWElMenR3Z1l1VUR5RUFkZlpPSjRWaEx2RWJSaDM0LWlfZldpVUwzUXRUc0p6SEl6Y1dibXYzSFc3Z0NIM3VVMUpKQWFqb3JOd2NtU3BEVjJMSFE3dzctYmViU2FpcTJDcmh6eXJQX01hNHI3SGU0cTl5N0pULWtwakFE?oc=5",
+      "publishedAt": "2026-11-14T00:08:45Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-45bd2ecec2ad4b61",
+      "title": "AI Companies Can Read Your Private Chats. Here’s What to Do About It. | Reviews by Wirecutter",
+      "publisher": "The New York Times",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lbkJiTDVSb2p5c0Q5NEdDMzFFSGctQjF0dGVhNTlZbjdVSlVtb2Z6MjVCcml4Qk1QemJYWjlQZU1sNVJRejNHWVpaNVh3ZkZKRVZuYTBVQmFSM1hCYkhMS2JGOEpIOXc3Mnc?oc=5",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-256c503df24dca37",
+      "title": "ChatGPT Is Giving Voters Ludicrous Misinformation Right as the Midterms Hit",
+      "publisher": "Futurism",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXJZQlpQTUlUVUs4dWhnQ29UVGxpc0pybmFOcXZDMEZaTURZZlZpNTludFo4bGJzUE10eDBLN3pna0RKdlJHdHE4TFdBblduUmk1VW1odGRrVjc1Qk91VV9Zc2lsa2d0QUl6NzI2eDlhRE80eVkxYkQ0YzUwVXVtZk50OWpZRTdZMkNNaElJamRfei1JT2NjMg?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-2f4b934ae0707bb2",
+      "title": "Teens Are Asking ChatGPT About Their Futures. It's Getting The Answers Wrong.",
+      "publisher": "Forbes",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOU1MRTBXenJ3YlBERHZ2NkowX1Z2c1h3NDdpeVpGSF9DaklpMUhiOHRxSlhEc2lMZUZ1ZjZiMDNXSDlFMEozQ0luRzZwSUh0elNDTFprQUMwNUkxUHI3WUIzQ3owVEtGV2JpR0F6TXJTeWU3S2prWTcyaE9WTm10WGUzdDN4dThqeFlmNDloSlAyYjVNWFp6bG83VGFFX3c3bmxBai00R2NqbFNfUk1uNGNqTTRBLXBycXpxUW01RnlKNThG?oc=5",
+      "publishedAt": "2026-11-09T20:33:58Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible adverse outcome — verify with primary evidence",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-614bfe28f58d02cb",
+      "title": "Kakao Games, Krafton back AIZ Entertainment with $14.9M for AI chatbot messenger",
+      "publisher": "Dealroom",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnVCQWg0ZTRob1R2d1JUazVZRkRqVXdXQk8xZm9iUEFaU1J1N2YxWHhuQUxraTZvM3d5WlNCbGt6Um5PZUEtRUNCS2hLQTkyMDFFOVd0bGt0TktDclVDcDBUVUVHaGtESkFuY0F2OTJvbUNMaldYLWJJbGdHREJBSGhQNHh1aDZVdEFfRkFxYUlTRk9oUjl2U21GYTFyVVpLUlpXRlRPZHNtckJINUxqTzVB?oc=5",
+      "publishedAt": "2026-10-29T03:56:26Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cf79f8a94b790f12",
+      "title": "Can HMRC See Your ChatGPT History? What UK Taxpayers Need to Know",
+      "publisher": "EasternEye",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTXRiWVRfczRwMW5IS0F1QVItT1hJRktZUmdWT0FDRldWYk5tVUJObFAybmhscThNOHNXc3ZZSWZJeHZDVVNDVzVneGI2eFkzdllOcjIzNlN2UERHUG1nbGRUUl9Xc3hIalpVWG9wa3VteEJ0U3lQaFNQNlZnaUxfcA?oc=5",
+      "publishedAt": "2026-11-12T11:06:14Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-91950fd5f04b5cf3",
+      "title": "Just 16% of AI-using healthcare organizations fully document model checks after launch, CHIME finds",
+      "publisher": "MarketScale",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclZkZFM2aUNORF9XdC1TU0ttS2VPLVJUeWU5T2hHbE02MVZ4VnZDSk9UUVIybGpCd0poWG5LTHdQX0xPQUNYYW5HOWNtVFZLc2xlaDl4c3R6MXk5eXJVS3RZS1VvcGc0TDUwSmhkY2RQLTZpeFZjb1BJcU9aU3VJUFlScHF4MlVHRndPWXlNM3dmcHZmU1dpa3FqWERRUGVTWDN6QjQ3eDc5LWd6NTRnVS0wYVdlTU5KZmJ3X1czNF84Z1NtSFlsb0ZFVGpfZTNOT0c0?oc=5",
+      "publishedAt": "2026-11-14T11:13:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-2affb26ae73e46cd",
+      "title": "AI adoption in UK finance reaches 86%, study shows",
+      "publisher": "IBS Intelligence",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmJhMUk2cWl5SGtla3Y5TTJoZWY0MFZ0OHFuZGU2YjZLUm9BVjU1QUlBS1FTZERab1NZdXVEOEh4YllVZHh6YW9PV0lvc0xMdHBWNW16N0M4clFLZ1poTWJpMUpCQjlRdXRfSkZJVm9kd3duaUF1M2t2SVZ5Z3VaVXk3ZDlMaktQMmZMTDFrRlA?oc=5",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-7c5d696773af3095",
+      "title": "Artificial intelligence in UK financial services - 2026",
+      "publisher": "Bank of England",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUpfejFXT1hGLXJzVExZWWNJM1lFSHVJaEFnZE9rQlN5OXppd2x2ZmRmTDUzTFVBakoyTkNULWU0U3o4TkZBbnZsdnNXNVcwNEJIQ2VheWRpUzduQTNRb2hLdUpOSllQNDhoVl95bmNZSEh2YVBxMk9aQUt2djVBeXhBT0o0UExVV2daMll0MUJEQ1EzdThMQTNRbkxMdw?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8a78e205a5dd35c5",
+      "title": "Banks could recoup AI investment in 10 months, but costs may reach 20% of labour bill",
+      "publisher": "bfsi.economictimes.indiatimes.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMXJOczJOYTNWY2xoV0JnQ0F5b0x3blZUc0d6Y1RvcFZXS0VzcDRhWjNtSGpieENQdUxXeDhoblJ3aG1zUXNDMmpXSU9VUjdFTHIydzhVUWJFNDJvVENpNkFmVFRjT01oSG91QnJvX2oxVGtsWjNrT1RiQTNWN1BKRG8zSXdVSXRfdEF2NDdaOGU1SHEzOUtPeUxLWXZibkt1SFZCdWs0RGtEZjFsM1I1cWVQaC1yY2ZPa3lrNkVwa2gzMjcyOVVOQ0VNaUotbGdOWHBzMDIzb1ZQbFJV0gHiAUFVX3lxTE10QnJiSHRrZ2JPOFVnWDhvSU1RTkFnVjZPWlZWMHlJaHpoV3Jicjg2dWhaNzltdFdxQTN5QTFVQll1X21IS0k0cGxiWW5xRkdDTmFXNEVIM1E2bUZmbjA3d0k1VHdDb1FnUVBHM0NzTm45dVVoM1JITzB6T0szMElod2hxWlp3UWxaMEtjdVdOMmxTR1lpSlNnb1FyRkg5QXZrdnJTUFQtVWFkeElSUTVVcG52bGZZOHFUQWNHemFSdGpmc0tnZ1dUdVlHWFNXWlFmNVpDZVBPVU1NVHRITER0THc?oc=5",
+      "publishedAt": "2026-11-13T02:57:55Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-01f3c5f1deccf903",
+      "title": "GenAI in the Medtech Market Size, Share, Growth Report 2034",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fR3psb1RQdlRkdVRHNi1tUWQ1bjk3c0FKSVJTdXR0UEp0MzZYMFNQMlhHQ1dwdWVFUXVWeFc1SDdfanZJUk9lZlczOFVzQzR1Y1hZQVNzVzdGVGhmQzhxSXZidEl2NFR4V3dUVkN0VUZBUWoxWkdVUTNMOUQtLUE?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ea37bb5f4e843177",
+      "title": "AI-Powered Mental Health Chatbot Market Size, Share [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVpb2dLaFY0bm9rLXM0d0xiUWNlTWdJX0ZNVTZyNDZGTFlLZnlwVGVtTndDUDNXVkllZEhCSm1zalN2VWhkclVYQlV3aWE5NEUtVW9manR5U3hkMHpkb1NINWh2YWloNG52eFV3SlQwdzZMLXI2YVI2QVBhSWVobi1pZUtJMGszQ2E0ckdzOA?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a3be58347e9c5be3",
+      "title": "Edge AI Software Market Size, Share & Industry Report [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDT3V1V3ZVOG51eThjVlZUamlmLURNSUNDb3otZjJpdTRsa19iRV9KUlpGcTJmakZ5b0R1aEJseFVwTDdDM2ZoMldtREJURVM5ZnNLaHZabTAwMVBaVkdkUm9aXzd4aG9CT0p4WE5LejJIbHNrdVkwSHlR?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f0ed9244e9bc306e",
+      "title": "China proposes new export controls on artificial intelligence, biopharma, and photovoltaic technologies",
+      "publisher": "White & Case LLP",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUluM3JRMHRybHBfX0VRX2dPMTRaVEpldTJSMVo5RURBQkYyMzVZOFhTaDU2NmE2dEdEZmNsSzdLWmhQTHd0VnE3c1NEa3pfMTIyRnRCY0xIMk0zaVhNT3hzVkF0SWxqNzg0eklBTEFVZDE2NmhhVzhpemxndC1vN3V5Y1V2blFLM0t6c2h1bXRobUhPM1VDMWlxb0VTT0dBUnJrVWg3eTFGUTNRTlJRM0M4eWdrY2EtOVF3VWU3YkdrdUU?oc=5",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-81b7def7876ad915",
+      "title": "Tech Mahindra, Nottingham Spirk Partner on Smart Manufacturing",
+      "publisher": "Tech Mahindra",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjd2YUg0VUoyVDUweVZBOWltMEdudTExRklpSnZpZE40TVhVZkhmdERvd2hNc3ZJQjRpOEp5WE4wc0VtSnpQS1RZdHh2SWc0bEY1eFVmbVhaWTVzQWdUZTQ1aS1nMlBIR1F5d0R1Y1FjTk1wajI4QUlnV0hKNWlGOUNEeUR1STFjM0E4TUdvMGNDNHlyWHF5cXRoZWxHMGVuaU5MTHpxZTlhY01FdC1PUXlUaXB0NXM5VjBPWU8xX3k1Z3M?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-875447cacf586ae3",
+      "title": "Honda Will Build $3 Billion Hybrid Plant in Ohio",
+      "publisher": "IndustryWeek",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVJMeDhTX0VyUzVZV1pucVhqUWRQVnVUNzI2ZThYeUZQOVpvdGk4bjFTVmtiUGxmeDRxc19Kay1ja0hEcW8zd1hKLU1Ra0ZDWFZEaEZaR01BMDNqWmljaXBkWWRQUGJkUFkzeXZycWZUczlaTHIyeFYtRzZ5N2EyVjljc1BNb0c5MHl1NTdYd09kdjFsNkpMYWU5MVlyNWtlR1NESlRQcXRoZmlHWWl1Ml9GM2Zlc1g0bk1GdDNwZXV0b21FN0h3MzdacDFsdw?oc=5",
+      "publishedAt": "2026-11-09T19:01:38Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cf79b950ed774969",
+      "title": "How AI is changing India’s manufacturing sector",
+      "publisher": "The Times of India",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVGcxcWUtWXdyb0NqRkd2aTFMUFBLcWFQRm10aDd2d0Y3UnhuODk4RTcwbUlKYjRhMkdVZ1A3ZTVpeFo4LXpUY2lVUHN5TGFGSUgwWENDTzFDRzFob1JXNWFpdFRHSVE0c3M1TmJCNWNqNFE0RU45VG9zdm9SeEQtZmV1OVZYa1hnTUwyQ3NMaDFyaFRDdklMc1RVcEY1MXhPc0VKdFo4c2pTV3ZvaEpqekJtQXZNZ1lCU2ZFM2RGQXbSAcYBQVVfeXFMUHE1bFFUM2RDOF9LUVJZS0tJbGlFQ3AwbDhpRUxQUXcyN2hJWF9IQm96bkdXRGgxVXhrT2trSEVhU29LREVvS1lHeXFSRHRtY1VvdU4zbWNYeHpUTGtZZUlkS0tXbmdyYmRQVmh1WmNGX0oxSmwzLWhNTHdBNzBqX3huWUZVTU5CbzFza20zeE1NR3UybU5feHBTRjBPN0VLUnc4c1d6MDhESzBGNkc5eXFDMktXbW9LN0JhRm8zeFUzdm9QdXpB?oc=5",
+      "publishedAt": "2026-11-09T03:30:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e9e2fb23d56a5fc1",
+      "title": "Newell rethinks IT service management with agentic AI",
+      "publisher": "NTT Data",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFVsTTRKRzZiMGFjUWFfRmpoQVhQZTJSZUFCcGpaWndyeU1jeVRadUl1YkVtRHhVWUFVc0xKMGJJQ0t3RnRqaWdyaW5oV29BSlBxWjVNM2h5ZDdpbHRURXNrRmNVZTQtZU9CVHQ4QldFWWpiM3JWREVjZWNkOHlVWmpYS3E2TTQyeWhNMnZKS2VDREc5T2hLSVI3bW8?oc=5",
+      "publishedAt": "2026-11-03T19:36:05Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a0fc070e04717682",
+      "title": "Zammo.ai to showcase Zammo Agents at Smart City Expo World Congress",
+      "publisher": "Technology Record",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUxoYVJXcENoeWZkMTdOdDBIYlZhVmptUlktQ0hKaENKX1NXYU9QSlBic2ExaThVOV8xMTFua29BQS14ZDR0ZW4tdFZCZnlkMXM4N2lZSG5uRjlUWlF6TVFxLWIwOUktZEJteUFBb3U0VmR4MUNzY3piWml2UEhEdTNzbUhuUERPOWFHZlZ2M1RKNU9ubUhLc2tYOGJ6NWJteWpPV0s1eEZPX00?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9dc31161d4c98a4f",
+      "title": "Compello Partners details manufacturing IT carve-out that exited a 12-month TSA seven months early",
+      "publisher": "USA Today",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbHhna2RKMU1iU1EtaFd0WVR2THAyM21RNEpvcUpmTG83Ym5rXzZBLW1ubnZJQWpTTVVMTmdqWjk2M0UyTXZaQXRiSDVQYzJZMS0xb0NlYnpBdWlqc1JtOGVobVE4MXlFRXB1S1p0WGQxbkx4SEszS08zYmMwVl9oOG5qU0dYQ1gzQTB5VV92b3Y3b05zVUNLSWhtSmNQRGhtUllhM3dsV2JtWUxKNElLSVZvS0pwSHY2VnVfZTRBVnBqUWZxQWdrdzB0YklOSkFFbE5ZeW9EN1hlOEpqZmttdDlEYnE?oc=5",
+      "publishedAt": "2026-11-14T10:29:29Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-09f3caddd7e6af6e",
+      "title": "The AI Supply Chain Management Skills 2027 Planners Need",
+      "publisher": "AICERTs",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZDY1kxMkdQZHFSR0JGOG5DUkNpUkw2NzBQSlEtNVcyZk5yWDFrdXVjZE1iTFl1LXVOV0haVXgyVV9FcmhyaU5HZzRBY0JzS1JySjFHcWJJMHI5bGVhSTI2aDZUVzVmQXlFSGpGRi05ZDhxSTFWNEtpVEdlZEt3UTBGRGNPQ2JoOGxiQkhnVQ?oc=5",
+      "publishedAt": "2026-11-14T17:47:17Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d3517878a701de1a",
+      "title": "The 85% Ownership Gap: How to Contain Shadow AI Agents in the Enterprise",
+      "publisher": "Cybersecurity Insiders",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJTdVV5dVRGYi1kNm1xVnRzMWtSN00zX2l6ZVdpd0pNQllsd3J5TzBaZnQ4OFNOOHdoSEdzT2RpSmxWdzB2NEV3Y1BpLS0tUzBiNTZMc3dadFZoUXBNcjctUnRmRGd2X3hoM0F3dlh0TEQxN2tJLXU1dm9TcVhrV29YOUI4R3JKR3pUZkgxQ3hiaUtENi0tdTd4Y2M3MWNyUE9TRGNXelBnOGttZlp3?oc=5",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5cc5c63229f630b8",
+      "title": "NVIDIA (NVDA) Launched OpenShell For Secure Enterprise AI Agents",
+      "publisher": "Yahoo Finance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVNHYUEyV1FGaExNaEpkNktYTGlDdG1FZ1Z3ZjVaT09uWTNIbThzelFFcVRTM056bU16emNEY0hMb1N2aGpfYXBJckhnVXZXQnF4VFNENDV1NHJfV0F3ejk5RjNkcDZ6TjNscEI1VXZHeDNHZVM5eXc0SmJIS3NjUDFMMFlGX0lmX0VxRXRHN1luNXUybUQ2UXNvTFJ0TjJFSjBz?oc=5",
+      "publishedAt": "2026-10-22T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-735033786c7cb894",
+      "title": "IBM and Microsoft introduce Imagine Enterprise for AI agent deployment",
+      "publisher": "Portal ERP",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXhTWXdQV2FSMnhfb0ZYaDE1RGJxRlhQWmgzOVJ5QzFHTU5aYk5rZ2dra08zOHRZM2Mwd1BYaTk0andja2RGX2pmQ1lQWnNtVC1mN1lJeldiVXRPVnNSRFlIcXV2aF90WFJiUFRkQ0Y3UEhjOWk2UkpveU9WN1E3SlR5OHVlY2RSb09GMU9FX29OLXJHemlLTlB6aW5CbkE2MWc?oc=5",
+      "publishedAt": "2026-11-14T01:17:46Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-bfc5da81409bd1a6",
+      "title": "Deliverance AI and HPE validate agentic AI architecture for enterprise workflows",
+      "publisher": "IOT Insider",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2NLR0tuOU1mZWR5ay1MLTVzandISE92N2RfRzlWY0FNN2MtZ20xOFVxRG1SSVp4RHpKOXdPeExsN0Y5TS0wSWhoV0llUTFpMFBPNVVBanZSVGdjeFpKamZ6VHJDTFRyZklhMW1PRmF0bHlSWEd6R3VlWlVISTN6dUF1ZnNiTjdBZ3N6X1NBYjlfUWszLXNOT3R1U1l6cW1uREhQOFpZMDRzajlVNjljbzlTdnNvUmJTODYwczJoOA?oc=5",
+      "publishedAt": "2026-10-19T07:00:00Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3369ba615b3df1de",
+      "title": "LangChain: $300 Million Series C Funding Led By CapitalG At $3 Billion Valuation To Expand AI Agent Platform",
+      "publisher": "Pulse 2.0",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1RvZmIwYTBTeXBsakN5akdmZkNtUWtnS3UwWTBCdEJMZVBuX0plZVRRazVGLUY1bjhCTVM4NUhrU0k3WUF3YTlmRkhIZXlnVjl2ZEFmMGVJcEhabTRhYW1yMWhXTExTMkdHdnJ6UUlYZWZTeGlwSWV1QjJOTmc0dW9za2FYWlRiaWlYTWxEUXdfUndNLVl1VGt2a3RvRUhRMDVLYUlneDlqdGFlR3hnSFBDMFd6dzZhSzNGbW1EYjRnMzQ?oc=5",
+      "publishedAt": "2026-11-14T13:59:29Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9bc2640e7fd924f9",
+      "title": "Hitachi Vantara introduces new VSP One Object and Hitachi iQ Studio upgrades for enterprise-scale AI deployment",
+      "publisher": "Tech Critter",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONW41TXBFTTRoWHNleDNCY2hXM0hDdTFDaFktRVB0VS00Wk9jOFNjSm0wT1dEQXF5V2V0ajAxREp0dGtmQ0R1dkJjRFBTRHdJVHpMUHk4alJvbnAxanBsZTFpcmVvRU00ckJ1RGwtMzJ6QUdSMHVlYlZKVVVkQ0RCUEt6NjZQRTAzQ1NFeWlnTTNKLWhaa1Nn?oc=5",
+      "publishedAt": "2026-11-13T12:00:16Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-7ab11f1945ba54b7",
+      "title": "Microsoft stock pairs AI platform launch with power-cost pledge - ad-hoc-news.de",
+      "publisher": "ad-hoc-news.de",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnBEZERDTVpMZGhsOVFyWDR3ZlZvTWM4ak8yUGV0aTAzSlVyTTRZTHpmZEJmcDdJODVhQUt6dnpyczdlelpWSG9ZS0ktZ0tJcGQyNTcyaFlXWWhrX0cxLWhqRkdhb19tdnc2NzdQZlR2SVRQaEJTSmZNRkM3b2VzaWdxcFctVnNzaGV5NmdYX1dwU1VDZUR0Z0ZSMXlVX3I0OEdJbGVnSTU4am02X1Z6dGNfclVUVXNZSG4zMVdqdnNodkpk?oc=5",
+      "publishedAt": "2026-11-14T09:49:48Z",
+      "firstSeen": "2026-11-14T18:17:52Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
     {
       "id": "candidate-51864669871b22f7",
       "title": "The Deployment Failure Holding Back Your AI Investments",
@@ -25,7 +569,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFM1SWpWQi1pNDA5UDBzSW9qVnlDZGFLVkE0ajc3eWdWQkdvTUN4NHV5VjR2V2JORDBvMnJnOEt4bVFJdzFWVFhSTFZOaFY3ZE1IeWFRYm9aY2d6U3d2M1JvZHhoWXZBZmdKdVVWMzJrc1ppUG5wVnQzYTdEY0NJZlBkelBCeUZFTWNHUHZsdTNqQmpKOG9SNUlVcTNzQ1NLcndXeU1n0gG2AUFVX3lxTFAxNE9vemx3Q1E5Ym5zUmRRWDQ4MkJuNFJpYWpKaWNqYkdnUk9fN2ZrbV82MWVMMVJDel9faW1vYW4zZF9pN2V1Z2ZJLThIRzd0WU9rZjA0b1RlakthQzVsYzFFYVlRbEpTSk5YNkttSXU3b19NVExtNFRtME1xVl9DNDQ5MERaeW10T0RfQ2U2Wm84aDRJVVJQRlJGTkpCMXR0OHdidjQ2TFNjbUR1U0hHTy1kbmhB?oc=5",
       "publishedAt": "2026-10-29T22:09:06Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -41,7 +585,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHk1VXVYTTRzLXhCamg2UTE4Q2JkVHRGZTVEVnhkU3cxZkktVVVGeHpVMXBrTTNSVUM1VDdpeDM1RVdWNHZ6dzRxM1VhaV9CWlFfX1BDM0s1d2g3RDA0ZUhzUlVPWHZFdDZxYWdXNzBlRVJMV0s2VF9tMmtnTk1Qd2o1cXVOcWcyejFmLW9MUHdpQms?oc=5",
       "publishedAt": "2026-11-09T22:01:03Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -57,7 +601,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZDJJWEg0cHZuQzFHbTdfOHE0X2tGNERvbUZWT1dYNkZGRDhOQ0RTTFhLS2lFZ0ZGekpfRFgxUWY0QnBzeEVaS3FwaWEtYUtvVGJfczk1ZUQzdUV1VWo4ZTVOdTRkckJpZHV0dnZZZGhWMl9salBFTlo1TmRVVVhhdDgtVnc0c3FzVXVUQXlLOWFaZ1ZHRDBZeWF6N1lUM0FULWpaeVhwcDhCT2FxVml2YUxnQTBEXzl6VHZya2NBWXVZQTVJTGs3LU9qbHQ3WXc5VGFMZWhRU2xqZWFRd1NYdVpqcVJuN1ZqMGs4dGQ1ZzItVjNFdmVIQVJHbDM?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -73,7 +617,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNU02TjFSMmpDZl9pYWJteklfMi1KRG5mRDZ0M2dDQnFsQ05jRlRwVFhWWVFkWmx1c21YM2FSMnp6ZzNnWUYzN1ZQWEtJWXZ6eEU0UDlITTRJYUM2NnhXbTE3UWYzckxHdzVEOFBEeTFzWlpLd0NSMTk3blRwaWRNOXYwQmJFazNUVDNNS2Nhd1NPUFVUQ2YxZWtqcTkzc09zdmNEV1gySERid0I0cmk4bC1wMGZlRnZrdFZTLW41cEh6MzN5dG9RVnZ1X2Vxd3licHlITVZ1M2U1cWM5?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -89,7 +633,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWZiR1ZxX0tKa2VQSUMzVjA4c2h4Znk3Y0lISnVEUDlQa2d3WWNUQ0FNVUw1WURLN0c5YjVjLXNqQkc5cDV0TG1vXzl6TnlYSXd6NUN0cC12Ri02eGpmYkdQZkhvTmt2N1duaDRRVkhBNnZ4ZUl3MG5LNDlVOTkzWGdVcTJJbVpqN3lJeFN3WG9wZHpEWWpxRFRUWmFLdEZnSGc?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -105,7 +649,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hYm54S0lFLXJ3RXRDcW5zVktoc2lVeVZMM2NBaEJwakJ2NGR0OEdpNHNZV3pzaEFOS3IwQ3EwUDRRSFpMOE9XTV9UUVZPbEtMa19wbjVadw?oc=5",
       "publishedAt": "2026-10-20T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -121,7 +665,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOEczQW9mVlRZcEhLdGg0NHRzdVQwNFNIZzVRdTlzVzlya0Y5Qk93U3p5bkE1c0pLbG9oUVZZR2tNdEFrNEw1aXJ4blpYMklpblpfaXRDT0VQN05GWTNROGZNMURpMllZQmxvS1dfS21CRmJONmNuQWU5dENhUnRCbFQ2UC1DeW5RZTN6MnFaWHgxVEtoRGFxUno1MWRHMnhqZUQ2T3RQd3g2dzdIRi12RUhSODF6My0tdkZ0ZHpDN1o3UGoyU3hVWHBrblRQTGltZkFhdTZnUmx0dmlFTUVSSE9zOGJTZlBBZmpuNjQtVEZNTERXVTAzQ3hCLWxpUHZ6elk5a3NSSjNQbFl6YjBRTw?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -137,7 +681,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feFlNQjZmX3hScnhYMGpVVHRGUDVSLXZCYXFIbmVSR2NwRWQyNGFfWnUwMjFTRm5PTEU2TWpwM2VFaklrQ05nZVNzRHJrVEVuOVlQXzJxUFE5cDl5bUlHTw?oc=5",
       "publishedAt": "2026-10-22T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -153,7 +697,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMER3THlYRGhkaHpWSkRZdGVCTDFzbmNnUjFObGpPZ3kzRlBXaDdsVFBiRGpuc1hPeU5DQmNHMnlNM3B3M1dBNmlEUU5FbTdqMVhxOVRRLVdxMDl4NDgySkxFcXZZT0dDZGh2SHJhdFRFR3QwUDN0ZHJLbHVITFdWSzNXdGIyUWwtYU9zbHY5cURkS0RWcHAzd2pDbG8tTTkzRTJ5MXYxSUIzZjBkeWtOTlBkUzJHZzRldklpQWJNLTcyM0xhVmRxM1U0VzkxcFNCRkZqSA?oc=5",
       "publishedAt": "2026-11-05T14:41:33Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -169,7 +713,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWQ2eGdaRW9TQlBpbV9mcS1FZ1gxM211VUY2N3BnX294bWMzMzVBTG8tVHV6U1BsUGNCSmhlR2RzZThnWklMelptV2NtMHMtQ2FRaF9rY0tPSHFwb25PUUVsVGhVWnF5NE9qWU1XREZKa2VTUUFSbWdNVWVwSUk2eXZwbWU0VlIyc3E3dms0RS1OQQ?oc=5",
       "publishedAt": "2026-10-24T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -185,7 +729,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2dLMlpVYXlLWHFWZDhPOU1tVDY3aVpwdmhNWEkwcUItVWJYc185R0hUSmIxQmplSHE2UWx5ampSMHl5dktpZl94LUJEa3EwYmVRTzFURExIZ0o5d2Fwa3hXXzU3RVBlRkdwckE2NVFXYm93UGstVE1ETjJHaVFDWjlvU295SmttV3pTQzNtZDQ?oc=5",
       "publishedAt": "2026-11-04T22:30:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -201,7 +745,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ0pfcWtKUHE1S1c3aWk0Rm0tOVRXNFBvamJXZjN6STlWRjk3VU5sbHgzSzcyc1NQRjByNkUxb1dZVFliUFhLUUN5M1M0NjRGOFB0T0tabkdJclI4NTFVSmN1cTV4OXI1d1RyU1ZuWkVUQVNBdjNYTjZFaFhnbVh0aWRaOHVhcVBFV2hRWUtjNm5nQTVNdXlYN3VJNWFXeFRTeG5HODFiYk5rVGFZZjh3MTVPRnh5bG9TQkE3R3pXcVdNal80ZlZrWWlGNTlma2NDUU12Q1BkQ0dJSXZ0YjlUdjNTaEVDSzVEQXVpcERpZnFKbVA0Z3VBNlZHc0RsVEI3cG05akppWmhudjhIbVU1MUtfWmN0V2hVQmFHRlBPVlZvTjA?oc=5",
       "publishedAt": "2026-10-20T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -217,7 +761,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2JJekdwckdHNE1GOGw4X1RqdjlSZWV0QzhNVXQxLWxNWUR6SkF0MFJRRlJNNmZ0VFI0blhRZWVpc3BzZmc3WUpqZzJ5NTBGRDI5UGo4VHFxR0g0YzlEcjlfTC1LT3F6MFdYbjJnc2Ftc2tLRUVobS1nU3hVMExfeno1YnhZN3AzUlRhS1Q3TmlBc0JQVFg2a2lualZLYXU5Zl9FNTJxMkJmTXV5ZEkyMA?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -233,7 +777,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXJjYkI1LVBIMVg1SmlubEFKYnl2ak02NlFJeVR3a250clFWbURYQ1hrLTF2WXhyeEFHNTgtWk9MaDBsVzcycEl6VU9SQTZtckdZNWtZMUVZUlFIcWdSdTNxTU81aXBQcF9PM2h0VG9MMXdxdUJKNFhIbEJDTkpzX1lHSjdBQWVtUjdVUU9mazVocE5ja2xKNEFXUHdsaDR4NlRCODQyaUxQZ0l1elRQWGJPWEJXM2YzV1luLVBtZTltaXo3N2NXbTllWQ?oc=5",
       "publishedAt": "2026-11-13T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -249,7 +793,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGZXbmxGMTROSlVweDVsamFWYTZkOUhTS19CM3NDUmVNV3ZmR0JWMU9UZl9UX0s4Yzh1Q1hnX3kxU2d0bU14U2t4bzVTSGl0NFdWN29oSTVRVFBHd0pPc2JmMXN2eU9UMk91SUdfTFNaMEV6T1phZXhFdXNpMklaQ2ZDZE1iOG5nSjYtbHFRcXVOV2hKTEhvQXhmWW43U00yWnV3LTdaTjh4ZzBjZ0Vwa2FzQXEzLVVlZU4yNDdzYWR0UXN3QlVaN0ZlYVg0Yjg10gHWAUFVX3lxTE9KQ0QxRHhZWlpOTWk1MW1xSkwzaGpITk12cUgxamVJSG9hT3djSEhHLU5sTGV4REhwaDJVM1hTZHBGNktvUEpsSlpMcHdXV2xEeFVqajFkNHpxRVVQd1NKZnZqZXZjMU5xMk1GOHFhTll0UWpTN1JvTHd6LTRDOHY0dks2TlJiSm1JQzkwRWhTSWpXbGFEMW40Mno4UEVSRjYtZTNWOTlfc3RyakRkSFA3M092RzdDbDdyNTF5VFBHLTlXZEdTVFhGS05QLXlnWklDamMyUkE?oc=5",
       "publishedAt": "2026-11-11T12:40:08Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -265,7 +809,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE?oc=5",
       "publishedAt": "2026-10-20T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -281,7 +825,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXZoVG84d29SMms5TE95eU9UV2l3SkVUNS1qclczSG9vQTc1RUhKaUlMZXdpT3RNSzVCU1cxSC00YVRTbkdyeGctUHltTGJmQ3NrdXhfRmZuSUhmWVBIcGdxUTlUcXhWMHYwdGFYdkRWbzJjV3U1LTh4ZERCREp6M3pKNGd2WkJFS2I2SmtfQnUzVUFJUG14VEFMekg5VkFoS0RGVENCX2JiemFDdnJjWnBQZWRtdUFaT0ctV1ZIMG1MdDEzQ2hqVEpsQnhpRk8tZ1hDQ3RDUC1WbkhyNi1VWTRuM3gyX0R5cnNHd0JieEVJRkxI?oc=5",
       "publishedAt": "2026-11-12T13:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -345,7 +889,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNm1JTUNCU1NKcTdvcldMU1NvUWJxMlRBYTREMklUWWl2Nzg2Tks1NXcybFZEVVZwM2pUSWhzODBsUkhaYjIxZmllYzFaN0JnZ3JPUk5IUF9XS0x1MTN5djlwcXYwcHkzVHY0aTdUZEVMYS0xSC11aA?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -361,7 +905,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNnJMZlpGLTVMRWpXSVNWbUZqZkc3QW5tWmZBMU93Uzd0TkJFeTdKZ3ZqQlBwNEw0bU1hcEtKc05HWkRyZXB2VFNZTDI5SFVWSE0yQm5iY1dUdkdlb0xXdmVlS3lDaDB0dThpVnY4Y3lQR1ctaDZpRG5iY3ZwcTd1SkxiejJMRGs1YWlzQkM1NFUxZFdLd1M2WEoxdEpJejMxNG84aFZfYW93QlZFblg4cWtwWW9PN1h2UDFzQm1CQmZ4RjY3anVWOGJTZEFpNW1HN0pnampoVWs2MExfcVpIQQ?oc=5",
       "publishedAt": "2026-11-13T09:46:32Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -377,7 +921,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVNaSmgxWWF1ZXNraF92SlpCRWxDb0hoVkU1M3VGemp4Rl9lcW41alEycGF3emtROEE2OXV2SF9GQlo0MDYyYUN6c3VqUU5ocmN2QkQwSUZEMy16Smx6SUJnc0ZUSGtQVm93RnJsLWhPekMzN3M0LXNNOTQyV2x0VDBfbHplM0plVWcxZ0Jnd0dIUXMyb0FPdE5qYXJPZVBPSmg1MjlvLW5xYXRxeU4xeGlrRW55ckVfN2swSnV4Q3RxcG96?oc=5",
       "publishedAt": "2026-11-11T19:46:42Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -409,7 +953,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zck9GSWEtLWpjell3alRPeVVBdDRXY3MzWXQxMkpRdjhKZUplb01vbVRXNFd4X3dxWHZWVS1HSE5tYUh2NDNtWGRSRG8tLUNReHRreVZPYmRoOExLVWxfZnM5Z2pTMjQ?oc=5",
       "publishedAt": "2026-11-04T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -425,7 +969,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYW9PNldVeWdSczNrRWNYMjBibkVWdGFxY1FaQl93RmVtS3ExSU9rb1BEZ3JjSUJVaW1USDlneEo3VHdlOHptLVpFLV9pOWdRNlZqZ3Y1TThneExCb051ZlVzdHFZdmVUWjh6Wm5oTUZPbzJqZ1otOWEybWRaMFhBeXFPUUV6MHNvOWJjc18xdXZMSDRyTGd5dWNtenp1ZFNZM3h1bE9xMzN4c3U4RDdPZkxxT1NzV3hnNWRDVmQtWHdSUVZ1YjNwRF9ZMmZEYmc3RVE?oc=5",
       "publishedAt": "2026-11-10T15:08:05Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -441,7 +985,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
       "publishedAt": "2026-11-01T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -457,7 +1001,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdvek9vSk4yX2xvOEJPbEtLWHI1ZzdDZER6enA1UHBmcXpIaWhPZnZ5aWVzcjdERmljVVU3bktiRXFFYjRoMlAxZTV2eXp5NDJrTUllZUY4alJCVmRGNVYwVDB0ZWUxVERWWWtsRkJSeElwTUlXMzliNDdZZmRDcGNFbjNrc0xGSGd4OWtQdC1EcUFVWHdiSDRB?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -489,7 +1033,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGMxZW9DUi1QOXoyd2N1Y3lnTTRBX25tanFkTFlNblVPSTU2YUhMOVBhbVc1em43bXNfRDlBWlpyeDRpOGh1djFGUGM1YW00a0RIRGYydHJJRGtlZGtKbURyTjIzd1N4OEZidTBET1ctVHJQUWxTZXBuQkZ2czFtakVjUHZDT05UNmpCYXlTOWFmOEo4Z3AwakFnY2Y?oc=5",
       "publishedAt": "2026-11-10T00:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -505,7 +1049,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEgzUThrQWlERjRZbTk4N25KSmhGNTZjelVUN0RDR00xS1hoYjYyekFDUFJ1a19wdVdVZlJMOEstbFZmbTVHR0RlQ3pZTUlkd1JMeVVRZUZEUm5YS3BNRFdrRVVCV0JDaEpuX08zVGstWmk1NDNpV1d4d0NmZnJwTTRyd3pIV01ZeFRoS3ZHSkxMd0NqTHN4VGNJdnpSUkRsYkNiUGFOMEpnMTRVMEZuOHFGcElqSE05RG4wbnhqSQ?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -521,7 +1065,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMm5hOVRtN0E1VlFsYWk1N25sVGJKbTVVemxrN1JCenVFSGU4QmlvbElId3V6X1FabGxOREpwYVE4SHVuT3RjQTRZQVAzQ0VyQmx0aHlpenp1Q212UEJfTmNJcHNLOVN0TGZjOVZoTnVhQjVfRFNvX0ptV1h6OG1vWTBZeTduaUN3SGFfYkZCTDcxWjRnWEUtQ3Q1SWJjS2hTXzN2bzJtbHJqQzdXazY0?oc=5",
       "publishedAt": "2026-11-12T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -537,7 +1081,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KR0NvMWptNXZ1VDZwVWdzYjdUeWdGZU51Z0tjQllVWTlTXzFkQjRxMEd2OHU4RXFfdGZrcnAxYmlocXRLOGRrWWNJMWdKRE9qYzV2NERUdHJ6WG1sNVdqN2FLYnNiRDlmR2hUMHBrLWZjV3lsZ1pJRjk2bDhlQQ?oc=5",
       "publishedAt": "2026-11-10T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -553,7 +1097,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2l0OEhoZElJN3pHNWJsUlctZ0pjTkttSXp2bzJxQm5Kd0o2LVliaWwwYnBReTBRUDU1UlRwOGpPR0lnS3FzMHNkQllhQUlfM3d1UUtwUEpvN056MGdPLXJ1RFF1NEdsb0pVQTRidTdocXVTRFFNRTRlQmhfWm9KT3BRX0ozaktrVlg3eHNsX3ZPNkx3Q092Z25ZaDBFczZyaW1KYVNpMTBXS3VyaHlnM0NWQTNrYm5W?oc=5",
       "publishedAt": "2026-11-05T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -569,7 +1113,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -585,7 +1129,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGtBREc5bkZGWEZuOWh1VFljWllKZ1FaUDM1eElQNFFfTFpkM2JqNzRxSzRlUnFQRUdITWNQM1NGMGxPN3lpdDd3cFZCbzB6OUVlUEJYWEN0bGhUYW5LckdlU1FVVlk5VHlsU01MNDg4SXFETFdXR1FBdDJ5bEROdHkzUzRGMmYzbVlTcjduR3M?oc=5",
       "publishedAt": "2026-10-23T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -601,7 +1145,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ00zZEY2NXJoV1R6ajJtLWgyLTd4VEllUndjV1ZYYW5fWTBCZW9EMVNNWWlXVWZGTExJdUZuQ1MtVFJmTzFWckhJZ2pkbVZKbHRyU05RNlRMdVJ2cXhsVnY0RktyaDlYODZnQnhqWE1aY0lLX2RLeDdOLVlTTV96NkEyNEgxWDV1WDhQNFpLM1NkY0NTbmlpZzNlZ3VodTU3NlZaOGJzZWtBTFB0T0ZwS3VaTm4tczhiREFNTXpZNG5oYjZSTEVoYlhxZ2pWQQ?oc=5",
       "publishedAt": "2026-11-11T15:18:16Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -617,7 +1161,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVRUcFR1cElEeHFQTm1XN1JaR0hEbDZQTzNLdUtPa3daU3BpQVU5b1M1Rm9qb1psVEE4TUhxLTFCM29fX0NrZmhIYlNtdUxubmIwV0dNbjA0QUp2X0JOdU5vb0JSc0JJZDlJdnVpcEQzM0w2MlhsVS1IT3N1dmVVdzg2ZExVOUZ1RklRalFFRWVoeWV2RXl6aU5oaXlybUJodU04SVBDUHF2RG5sWXUzMm91SjNQSVVOYzBnZDBWYw?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -633,7 +1177,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkF2RktZcmJYb2FsTGtrQVN4YVBEaTlYSGJNOFdVY3I2ZWdmbmdURndJRGVmVlhoRjB5RWR0LXNpOFVOR0UzcjZkUFB6NUU4S1Jldk8wTm1mRENrNXE4VFhWbmlFcGpwVndkVkFqUmg2ZC16TlViV0taaFFjTnRfTmY1c05sNWItZmxmc2toRHlSVTladzFXYXRvNGI3aE0?oc=5",
       "publishedAt": "2026-11-04T23:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -649,7 +1193,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQbVRwQVUtNDNRa01FbDc2a2toc1plZERITGhVVjdkWHI0NmZEaW55dkhqMVNfZE9iREZEcVhsVUJrdHV2STlXdmJ1aHo4Zmg2eXZzZTRwUzBkTGg1enhRRHRmQTROaExqT2JhMTNfRGhuNWwtVnJfOUpNX0M3UndSd0Fnb0RqV011V2hpYkFaM2J2LW5CbHhYVEtVb3h3WFdRTGViRHlhdU5XcjNWRkJBczIwTFFVQWJ0b19FV0V3Q1gyVkpmUW9saEZOMVhndm03c0RBYnRDa3JmdjluOFdUVzFMS1NVZFNERnJ2YlpvUklXcnNDXzNDTGw2Y01HSGNPR2V0UGpXZUxBenFDZUZQM3lqMjdicDlXUmRxRm1OSlpQNDZKelQw?oc=5",
       "publishedAt": "2026-11-12T22:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -665,7 +1209,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3hONTJCNjdLVFNNOEhHZXBYRnlua2lOLXREcWxMV1JMUWhhYUNRMG54MG1MbGFKM05DdUJCZlBhREhHR0N3RUxqeE5KX2p3QjBnQTktQTRsN3Voc01aY3FUek5TLWFxUzBLbVJBMExuUVJFbW1vUDY0VmtEQ2lCYWd1d25SODNLak5hblFEcVJtdzJOdHBsaHY2Ujdabk5jamY0MThYR3NpYnd3?oc=5",
       "publishedAt": "2026-11-11T16:15:39Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -697,7 +1241,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTVTNldsSEdVamsxdmExY1NMQVpiaGd5YzJTb3h5MlE3MzRlLU5VTnRqRHBRMU9lZndHZ3JiT2Npd25ySkNJYXVnYVUzR2hLR01CaTlKS3pVMnpDdlBYS3I5bVk1MDJqSTFRa0ZzZGFVWnk3YjJrZVo5d0F2c3VqaXdGRlNPNjZ5N3NRYTZ6MlN1VHRNRXRhc0JVRXN0UjBRUUtsd21ocW15VEJCZEpCYVdfUQ?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -713,7 +1257,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanpDdjliV1pkRHZfUktjcC1FZl83MV9pVzFvdmdGNGM0aGRSVXYtMG0wYjNiOHI2WWFJX3hFNDBPR3JvWFFqcEtBc0lyQmVvUXlRVmx5c3N4OVJURGtmb3BZTUNKMXF6Wkc0TjJ2c1Nqal9ubV9rV1drY1VoUzlIYXVrRm5HcWExWnl6clYwdEJ0Nm43V3ZheWVmejlXamJ6aXEwZFZPVDNPZVdiQTFKN1F2OWlFdw?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -729,7 +1273,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlSNWN4dlhRc3l1V09mUE5jVW9zWDEwWXNFaWVMSUY5YlNQUS1VUWVOYUdrU0ZsR1B5RzU4aHVQbWhUZ29DdUw5SzNjTkg5ZnZxRkxBeW5Zc0dJaGY0QWNDc285N0FFRjRHLUVDYjBqd1dyZ0ZwUXZ1SE0tYlR6S3F4bG5lTXFiOVhQWl9oYXRjQTIwLUUwTQ?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -745,7 +1289,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zM2hqZGlXMGdOdGsxZ0RzRjI3T1ZRX1ViS041Y2R4dEdrU2lPcG5JUXhVUGpFZmlfYWY5eTRDTDhyaktZWDNWQ1lDWG82WXBO?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -761,7 +1305,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmVNc2pUVk9WYW5aUlRJbHI1bUJoMURYY2RFUmpFZ1B0d24wMW1Jc0JDaEdVRGJLNm9MdE9obTh3VVBnWHJSdkZVTUpMeVdsX1hlOENiVGxHcG1wTTdXa2w1dkJXSU1yWkVtSWdxRzQtOGlzRms5bDBHaUE1bG9ZRWpnVTNDQTA?oc=5",
       "publishedAt": "2026-10-20T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -777,7 +1321,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0F0S042MGswT2lfTFJQd3hZTmdoU1hPZWhuSUVDNUhBdjRQTnRBWjJFRVdVaGNJeHVRNWN4M0hVUGVaNTVtNkU0ZFVOb2RQR2s4WkcwLWNFWXpIUEp4VWx3cTZIWFhWdWtIaUxlUlBoajhxSnZVU1VyWmJCYWItaG4wNENHMFdUTHpuS3NFcW5UUFVqczRxQk45Umh2Z2t0U25URUlMVUVjTGJ6Q1RidlFTbFlwbjlkT1Z0eEl6M3A?oc=5",
       "publishedAt": "2026-11-05T21:09:24Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -809,7 +1353,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUVSYW8tbmpzYlZLV2ZtWjgzcVZSNjF1dnpzNXU2Zk52N2k4bnpuUG9id0hhSFZTUUwwMjAxTHlzbFFhSWFEbmc2dm95QV9Ubko1RXJXc0tWQzl1NUtvcmlxdTFOU3ZvYmpETUtlLThDWU5teUlGVmc0RS03d0hjT0IzTHVJQjNBRzFxY1B2WEI5b1ZjeV9VRTVxcmd5VVB4M3FOM3dzUWhORkJBU2RRZUEwMWVtMzFvaURCeGliOGtGOGIzZElrZEYzT0k?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -825,7 +1369,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXd4THZodE9SMUd6RDAybW1XZlNuN2kyQVB5UkJnLUhETzF6LUlOQVdPU2dLQ3RObFI0d0pWQ0NMaXhFYzR0Tk5xU1NzSlV0SFhObDlQRUhkeHZXa1hVNnRDV0hGRWR0c1MzVE55Q0RyM25DT3g1cWZlR040UDVzbEdXcHcwb00?oc=5",
       "publishedAt": "2026-10-22T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -857,7 +1401,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2U2V0lvLVpPOHFualZ5SWIzODN4M0V0WTdzajZyWXBFRDVscUFWRTlaLWhuM2NRY25Fc0gwS3o2SzRtSmY4SHY5LVdQVkNseU5FU3E3Tm8ySk4yR1RweFZ0WkpTeENod2JGeTZHVVhMXzRtZUFPSmFsTjdNM1JQQWNfWFFIUDRfNi1hTXVlb2l6UjBEU0E?oc=5",
       "publishedAt": "2026-10-30T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -889,7 +1433,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXpxVGVFOGwtVnNaYjVHNHU4NGxtNVJEWGVjSlRMazZZbUxMOWFITDhEdDVIZDhVbTJFR1B6dGQ5WXVGMEJ0eE0ta0hRcGE3Nlh1Q1FETU5RdjY5VGdRaWk0M0hHMW9GSk1WRmx2ZDJ3eS15dmJ6VXh4RHo0bHpWX0YxR2owdWpwNklUZTliZDdYTE9ZNXY0d182NjFVZG1kZEtaaTMyTXJQb0l5YnZoYWI4aWJtcHFINUw4OENzT1ZWMy1PR2c0YmcwNWM4cVRIaXfSAdcBQVVfeXFMUGRyX25Ma2s0bEVhRnp0T2hTdm1zN3I5ZmIzZnlYWll3d2ppbXFGVDB3ZGdCTGdOT01QYmJOWFNPLURwQUhqcWhkSWV0VkJ6UE9MQ24zbjdpemxMTEdIQ1pVNFRxY3ZXMDRkaExHZU9pc2s2V0pIdWxVUHFOTFMtQS02bFI0YmwtRDVaQXJXWEVtYkZWME9xVlBLVWFCdjhMRktlUnA4UUdNVkduSFk4TjZCQVlfSVVkU3hxWk1VYWJlU0RNQi1EQTNoV2t4dWV2V3lvOGc4a28?oc=5",
       "publishedAt": "2026-11-03T10:05:37Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -921,7 +1465,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHdIX2dfVWVQTlMzUWptX1p0ZGF3ck02TFNxTmJiTmxrMVJaZVVYcUQyWHFhbmRpdmdUeWVXc0kteUJtYVhscHBHc2JQbF84UF9MNDRRbFgyVjUxZWprX2pUY2hYT215Sm9PT2pPLU1KUXJJazhHQnJwUzY5a3o0MWJuR3M2NFVPTS1QbFYyX2drM1daWGxGanJBaTFwYllYVWhV?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -937,7 +1481,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZjdHNXA5d2R6TzFwTW9Ib3dIX0IyUWprZ1QzSWtnSmdZVms3aENwcTJkaHJxOEVDWUNkX3NZX2pDbkNUa1F1Ui1sZHlJUDgzR185TmhLVElfX3hzUFlBMnp2eHpPQkgzcU9rVkhaUExBY0doaHNn?oc=5",
       "publishedAt": "2026-11-10T11:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -953,7 +1497,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUzFUSlNIZ0FkMTc4UERyaW5FbF9qZXJRTnBmMDJyVlpjNVBnbS1mQ3FBZHVNVzAyZU5iN0xMNXZBQVVHVzliLWpneEdfaXdUWXl0TThMekw4NUlGeHIzNzlqY0Q4cW8?oc=5",
       "publishedAt": "2026-10-22T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -969,7 +1513,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0U2ZBdVdoM3pxUEticnF0czItU2w5UXh4emw3LXltZlZSdHlMQUpqVzJDUlpYcTRiY29hMlhIZXNXbVlUREpLb2RuNnQ2MXZpOWl4Mg?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -985,7 +1529,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IVkd4MjItVHBKZmJqRWhFSTFEMmM5ZmxiTWxXelIwR1o4QldzSVMwa0hqT3ZuUUx2OU16cVlYWjB2RzZYTFRfT1A1Yw?oc=5",
       "publishedAt": "2026-11-13T02:09:39Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1001,7 +1545,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3BHS185cFY1Q0Z5eEIxekY1Mm5aNFYzWjgwSTNJbGpkcm1zU0pSOXdBanc1UEtIRERCdngwNHRaanNmVm9lYl9VMkhtY1kxWGFNdVZtRkNYVkVWWHN5ektNenp5UUlQX3VaSEpkekNzemZZc29YcG1PeFRiVUZxajVR?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1017,7 +1561,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LeUFVcjlpOFVwNENzYS0tQmdrRWlzLVVUeVdmVkV6UFR0NEZtRFdpZWNCWXdndlBtZzZRcnBFZHQ2VW5lRzBRUE40TEpHSzNOYy1iSHNUN08wZ0w5Z29hNmVBYlJyQlo4cXVFZWxVQXRrVzF0cUE?oc=5",
       "publishedAt": "2026-10-27T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1049,7 +1593,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlltV2c4dmY4NEZlcy1GS0Q2T0U0ZUowZnFXMU9LZ1l2dnZ5eEZ1ZlM0NllKS2RBbi1fS1VCWVZ1dlhZS29tNjFDR21wTnBZZl9TM3h5aUhhZloyaTZDejhUR0h6QUdYLVpZOEk3cDB1UUtGaF96aWlZYlpveEN0UDhQQV92NWxpdW5XaDVlZHk?oc=5",
       "publishedAt": "2026-11-11T11:31:45Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1065,7 +1609,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQS14aEQzbWlhaVY2Sl95aUxZdUUzaFJKX0lKSkRyNjFWQVVqc0tmcGpadF82QXptYUkxY1lSUFBGNmk5NnFzLWljQVEwekI3aDJROGxjd2U0Vm8?oc=5",
       "publishedAt": "2026-11-04T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1081,7 +1625,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzBjdFVsS3FET0tWV2thbkVxQUxGQWJQZzIwMFVFcy1rZjFrV212WjFORmFGVVZod0ROSWl3cFQ2al9GSDJUb3dsX3Z5WDFMRW5OWTBPMkl3aDMzUlFLb1VkdE84QXU1STJUWTJXdEp5LWRjeExpcVBJQXFLTkgyY2x5OGRQN25DVTVnaUVxT0JTaTBJY0wwY2R6dHRRbHc?oc=5",
       "publishedAt": "2026-11-12T09:11:33Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1097,7 +1641,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXJxdDlSbm14azhxTE9rc25sX1JMNW1Ib2FNejhRRWFiRzVGemxHZDZKQ2dtbENWRWFsZUNDNzAyMFIzM0tPVnVCSjBmUk1RU09RWHBqNzF2VnVubDZ3bXJpeTVXWDZ4UjV3R2d1S0JyLWNCQVdXcmhBb3pPOWsxNmdNMENIc1lISkwxeE4wZzR1Rjk3Y3RFNDlR?oc=5",
       "publishedAt": "2026-11-11T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1113,7 +1657,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTF4UC1nRzRDYVFPSC13NzdaYWlpSk1PN0hjdHoxdmV6eTJwZEZpWllNcElWd3V3V3ZOd0EtUmFlVEthNW1DZFBQeldISG5KT2lVQjlCb2lwb2hrbF91Ni1OYzV0TUQ5RWFVVllGamdFQXpoeXRybVhoeGtZMEEzbm04OTN0bEVCNEFOTWlFRS15U1hBc2NVYlgyM2pVYlNMYVNxY1NVZ1dMRGZGamlJdXlkb0U?oc=5",
       "publishedAt": "2026-11-11T13:20:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -1129,7 +1673,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5",
       "publishedAt": "2026-10-22T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1145,7 +1689,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTJXOGZBQjRWNU1DVldSQUFnZ0pUMmlaSW02YTdral84V3I0Q2xOU2ZtY1VpQTRFOXZYZlJ0Y0dYN3ZYR01zX2gtVGlzM3QwWVhWVHlKM3IxVC16Y0x2Zm1rMWVUWmRCNDdEbUJkQXlGTWhwWHRLWF9fbDZfcVd3U1R6RzROQXRwcF84WEZpaXU2bkZpaUtYNnd5V3ZwWUJSNFNkZmo0allkbjJZdkJwbzVKOUQtOWJnODBUTWdTc2s3dmtFaUpBd19laDZNc2dJRkg2d2RFdDBlVEttUmd6UUdyWTZaNkJOYzNTSnZ3bWlJVUJGRTF2U1RYb2E2b3c?oc=5",
       "publishedAt": "2026-11-06T19:58:38Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1161,7 +1705,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1177,7 +1721,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVy0yRU54N25GS01PLWZlb3lVY3QtYlJvODdrai1YbWlvNkZLU3BfdHliczVzcDRVeVZuU29ZZDZKYUNzN3VtNkpDZjVwRVpNRktvOEJ3aFJTRllQZWdYRWlRUXpIZ1hfLUNsTFBTQ1JDM3l6VWtFcUphV1luU01POVplWi15V2UyNjBEVXA5QQ?oc=5",
       "publishedAt": "2026-10-17T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1241,7 +1785,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WGItaVgyYzBBVi1MaEVSZ0Z6RlhkR1VHdVFPZ0YtcFQ2ZXNNQjZmQUNqSjQ1VmJyTkFqWngtb251LXFHbFhqdlo4dGcwdUN2VnZCVklfWjNMWjBYX0EwQUQ5QQ?oc=5",
       "publishedAt": "2026-11-09T23:46:53Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1257,7 +1801,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVU9LTnNWdWp3dTREZ29uUFlPX1pBZ2Q1bmxON1R3ZkhIX2JjYzNCa3RLNURyVy15Yk9wWU1JOXNLdFZhQUdZT0dNN3pjelVRNFAwRmJ5aVlkYVlFM1BWUHhjZGt3RXZQb0VsMXliclBOV3pMczVBay1lcTVINl9DOThNS2xNZHR4WFAtUzR6clFodC0zdGlHbTJ3aWlXeVQ5V1F6UjExQmxLRldXVFVmRVV3?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1273,7 +1817,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMU1teHc0QUlGcjctWnhkYlhwQnU0YlgteHVXYWJOSlNsUVJaekRCN1JXMFV3M2dTcTVGLXMyUmZRLUt3TjRnbG9PM3lzNVM1RzFXSGJ3MTJTaVFYSUhhMUJPb3I2TWhuaWp4Z2V0SmE2Q0pCQmlvUWxEOFJGTkFjU3lRLXlQNHB1ck1fWE5xaFhla2tzbWl4RnZhRDVyNE9jcDdub3k5ZFVERWxleTZSZTd1UEMxc1Zlai00SjNtX2FJalNQVy1SWEszcmc1ZzNlNXpvNjZVVzZEQ3ZvTzFoMmtqMGxLY3RibGYzZXBYaXd2YlpVRmZZZHRaYjgwMEU?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1289,7 +1833,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnNFSk9nR244MEZXV1RuWmpWbnA0YnNsZlZ4OEFvMDlRdlUzMG9IZVFnald5RTZKaVV4Y05TbmV4a1R2c25ucUo1R3NiMno4VGxGZnZLX3JlYWQxZmcyc1U4VkVHZmhpUll0SWxiT3hYc29mUFptbGJLU1hLcHE4UlFQVW90VVllRU1oQXJIY0sydUhJTXNfVnpRSUpSTHlKYTFIYnN5dTRNOW0xRWRvdGpTdjFLYW9STmUyaGN0Tm54YnlGYXNWQnFpMkNwUFRTOGYwbmxpS0kxYjBNd0h2VTBkQQ?oc=5",
       "publishedAt": "2026-10-30T12:07:30Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1305,7 +1849,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmlMSlc2MHJFSDFzTXJTYUt0ZGtJaXlFS09hVC1UOUdZcUtUbzJkU2h1NXpTS2hkQ29Dckhia1VMMEJXaDVseVB2WU1SMHpyZzg1TnZQUHhyVlVhUWxIUlo5LThEclVSSy1qUHBoMXREeXBEcnNsTzJjNW00ejMyMWF3akZ1Rl9GSEc5dlBoOXpVdm96VFJ1Q2wwOHp1M0dQWVFoQg?oc=5",
       "publishedAt": "2026-10-29T03:47:47Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1321,7 +1865,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEQ3eElta1o1b3ctVWZSNXFUMXNuMVRNWW1lYkhfRVV3LTRzVENGaWpOTzZTdFdhdWZSdTBGVFNRSHVrT1BCaldmcTdsRjFLYm11NkpnRnJENGhEUGZLYV9KQk5WbF9aWVYtalZ2YUcyMnFyWEpvb253YllkYl9QNmNrX1FqMUkzQ25fV29n?oc=5",
       "publishedAt": "2026-11-12T13:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1337,7 +1881,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG9xalp3SldGZWxTNWphMW00LWFaRkEtOUxud3dqZVFGNVUzZjBIOVJCZXlMQVhaMjdhMVUxNEJnLWxJT3Bnc2dPM3V4Q3NILVVsZDlLZXV1YlRmRVZSUHhRRjUtNE1oOHZKd1pRRE1Ka0g3UEdaODlzVk9hZXB5QXk3a3RZd1BWM1BSVDlmMzFJeUN4VnB2RlJOQVQyLVhyUUhBR3FhZmR2MFNzVndBOTZINmw?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1369,7 +1913,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZQjdnLTVfdXY1cjB6ZGxVa3Y4ajZNdDJ1V1ctZzQ4NGdaRVcwOWtCdi1uV2VVLTJwd2VGcFNGQnFCdXVtY2tRS3k0N3phV2hCZVdvY284MlRwT0UwcFFSejUxTW42SFhuUTRvRlc3cTg5S0xyYzNJcW9zNW9vbk0?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1401,7 +1945,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmh6dlN0cFlzQjVRb0QxUGVGcC1vYjlRd1A5czBSVE1GLXU4ZER0WDJ4Y3YxdWZDOGhIR2tqZGJaQ3BpTVBWUEMyWUlVVENQUlFURzM0UjlqTkRvVTFSUmFya0ZyOTluREhMYW1nb2VzUkZnLTZhazl2MXdZWDBIWnpiZ2ZMV29SSGdOQ2JqQWlHRjJlLThJYXBiZHNYY2YxbUZpdjVIOUtSUUVPX19UWGdnOA?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1417,7 +1961,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUNZdWt0dzBpOWZ1RnRJc3dFUWRLcTlQeWIzVU51Q2lfazdpRC0tdHN1MVg4SWtUOGFGV0RXRF9fOWYtM0FSUDJLNDctdTFmSzhBOU85M1VmT0RPcHdBcE1GdDItT1lFaGhpNWs4ODNvd09RYkNWTDVqV3FjTE1CLXpzVkRjZVBRemtGZEZ6UGtvYUJsUkJFcTVpMVpZYmVpOGR2UFFFMWZDYVE?oc=5",
       "publishedAt": "2026-11-10T19:47:12Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1433,7 +1977,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1449,7 +1993,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFlOWEtFbzd6c3Zhb0NYU3Bzd3k0ME5Sa0VLalI0dlFWWndCRWs0NUVUVzNXZnY3dTE3LVV3VHVFUzJrNWpiNXVldFJvX2dFMEN6cjdUYkY0LXpUc0ZDZXExM3FtcUtmVlB0RnBsZE96S1pzSHVZWnY2NWFJUkN1QUhrMFlxVXFuMVROTWVGVlRIeHR1dUp4N2FnWVI4b0NfM2xfamwwREd6STNUblY5YnpmVDZ2UG96QkN4SWMxblpDbHdndGlFSnl1YlRNMHc?oc=5",
       "publishedAt": "2026-11-12T14:14:04Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1465,7 +2009,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOci05TjhsVGpBdExaNWZlNzBtTlBibEFySzl5NkRzdDEwcS1VaHhMRm1CVDdKUW9uX0FJYThiQmNvRmV3S2E1Z0s3eng0cXlVTzVnRVBzYkROUUt1YTJ3NXVMT1N5M0tYNllid1JWNjhaZXItZ241NFpEc01PMWtTVg?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1481,7 +2025,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVZueG5IMVY4NWtOaVhjeENSaGZHbkRuS1pZdllVSlhXM2lfZFZSd3hvN3FVVVBfOUFhaXdsOGExNTFoSkE5VWw1ZU9BLU1NWjBzbWd2WlpGY255ZjNqTHEwdE9nVkk5a2FDMklZcGpybmVtbXRvbzU0RUJxNDYyR2ZndU4?oc=5",
       "publishedAt": "2026-10-19T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1497,7 +2041,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbzJvcWRKN0VvX0NOOGVRS0pIWFFuWTR6SzFUaW1ublM4cTJaRll3UEs4cTZfdG1OdlJjaHBKaHRBODZsYk5UalRWNnF6TFJ0M29RdXpKMUVwM0pKekV4VUNoMXI4Nlp1eDRfQjlNTnlMVjNDVXAzV1VOXzMzalFIbjZNdk9qUkF0ZTFoSGlzWDBPLTIzSGhIQnJEQmJjV1RTLXhtTDFfeVdSZlY3UHZUNXJzM09XSktUektqQl9UVU44Sjl5TGFBZzhpeWFCaUdJcjYxTXduano1dlBVNm5ibEVCcmhXdWE2SUE3QXc0TWlYSWZFdUdBRUtrT0hsQ3dHc1FsQXM5MkhUaWJ4S1hRZ0J2NmQ2YXRKX2tMVExreWFSZw?oc=5",
       "publishedAt": "2026-11-13T11:30:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1513,7 +2057,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DeUtQRmVQU1Zpc2gwZE03bUktUnRib2xBU2pQN1pMZ3B2MTFMNVVqR0NhWEZRVjloOTJBa0FzM09VOVZvUFZrbmRPX3lWME4yNkZHdnVOZ25aZk5DUGVJcE1qaW9FM3hBRzFv?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1545,7 +2089,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNdmtJUi1jbkN4dmtLZVdGUU1yTE9CeHN3WHNJVnBnV19XazYzYnpfLXpPVHUyNDRMNWFvaVFaTlo3NlhNR0NrY2Z3OEFUdU1VZDZtUUJyNmg0bmhYejhFMWI1Wm8?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1561,7 +2105,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkZBY09hWmh5eElYZzVnNmVoQVU5Q2gzVlFWdFNIZ0hVQ1VCUlppNWN5ZkZhZG15azY4Mnd1Q0VFdmdjSkpQN0gyTTR0N2NSajdkMUJscUxrbUhpX0RDalVCd2p0X0JfLUpGZ2pZOFJQWlZRMDA3TUZHSk03eGllY3ZGWQ?oc=5",
       "publishedAt": "2026-11-13T11:35:08Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1577,7 +2121,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JaEJLYlBzbGhkODdJeU9Bd0RFdWk0NUU4MHZOSmZjRmNyZllkZllKYm81aVRqcmN3a1JJNnRrQjNXeThQc0VuWXlhY0R3Y1NFRzJYTEQ2WDV3ejRGYXpkZm9IVGNKdTFMei11eTZLcGlyVkFwTWM2ZmRDT25RRUU?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1593,7 +2137,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak9hSGZQVzJacllDa1pGYzZxaUwyTkJLMzk2c0Y5dzd3VHlpczA3X2hrcV94WlBvVkotYmNNemRuY2laUkhwOVlXdG5aY3E0b0cwN2g0U0IxUjVqS1ZGM1ZsUmlYRzJEaS1vRFJaOFZ6UkI4OVNxRXBiOWpFR1Q1c0FOS1J0Rk0yakYxMm1TSXJjb0phUW1qaTZqcw?oc=5",
       "publishedAt": "2026-11-12T11:52:30Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1657,7 +2201,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlZ0blI4VkRuWHlBSjdydmlLRE9zSGJlS3piMVVlOHY5ZmYxYU9YUFZDdTFUWTUzdk9zLVRhY2p4bDAzakhSSzF4QkNrblprNUV0TG1JeUt0ZWlxU09kVVJPalh6cFpkbzVwcmx1bWl1VlpJblhCcWFDSmlRTkhyOWxpRTdTaDBFN1FiVFI4WVBrSXF5M01Gb2V6TUJlSXVodi1QMnZsZkxidUMxWG9oSGc4cVFiaFVsOW92OQ?oc=5",
       "publishedAt": "2026-10-30T20:40:05Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1673,7 +2217,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJJX3RrUlZqMG1PVDhIZm9BYWN4M3hiNmxnTHpNbmEzLXpPT1RzR3BxTHF0V00wTTdzdm1JX2Y5THozQ0ZaXzk2enJGYWZwLWtQLUI4UllzMGYxQzluR0otU0VwWXEyYjZEX3hGUmlnY1V1ZGdleWhSTElrX0RjUXh0ZHpnTUJ2ZkJOUEdYN3NXbkZfRWhJVXpveDVRQTZVWkJBaFJzUXRQbTQ3?oc=5",
       "publishedAt": "2026-11-08T18:59:01Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1689,7 +2233,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRG5Ma2YtbnFWd0I4eVNKV0pBQTZoVnBaQ1hLUXNpVzFGMk9ESndybFRKRi04dFlWMGtTY2RtcUYyZFZNOWlhT2F6dlFjdXl2S3ZZS2FxODFlU2RVYVgybEpuSXhiemlGSGc0YzFvd0pyLVpqaFdNOVVSak1DZXNma2tiXzk1cHYtS3cxUi1rWm1BT3JnQ1JBMW5KUTdxdjZMX201MTNmQUJzX2lMU2tkUW0taTNWOHFGbV9ObUNhNzc?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1705,7 +2249,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0VfS0ZXRXloelhpT3hxX2ZXQUZ5eE9kMG1id0J6ZXZwdUE2TFNGZnN5ZFBBaVFnMXRTSEptalRZcVNVOWxZcWpyYzZGbTk3ZUd0d0VSSmEtSEtGaVoyM3I3bjczeURIdExZM3hyaFlCNEpiNE0tSHNGcEpUaHVTbm1hcWlsZ1hqb3RGZXVmUUVoc1VKUWxvWFNyWWh0elQ2VGkyU3ViWkxzcjh2U3NtLURjclZlR0VsQ2ViMFVENk0?oc=5",
       "publishedAt": "2026-11-04T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1721,7 +2265,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXNFSi1ZcjZtMjh4QlBZUktXVUp3YWRISVFBNldGYTMyNEExNW44QUxmNWpmdUxzUlE3TGZwTmFmSXNXMTN1UWpON3YwRk55QVpiXzhLVFotdXBhYW54T0J3d2hvYlBTcTE2S0lOYk8wSzlHdkZPVUc1RVlRMW5aaUVVNnpycm0tbnU2dWI0LUJMWUhoa0tQOGJiczMwcXJVMDUwdmNSNkVwelZUNDRTZ0ZPTUs?oc=5",
       "publishedAt": "2026-10-17T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1737,7 +2281,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMHRGdzB5TllfMkJEaWFUMzA4RWRVaGhwNm9SRnNtenNIUVZSTC1fcnpkZmJpWUdBcGVpTkQybE1sd00tdjRCSm9aTVNqQzAwRURqNWNkZE90QzN3N1ByM2xJWGh5c2htcHp5cHRZYzFNUExvSVRXTzJzWmFQUDlCSnY0LUhIYml0d0lvMERHN1BNbXFGLWhFeWprcEdfYTVTUmNYUUU5eHFEVlN6RG1OUE1wODFwTlVWSFY3OHE5RzUyb1JNWDJkOEhvOHd1RFk?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1769,7 +2313,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnV4RW5pWHp0a1RsakpYemo3LUxIbUhfTkhRZmdoNDlqa2JFbk1BSHFBVWZ5cGVhV0QyTzE5eUhfRGJoMnpncExsV2tYYjl5QUpqaVRJR2VJSlpta1h5VFVMNFJudGFXMFQtbVBmME85c05sQTczeXFjcmU3eU1oQmlpaVZXTWpIR0p4cjNjQnEzUHhwRk1KSkV0WVMtNE9yVEllckhyMXN2OUZJVFZBdzBKY05SajJhVWtZ?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1785,7 +2329,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OQUpZaEdLbDRpLWxJbjh3SXZJUDN0TmFSMmhvMUVDNHpmR1hIRnFVYWlKRi1neW1WeHBtUUR5aU00QUVPTUhQNjRpaw?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1801,7 +2345,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUldXVkxWOE81amt2QzFleFYzV0dUa0JmS2QzZWZuTXV5a0hBUGUwMUdaWTlmUTVTVC1uZEUySTdNdXdkVnF3Wldzb2JCeG9PbGxIWkY3amo2SG9rLUpuYnRlenFGQURoRFhUcWhMUEswQWNxaGZMYg?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1817,7 +2361,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkxtMjlTSFdMUWpqamhFcl80aWZ2bFkxd1VoOVh5azFzbmYtRHpiaGlpclZfQ3U0U2tuYVByU05Gcm9YU3FLZEhNc0dpbWNYYkp6NjhRM21od3FITGUzME11NmFjbmI4RFpMeGpkWUU5VjdrcllDa2V2dHZSQjVFeWpSZVpHaldZR1kwREVOUWg4U0lhS1g0bzBndC1XQkRUbzd6X2NTUnY2bXRLdWR3VzUwdWFGdXh1MzRKRQ?oc=5",
       "publishedAt": "2026-11-13T15:24:59Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1833,7 +2377,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95VFVyX2tZQVhhM2xHRkJiQklLQ21seUJKV2tXdXJTOVBfMHJUWDZxNDBPbWEtUkthUXlRMWVQeDZhdHc3MkhkNXZQZ3oxSU9DelEzNkN0SUZEWVFkVS05bUtJOFRKMTNvRmQ4aVRLakQ2R2MtQWc?oc=5",
       "publishedAt": "2026-11-13T01:05:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1865,7 +2409,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlhNYU1zQnhxbXpQcTBpVGNNQXVSbzF2XzZ2NE1LeXY3YldRV2hndDk4cEUwWl9PazQ0UzVyeWMtc2FWeTRuVlBUUk55U1BpbXBkTE9ramFmTDJuTi00akY1bFJuLUE5RGFhQmZuVVhkRFprYkh1bVFEMUJVQWdjQkNXcFdESl9BT0hsRWRrblBjd1pZSnFfQ1ZMOW9tVVBZcUlTck1EeTZoYU80UDYzVU85YTBSOHRITFNr?oc=5",
       "publishedAt": "2026-10-31T01:22:40Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1881,7 +2425,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRVpIek5kUGRWRXRpQ1pmSmlSUUtqVkdNVU5LVlVOOHpkWFF2RXM0ZEloZUlNeDM2Q05tbUZpek1tSXFHYUNEMWNVaDVRVGR3MnhJN3RBMHFGeUpEVlE?oc=5",
       "publishedAt": "2026-10-31T19:42:42Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1897,7 +2441,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkIxX2pwMTRaQ05PVTdGb1RVOUNiMWVyV2RtMktJbThQazJYVlMya3BiZ0ZhMW1iNzdSbWlDVmNJNkRSa05qX2cyYl84WDBFSFA1WEZmQUxkeWdjQmxzSHA2VGJTZEJ2dHlXeUgzUkJxYjA3Q1ZYZlM0a3h4b0JHUDNsSGZnVzBzR19jaWthakxfelZWR1E0S21fUU13MzlLVmc?oc=5",
       "publishedAt": "2026-11-10T13:48:14Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1913,7 +2457,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHNfRlNnclkyTFlra1lrUnZIMld3T0pLYUlYaWVlV3d0R3JldWs0YU1qTjVWdlRWMVVhYi1IbWkxYzR1VnNsbGhzbXFQZDBqbU9YZkVnQjA4c1BoSFgyZWVQZERqamcweEwtdXR0bEZuRDdvMUpjUVBMYXphLUwyUDgtcVk5TEhNV1pvQllyd3RWMnBfZUNEeg?oc=5",
       "publishedAt": "2026-10-26T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1929,7 +2473,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XQjBOSVFlSG5NbXVBaURwWnY5RmlsN0dSemtITDZ3b21nQUtERWZYdS03eTNTXzYxbEFqajJUbi16ZDRQUTNlazltLTBHcWdYLTlkTFlfSQ?oc=5",
       "publishedAt": "2026-10-28T23:16:43Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1961,7 +2505,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTm5udTYyakE3R24tREdUMUV2bld3Y0M4elJnY3Y4REFSU21EVE5iT1lYNktvRjhaVE4wa1ZVckE5Vzl0Um1kRzBCaER3bWtFT2hLTjlYX1hfUEZHMG4xY1lFLWhiSmZtbHN1OVlhcmthUDBxb015eUZSWHNUUEw4dFBSZGNiekNKRS1GclNuTnJIenFaTjJRaUMtQ2JmdGRfWS1vTmRSajFJRkJrTTNiZEdsLVNFQ1RwbHZlWkp0RllsRHh5Uzd1czZqZG0zR3pHTjJZa3hsT0NqZw?oc=5",
       "publishedAt": "2026-11-13T15:24:59Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2009,7 +2553,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSldqd3RNN2hIYzQ4bU5kUU5jV0Jua3hCcGJfOFdXM0p5dVVESFQwOV84N3Y5UGtTRVlESjY1RDU3TlQtcnQ0NHV3azFxM3FCZnZ6SVNQbUhDVjlWVTFiMng2WUNHTW1IRmszelNZUzQ4c3R4Q2pDcG96UDdPbDB3T1dDdTRQWHkzUTd5dnRnUmRrd1FBaEFORWNlNTdxM09KcGMxSFBZYzFiTGdlTXlEMkN0MUU1SWwwdXBtcTJ3?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2041,7 +2585,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjhyYl9vVk54QjR6UnZHSDlpVGRWSHBRQkMxeTZZRHlWRm5Hb2h2N3RwNTdXQ3JfcFZXbTZ1MzZiQzJKaWtMMHQ3M0Zvb0ZWQUJaOWlCZ3BDcV96VElTVmhVRTVBZHFtY1RGZ2N3WHVhcUMtdXdsclRhN2ItY2JXMXhhcVN3cmEyYWZwZDVPZmxObl9BYU43NA?oc=5",
       "publishedAt": "2026-10-17T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2057,7 +2601,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3FPSlh3a3FpeUYzMFRyUlFQa1RJTHBiYTk2eDBlQjlITnZoeUhnNXhBcVQtNDAxY3NWMEpEZ1dUN0wyaksxaGJvVkhjZW1scDBVblRNTVRXTVY5NTdRNDA0TEZIeEgxa1NsQS04MG9nS0VGZnRUVFkxWDdaZkxsUTB5Y2dlcHhrUXowdXliY1lMT0dnc2FuQ29VdVBXTVh1dVFtQkRoVWRmU0tKU2YwZHRZOA?oc=5",
       "publishedAt": "2026-10-23T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2073,7 +2617,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QazFmbGhNQmJrUENXa3pKV01IWFVjVnNXUmNNSEluZFM5dEh5VVB2bzluUHRkOGNET0ZXbHlpd1BjV2hWZ3NGOVJkYTNBUjNoVm10ZjFiVjJyUm9FeWZFUlZoLTJqQzhFU0hzZlVGM1ZObTNsUU9n?oc=5",
       "publishedAt": "2026-11-12T15:05:24Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2089,7 +2633,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeXBkYTJocklYVFB6WWZWRmo0eV94QjMtN2pBbEx2RzFPTm5nWE14Yk1QLWVhSTU0SDE3dldpTlpLUHNSZU9rZUJ5ckQ5d1dnQU5QbFNxVTRKbGpwV3NKbHVZVEItamtGTmw3dEZfaEFpN1NfWVJvU2c1eGdlRW5NNW5yYzE1aG1qMl9pLU10YVlRVlJOTjhMeWY3MDhoYmEwV2hVUEJUa2JtRWdyQWdjMnh5U244NzVJLUktaGNTSnQxOFgzSWZyQzVaME9LdjBXTU1vOFhhMm9JbUFSNmZTQ2FPajJFN1ZJVGJlUjlrZnlybms?oc=5",
       "publishedAt": "2026-11-11T09:15:51Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2105,7 +2649,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlZpcVZsSlhET0tLWmE2SS1ZSzFRWkszYWotOVN5Wldja0NhLV9fQlIzeG5sMmRKc1NnYlV0MnhrcUdLS0h5cGlNWnV3OWE0TjAxTG1vVEhhU2c5VmNQQkExb3o2OGNxR2lHRFpUX1FQaUpfbHhKeDBJYTlicndLaGd6RXBQbXRXSU1DLW45c0pnWHF4M3VCSzNR?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2121,7 +2665,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
       "publishedAt": "2026-11-10T13:09:26Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2137,7 +2681,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGTExXRXRXQUMyYWdkR1V5aGZvMkZaLUZ4WUdGUndudWEzYWVQaEpRTGxlZXU1bmJuM3h3QWxfMU4tTTNkV3ppWXZfaVk1RG5WNkg4MmVyR1UxUVNKOG1fUXlUWE50R3FxWUpkN1RHdUhxWm01dWZ4Z2wwX0g?oc=5",
       "publishedAt": "2026-10-27T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2153,7 +2697,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZW9GUmhqTldzVVVjR0hWV0JqaURoeWtqZU5HVzJzNklkazZ6dHM0d2FVVHJCalhHTF81ZjBBdk5hWGk0X0dnM0JLVFJpSEIxV2tCN25IMjk0Yjl6RmNyR05rc3ZzSW5zLUF1UnBB?oc=5",
       "publishedAt": "2026-11-11T16:08:48Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2169,7 +2713,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5",
       "publishedAt": "2026-11-09T15:24:59Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2185,7 +2729,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWtaQTlPbmJuMjN4X0hMcWoxSkVldUVSWjY1UEVJMnhSNEpmbEcxS1c3QmtwcjczdFdhVE9EYTkxVkVhMGk5WWZkdlprQi1vZXBMcHVJQ3ltNVdJYUtpRGVLQm82U0FTS29talpYMkc3UzZZRXNDRjBtWjRHUGN6ODVPNUVtZ09XcF80aEstTWxxRDlsYVdXcHEzU3p4UURxd0FFSklfeHV3bGg3OXVTVElwa2VsbjlIMVNqYTRqbHo0Nkox?oc=5",
       "publishedAt": "2026-11-05T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2201,7 +2745,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObllYdVVfNy1hU0dkdEVydkJQeC0ybmxqQzNORU44UWVOd1pyZ29IbjZha2JqNTctekhUb0JmcFRDRmpreVl4Ym1fX2xuOXZCYktkZENNODdRLU5kek5BZjhUMjFoUmQ0Y2ZoZg?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2217,7 +2761,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0F0cGNtY2JRWE81bHpEeWh3eDhIakFUUUFSTUFVQzc5SDAyaVA5SEJPaEN6bURYdFBhZW1HMVdrTF9BX2RnaE9hcFhLamxwVks4cHY4SUFDZjNnNVA4dk5lYVA5ZWRKNnFfVEYtUjlHQVBWT1ItMDZ5SHYxUkN4SVRDb1hsZEU0Sm1tT2ctUEhkWUE?oc=5",
       "publishedAt": "2026-10-21T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2233,7 +2777,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjRBQ1hDSWstN2hLMEVMT1BVNUFWdFZsaW1DS2FoeDJ3NXlwQUdHUVE3NUx6M3BXaE14Rzg3WTlTVmtIU1VNUVlYVi1CWEZkczhvR0YzN093WjhyOGs2VEYtbEs2cUE1QnRIWUFJMmQxSDBPVU9MSDNnWk9XQlZ5czZWaXo?oc=5",
       "publishedAt": "2026-11-12T20:11:29Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2249,7 +2793,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFd1S0tKb0xRNEJaUVZMOWM3Njl5VUl0VTlOZU5qbFRWTjFuWEdMNFFhV3pvby1ERTljbWdnaHAzWVZ5SU5nSnp4eTdJMGdiZzZnOUxBelJ6eEoyU045RmhXWF9BZVZGenM5VldPVVY1eVZ6VVlmVVYyaUVFdnMtaXhibldpRHBOSU4xY1o5SjlET0lENXRuOXRtX2F1Mk9ua1gxT09EcE9BZlNHUXhXWtIBtgFBVV95cUxOeFhUYW9WVXVLN3dMVWY0U0ROazRWcE14ajJqOHpPNklMTEZFRjVSaTJLeW1NTWNEanRjUklkbGxLRy01aUJrZXVTWTFYRXA4N0FPMG9NY01VbGpiSlo5OC12bEtKMFVPUzJ0bDdhUzBBYkxYeGVYV3JHQTBPN3dJSm1yZGlCRlhDZC1pQ1dGRUg0YjNfcW8zUEFBMnFGMUp6X2pUVlFxVTNNY1VnQS1RbDNteWc2dw?oc=5",
       "publishedAt": "2026-11-05T21:27:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2265,7 +2809,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
       "publishedAt": "2026-11-12T00:26:53Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2281,7 +2825,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWJmRGsxR0pnTGhsTEdsRGZsRHNTMVRib1lxdDE2SWxhMkd4N1dQVVhZdnZUT2F6Z0ZIeWV3eDduTFJSd25hNkJMQ2IwVk52MEZFLTUwd29PSHhvbTdPQWlqcTk5V3ZGbkNjcnFHek5hMTloV1NFUmNwTXR3cUl0MTJBNzNRVV9wVEF6NjhPdDFJS3BlaU9ZZWZlc3NYM1hCN3JyazAzbFktQzFkRFpXeU4wbXFGVzNxSDFhMnZHNWtCMnRRSlloa21DeDZwUVZQZ1E?oc=5",
       "publishedAt": "2026-10-27T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2313,7 +2857,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSm03RnhoLXVpajduMzFncDVwNDlUQVFQdkZQNldqWFlKLVRpUkJPRldRRXVySUtIcE1LZTR1QkRNWjBKbldDTkR2VG1uc2xLeXNodVIxM0ZVV3M?oc=5",
       "publishedAt": "2026-11-11T12:08:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2329,7 +2873,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
       "publishedAt": "2026-11-12T03:41:41Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2345,7 +2889,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1bDg3WDlGLVdvRUF5X2thVTZsV1dWMlVxNlRrV2dlWVU0WVAxa0M4eTJNeEZSYmluZzRCZVhkSWF5WWNic0Zwa090WkxYODRCZVotYU1kTFZrYlQ3YWJGRkphUzBzdk85WUpaaExtOS1JVWVx?oc=5",
       "publishedAt": "2026-11-12T14:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2361,7 +2905,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMF9yc25zOFdJMUlpejVsNWh0U0s2Mk9OV1BjSHNWbTF3SVNwR1l0dE12QnlXMGFfVERQSXdiS0Q4cHBUak11OFhqVGM5Q1NlV1EwVEpkWFlLajRXUWNRQk4taVVVdzZVU3VRTjJvdTVBaXhRckg1RkotaHNYbmRlMzNZZkhiNlNxOFRCMlFjcW1TT0YxbjBLd1p0NUp1Uk9rWnFZQlVIYUtWQWpxbUVIbks4U085Zw?oc=5",
       "publishedAt": "2026-10-24T07:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2393,7 +2937,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnBBWjdXUjA1OEVka0lvNU9MVHJhRndNb3RpdVh1OU9RWGV0N1ZYUDdGcVNyZ0tfNkJiOW1waF9Zd0ZROWc2OFEwUmI4QVFwbS1CXzc1VlYwaU1QT3lpUVE3T25lQ1VKVlN2NDNqRDg2UkUzNW1IMnBNSlhyYWJjTS1KVnFCSmg0SlhERVBwdFpHdmJsMDhGUEZBMWlnV0xzaEV6aTNmT0JRRC1VM1ZVcWNMUlNHY0QzQVpIUU1yZzMtZ3lWQ2ZJaFprdkI3YWJDNWs0?oc=5",
       "publishedAt": "2026-11-13T05:49:03Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2409,7 +2953,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZVhPSUM2UjNaaWRFTC16a0lyY1BScHV4LTg4d1B2dTVSZnRQMUhtVm9oT3ZxUEt1WkZxVGdmVjJBOVlUdXJmN25SUVNZSVg0OTNoc21VNUVLTjJsNTVOVGhkTnQzOUJ0UHZkRFZ3?oc=5",
       "publishedAt": "2026-11-12T11:54:51Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2425,7 +2969,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ0JKcU9QbGlGdWh4ZnBvdFhtSFVkYlhTVDBhNldJbUkyeldBaWRLR0d1dHh3cGRFRE5VYkN1UzN2WHpkc2I0ZDRxN3pSeTBpWTVsNHZfYmJ1QjhFdExrTlh3WWxOcktmN3ZnZXU1dmt0ci0xNFJBZ0xMMjA3Q0RONjBLVWdqMGhmWUZxeGw1dUptVDRSTGpwUVFVVENoQnVmMTBNMlVONkFWQXl6b0tHc1lhMDM2YnpFVEpQX3NBU3I4NWdYVDE1WVdidDlFTTFoeVZER0FySzJwaWNsYUt5NlQtaHB1NktCUGN2Wg?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2441,7 +2985,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85OUxPbHF6M2t1YmdFQXlxMng5aWJaZDNvQTlOOE1mSHFRdEpDUUExZm9qcFdlLVlQcjlzWUFlRnBQOEtBbGVVa3pIVlczdzBUam5CWWk1SWw?oc=5",
       "publishedAt": "2026-11-04T06:41:17Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2457,7 +3001,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkR5M2NEREdmQVJUVkRENEVTNUFzcHdMSy13RTdMT1NiWnhZRU5kak11eHkwUXFhUlNGUXZZcC1RZ3RYeXBGWm1INjRrVTEwMGI4emJ5OXVtQVQydU1zVmF4aHp3ZGh1YURvSU1YWVJQOF9Rd2RDRVYzekZlTDFQTS15VEF5Y19mN0xySUU5OGdqZGc5SmNsVGc2dXk3NHBBTUZNajNaUHdtRlMxYmtLS2NsUkJOS2xid0wwbHNScVpzZkJiN2c?oc=5",
       "publishedAt": "2026-11-12T15:35:22Z",
       "firstSeen": "2026-11-13T19:52:29Z",
-      "lastSeen": "2026-11-13T19:52:29Z",
+      "lastSeen": "2026-11-14T18:17:52Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
