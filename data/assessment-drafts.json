@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-14T18:17:54Z",
+  "lastAssessmentAt": "2026-11-15T18:58:02Z",
   "drafts": [
+    {
+      "candidateId": "candidate-e30d04df79724bde",
+      "title": "The Hardest Part of Industrial AI Isn’t Adoption—It’s On-Site Deployment",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlZtX01rRlQwX2tvdWMwNmRHMjNWSE14OWhNOC1FWkI0NTBsb1RCR2w2alNOTGdDal9sWG9YQ2gzOXpEUVRmYl82eUE2RnBIbWtITnk5aXRpYndwaXROZms5anV1OWFfajJZQkxtVC14dUM5SWVYb2R6ZTFUMlN3RGN3QlFIRHhxTmo3bzdSTjZsNFlZRGJITzkxQVdCZ1NkTk1wTFFB?oc=5",
+      "assessedAt": "2026-11-15T18:58:02Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-e30d04df79724bde",
+        "company": "",
+        "title": "The Hardest Part of Industrial AI Isn’t Adoption—It’s On-Site Deployment",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-10-21",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlZtX01rRlQwX2tvdWMwNmRHMjNWSE14OWhNOC1FWkI0NTBsb1RCR2w2alNOTGdDal9sWG9YQ2gzOXpEUVRmYl82eUE2RnBIbWtITnk5aXRpYndwaXROZms5anV1OWFfajJZQkxtVC14dUM5SWVYb2R6ZTFUMlN3RGN3QlFIRHhxTmo3bzdSTjZsNFlZRGJITzkxQVdCZ1NkTk1wTFFB?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-d3dc27e51e485ddb",
+      "title": "Week ahead: Nvidia results, Anthropic's IPO pricing and debut, Trump-Xi-Putin and Walmart (Nov. 16-20)",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0pHZDh6OVJ0N194eDFYVTRKOGlqdlJsRWtWZlhiemZEWEJWdTA4Tm53YzVZTjE1N2tkZHZJQkMyaXRqRk1ZUkU5c3ZJMW5nNXQ5X2xSN2pUcDF2MnlIYXVvamhQMUJ6Y2x3N3ZsZ2lnVFRySHhWYi1PNm1LUWttdHRrd3hLZG5xZlk5OHROYmt0NklQU2kyYmY5ekpodmgwMm4xc3JGSm9tZ1FKYXFyTU1fZ3YwZ2s?oc=5",
+      "assessedAt": "2026-11-15T18:58:02Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-d3dc27e51e485ddb",
+        "company": "",
+        "title": "Week ahead: Nvidia results, Anthropic's IPO pricing and debut, Trump-Xi-Putin and Walmart (Nov. 16-20)",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-14",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0pHZDh6OVJ0N194eDFYVTRKOGlqdlJsRWtWZlhiemZEWEJWdTA4Tm53YzVZTjE1N2tkZHZJQkMyaXRqRk1ZUkU5c3ZJMW5nNXQ5X2xSN2pUcDF2MnlIYXVvamhQMUJ6Y2x3N3ZsZ2lnVFRySHhWYi1PNm1LUWttdHRrd3hLZG5xZlk5OHROYmt0NklQU2kyYmY5ekpodmgwMm4xc3JGSm9tZ1FKYXFyTU1fZ3YwZ2s?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-c71d21b68bc9b4bb",
       "title": "Genpact Study Finds the Real AI Challenge Begins After Deployment",
