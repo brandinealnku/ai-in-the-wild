@@ -1,0 +1,40 @@
+name: Dashboard browser interaction QA
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "data/cases.json"
+      - "tests/dashboard.e2e.mjs"
+      - ".github/workflows/dashboard-qa.yml"
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  dashboard-browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Chromium browser test dependency
+        run: |
+          npm install --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Run local dashboard server
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 >/tmp/aiwild-server.log 2>&1 &
+          echo $! >/tmp/aiwild-server.pid
+      - name: Test desktop and iPhone layouts
+        run: node tests/dashboard.e2e.mjs
+      - name: Server log on failure
+        if: failure()
+        run: cat /tmp/aiwild-server.log
