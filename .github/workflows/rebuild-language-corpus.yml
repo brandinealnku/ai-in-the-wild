@@ -1,5 +1,10 @@
 name: Refresh curated scholarly language corpus
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_study_language.py'
+      - '.github/workflows/rebuild-language-corpus.yml'
   workflow_dispatch:
 permissions:
   contents: write
