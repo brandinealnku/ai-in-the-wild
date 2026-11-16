@@ -62,12 +62,36 @@ async function validate(page, label) {
   assert.ok(dims.scroll <= dims.viewport + 2, label + ": horizontal overflow " + JSON.stringify(dims));
   console.log("PASS", label, "charts, filters, table, evidence, briefing, expansion, CSV, viewport");
 }
+async function validateLanguage(page, label) {
+  const response = await page.goto(new URL("language.html", BASE).href, {waitUntil:"networkidle"});
+  assert.equal(response?.status(), 200, label + ": language atlas unavailable");
+  await page.waitForFunction(() => document.querySelectorAll("#terms .term-line").length > 5, {timeout:15000});
+  assert.equal(await page.locator("#doc-count").innerText(), "16");
+  assert.ok(await page.locator("#terms .term-line").count() > 15);
+  await page.locator("#terms .term-line").first().click();
+  assert.ok(await page.locator("#document-results .word-source").count() > 0);
+  assert.ok(await page.locator("#document-results .word-source a[href^='https:']").count() > 0);
+  await page.locator("#metric").selectOption("frequency");
+  assert.ok(await page.locator("#terms .term-line").count() > 10);
+  await page.locator("#min-length").selectOption("1");
+  await page.locator("#include-common").check();
+  assert.ok(await page.locator("#terms .term-line").count() > 10);
+  const [download] = await Promise.all([page.waitForEvent("download"),page.locator("#export-terms").click()]);
+  assert.match(download.suggestedFilename(), /words\.csv$/);
+  await page.locator("[data-corpus='studies']").click();
+  assert.ok((await page.locator("#corpus-description").innerText()).includes("selected"));
+  const dimensions = await page.evaluate(() => ({scroll:document.documentElement.scrollWidth,viewport:document.documentElement.clientWidth}));
+  assert.ok(dimensions.scroll <= dimensions.viewport + 2, label + ": language atlas horizontal overflow " + JSON.stringify(dimensions));
+  console.log("PASS", label, "language atlas, source trails, rankings, stopwords, export, corpus switch");
+}
 try {
   const desktop = await browser.newPage({viewport:{width:1440,height:900},acceptDownloads:true});
   await validate(desktop,"desktop");
+  await validateLanguage(desktop,"desktop");
   await desktop.close();
   const mobile = await browser.newPage({...devices["iPhone 13"],acceptDownloads:true});
   await validate(mobile,"iPhone 13");
+  await validateLanguage(mobile,"iPhone 13");
   await mobile.close();
   assert.deepEqual(errors,[], "Uncaught browser errors: " + errors.join("; "));
 } finally {
