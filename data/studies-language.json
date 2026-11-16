@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "selection": "Five DOI-identified empirical workplace AI studies selected for relevance, not global citation rank.",
+  "rankScope": "citation counts rank only included papers",
+  "coverage": "title_and_abstract_only",
+  "metadataSource": "OpenAlex singleton DOI lookup",
+  "checkedAt": null,
+  "requestedDOIs": 5,
+  "studyCount": 0,
+  "errors": [],
+  "studies": []
+}

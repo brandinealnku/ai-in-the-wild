@@ -52,3 +52,11 @@ Design brief: benchmark patterns supplied from Observable, Exploding Topics, Our
 **Deferred:** saved research workspaces, natural-language semantic search, continuous trend curves, and one-click branded reports; those require evidence-quality and repeat-use validation before development. The previous eight-case evidence data and unapproved research queue remain unchanged.
 
 **QA:** `node --check app.js` and `node --check review.js` are now included in CI, alongside existing Python validation. Browser/device usability and GitHub Pages published-build verification remain release checks; committing source code alone is not proof of a successful deployed UI.
+
+## Language Atlas — word frequency and scholarly study analysis
+
+Open [Language Atlas](language.html) to count terms across all 16 current approved editorial case records, select a word to see cases containing it, and jump directly to the original case and evidence. Switch between document frequency and total occurrences; inspect full vocabulary with stopwords included or export CSV. The analysis is exact lexical counting, not sentiment or AI-derived themes.
+
+The **Cited research studies** corpus uses five DOI-identified empirical workplace AI studies. It obtains citation counts and title/abstract term vectors via OpenAlex singleton DOI lookups. Citation ranking is only within that curated selection, not all AI literature. The initial metadata workflow is configured to run on first release and can be re-run manually; until its first successful run, the scholarly panel correctly shows no indexed studies. No paid model API is used.
+
+The **My full texts** corpus analyzes authorized TXT/Markdown files privately within the browser, without uploading them to this repository. Full article analysis is not implied by editorial-case summaries or by indexed scholarly abstracts. See [research methodology](docs/LANGUAGE-ATLAS.md).

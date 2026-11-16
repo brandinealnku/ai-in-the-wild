@@ -1,0 +1,37 @@
+name: Refresh curated scholarly language corpus
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_study_language.py'
+      - '.github/workflows/rebuild-language-corpus.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ai-in-the-wild-study-language
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild cited study metadata (free OpenAlex singleton lookups)
+        run: python3 scripts/build_study_language.py
+      - name: Validate study metadata and case library
+        run: |
+          python3 scripts/validate_study_language.py
+          python3 scripts/validate_cases.py
+      - name: Commit derived counts and citation metadata only
+        run: |
+          if ! git diff --quiet -- data/studies-language.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/studies-language.json
+            git commit -m "research: refresh selected scholarly term vectors"
+            git push
+          fi
