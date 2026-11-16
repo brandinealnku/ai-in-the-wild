@@ -7,3 +7,6 @@
 
 /* Backward-compatible review queue primitives */
 .row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.chip{display:inline-block;padding:7px 10px;border:1px solid #3d566a;border-radius:20px;font-size:10px;color:#d4e5f5;letter-spacing:.05em}.note{color:#9cacc0;font-size:12px;line-height:1.7}.tiny{font-size:11px;color:#97a9bb}.date{font-size:11px;color:#97a9bb}.detailbox strong{color:#98e9d1;font-size:11px}.detailbox p{color:#b6c6d9;font-size:12px;line-height:1.65}
+
+/* Audience mode has immediate visible meaning on all case cards. */
+.audience-spotlight{padding:14px 16px;background:#102e38;border-left:3px solid #7ce3cc;border-radius:5px;margin-top:3px}.audience-spotlight .caps{font-size:10px;color:#a7f2da}.audience-spotlight p{font-size:13px;color:#d6e9ed;line-height:1.55;margin:8px 0 0}
