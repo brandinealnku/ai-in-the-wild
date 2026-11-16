@@ -82,6 +82,7 @@ async function load(){
 document.querySelectorAll("[data-corpus]").forEach(b=>b.addEventListener("click",()=>setCorpus(b.dataset.corpus)));
 $("metric").addEventListener("change",ev=>{A.metric=ev.target.value;analyze()});
 $("min-length").addEventListener("change",ev=>{A.minLength=Number(ev.target.value);analyze()});
+$("include-common").addEventListener("change",ev=>{A.showCommon=ev.target.checked;analyze()});
 $("term-query").addEventListener("input",drawTerms);
 $("document-search").addEventListener("input",drawDocuments);
 $("clear-word").addEventListener("click",()=>{A.word=null;drawTerms();drawDocuments()});
