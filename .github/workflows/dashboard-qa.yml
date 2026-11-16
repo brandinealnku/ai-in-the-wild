@@ -19,7 +19,7 @@ permissions:
   contents: read
 jobs:
   dashboard-browser:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
@@ -41,4 +41,5 @@ jobs:
         run: node tests/dashboard.e2e.mjs
       - name: Server log on failure
         if: failure()
-        run: cat /tmp/aiwild-server.log
+        run: |
+          if [ -f /tmp/aiwild-server.log ]; then cat /tmp/aiwild-server.log; else echo 'Dashboard server was not started'; fi
