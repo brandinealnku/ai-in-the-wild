@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-15T18:58:02Z",
+  "lastAssessmentAt": "2026-11-16T22:19:57Z",
   "drafts": [
+    {
+      "candidateId": "candidate-c658f5a72261332a",
+      "title": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkxfMlFqc25NZ1MyZ0R5eGxhNE5ySXNhMTYwOFBhRVFHTjVYSVh3RWlDS3FWNzBYZ3piV0xoT1lVVTVBS0tUejZHUHVzVW9EeFFzVUpUZnZvU2tqN2tVMXJlSE9KQ1hHaTFtYzNJSjBiMGg1eWtTYUdlZW1VSWdadFljRHlKVDFZZDZ6M0FZdEZOUVJrMzRPOTJRM0twVlZpS0VtQnZjNHRsSlp2QzZ0RWt4dHNMRFZpRS1kNml0X1BKYTZ1OTM5VWhFM2dxZm1hTkVybld3?oc=5",
+      "assessedAt": "2026-11-16T22:19:57Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-c658f5a72261332a",
+        "company": "",
+        "title": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-16",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkxfMlFqc25NZ1MyZ0R5eGxhNE5ySXNhMTYwOFBhRVFHTjVYSVh3RWlDS3FWNzBYZ3piV0xoT1lVVTVBS0tUejZHUHVzVW9EeFFzVUpUZnZvU2tqN2tVMXJlSE9KQ1hHaTFtYzNJSjBiMGg1eWtTYUdlZW1VSWdadFljRHlKVDFZZDZ6M0FZdEZOUVJrMzRPOTJRM0twVlZpS0VtQnZjNHRsSlp2QzZ0RWt4dHNMRFZpRS1kNml0X1BKYTZ1OTM5VWhFM2dxZm1hTkVybld3?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-a6e797b28c1486c7",
+      "title": "Helport AI Reports Fiscal Year 2026 Financial Results and Advances International Commercialization of AI Labor",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQTRtVGxfZXlUQlRSVkhBdDh1STI3NUppRzdvcVBGQ0xIMk1HWlo0RldtOFZ4RFlqVmpmX3Bxcy1McWF5bDFWLUVaZ09xdTBlRWhXd3p5Vy1jNlJrOEE0ZjBnbm1CTVp2dnJZQk5lVUxjUGVsQXhPZ0RvRGJGQ1MyLXliU09qSmU3QlcxMFR6MmlhMXNCNHZpMUNqRjNVSU8zdjNJc3RNRzB0QkRCUlJtem1seWEwLUFhcFlOY3lpMC1ka09DS3gxMDV4WWJHOVRrbmdBdURaV3hUc2djdThFbzZ2dVFfakFkTnBLR3loWkdZNTh4VjJqVjVtTHg5UWZpSllXUzhrUGQ3MnVSWEN0ZDl30gGXAkFVX3lxTE9Ka3VKWG5UZnZOT1ZVRlBQX092dGFxdnNWQ0VHS2tzRnVSTEV0VllzMkZuVU1ZMm9iZS1aYVoxNjR2LXN5UTR4MG1YWlpQWURpcjZWWnhpcWdNWEZjR1lFNFpLQ2ZnMFI0SG5Gc25VSmZLdnkzYy1WcW1zUHVGYmJIRXB5Z0p2MjJvRi1tRFBHM0hiNWdmREdvdnZ6eENqUXZkeTU2ZHE2NGpZT0xoZkN2M0ZETXhwLWJDUjlrcENnb2xPd0tCbU5abWVXOTQ4UXBMeGZNbHpib1k3cl9na1NveEFPZVZROWVqOXZSeXpFTFVxVHNoTGk3YnlCcGF4QkhKWHB5UzJlUEVoMEVTa1JwUFQ2RFNSMA?oc=5",
+      "assessedAt": "2026-11-16T22:19:57Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-a6e797b28c1486c7",
+        "company": "",
+        "title": "Helport AI Reports Fiscal Year 2026 Financial Results and Advances International Commercialization of AI Labor",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-16",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQTRtVGxfZXlUQlRSVkhBdDh1STI3NUppRzdvcVBGQ0xIMk1HWlo0RldtOFZ4RFlqVmpmX3Bxcy1McWF5bDFWLUVaZ09xdTBlRWhXd3p5Vy1jNlJrOEE0ZjBnbm1CTVp2dnJZQk5lVUxjUGVsQXhPZ0RvRGJGQ1MyLXliU09qSmU3QlcxMFR6MmlhMXNCNHZpMUNqRjNVSU8zdjNJc3RNRzB0QkRCUlJtem1seWEwLUFhcFlOY3lpMC1ka09DS3gxMDV4WWJHOVRrbmdBdURaV3hUc2djdThFbzZ2dVFfakFkTnBLR3loWkdZNTh4VjJqVjVtTHg5UWZpSllXUzhrUGQ3MnVSWEN0ZDl30gGXAkFVX3lxTE9Ka3VKWG5UZnZOT1ZVRlBQX092dGFxdnNWQ0VHS2tzRnVSTEV0VllzMkZuVU1ZMm9iZS1aYVoxNjR2LXN5UTR4MG1YWlpQWURpcjZWWnhpcWdNWEZjR1lFNFpLQ2ZnMFI0SG5Gc25VSmZLdnkzYy1WcW1zUHVGYmJIRXB5Z0p2MjJvRi1tRFBHM0hiNWdmREdvdnZ6eENqUXZkeTU2ZHE2NGpZT0xoZkN2M0ZETXhwLWJDUjlrcENnb2xPd0tCbU5abWVXOTQ4UXBMeGZNbHpib1k3cl9na1NveEFPZVZROWVqOXZSeXpFTFVxVHNoTGk3YnlCcGF4QkhKWHB5UzJlUEVoMEVTa1JwUFQ2RFNSMA?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-e30d04df79724bde",
       "title": "The Hardest Part of Industrial AI Isn’t Adoption—It’s On-Site Deployment",
