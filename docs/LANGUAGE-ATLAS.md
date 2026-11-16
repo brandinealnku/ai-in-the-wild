@@ -28,7 +28,7 @@ The Language Atlas provides a fully traceable lexical analysis:
 
 ## Rebuild scholarly metadata (optional)
 
-From GitHub Actions, open **Refresh curated scholarly language corpus → Run workflow**. The workflow uses five OpenAlex **singleton DOI lookups**, described as free in OpenAlex API documentation; it is **manual-only**, not scheduled, and makes no OpenAI or Gemini API calls. Source access may fail due to rate limits or endpoint changes. A previous successful dataset is retained if retrieval fails. No raw abstracts or full PDFs are stored in the public repository.
+From GitHub Actions, open **Refresh curated scholarly language corpus → Run workflow**. The workflow runs once when its source is first merged to `main`, and can subsequently be run manually. It uses five OpenAlex **singleton DOI lookups**, described as free in OpenAlex API documentation; it has **no recurring schedule** and makes no OpenAI or Gemini API calls. Source access may fail due to rate limits or endpoint changes. A previous successful dataset is retained if retrieval fails. No raw abstracts or full PDFs are stored in the public repository.
 
 OpenAlex citation counts are time-sensitive, may differ from Google Scholar and other indexes, and reflect database coverage. The captured `citationCheckedAt` date is stored with each record. Sorting works by metadata retrieved at a point in time; it is not a scholarly quality rating.
 
