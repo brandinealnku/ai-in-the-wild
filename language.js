@@ -1,5 +1,5 @@
 /* Evidence-linked word counts. No semantic assertions or fabricated article text. */
-const A={corpus:"cases",cases:[],studies:[],word:null,metric:"documents",minLength:4,showCommon:false,docs:[],terms:[],sourceLoaded:false,studiesLoaded:false};
+const A={corpus:"cases",cases:[],studies:[],uploads:[],word:null,metric:"documents",minLength:4,showCommon:false,docs:[],terms:[],sourceLoaded:false,studiesLoaded:false};
 const $=id=>document.getElementById(id);
 const enc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const safeURL=s=>{try{const u=new URL(s);return u.protocol==="https:"?u.href:"#"}catch{return "#"}};
@@ -8,6 +8,11 @@ const wordRE=/[\p{L}\p{N}]+(?:['’-][\p{L}\p{N}]+)*/gu;
 function words(s){return String(s||"").toLocaleLowerCase("en").normalize("NFKC").match(wordRE)||[]}
 function tally(arr){const m=new Map();for(const t of arr)m.set(t,(m.get(t)||0)+1);return Object.fromEntries(m)}
 function docs(){
+ if(A.corpus==="uploaded")return A.uploads.map(x=>({
+   id:x.id,title:x.title,organization:"Local research document",url:null,year:"",
+   citations:null,sourceType:"User-provided full text",counts:x.counts,total:x.total,
+   description:"Complete text of a document you selected in this browser; no external citation rank is available."
+ }));
  if(A.corpus==="studies")return A.studies.filter(x=>x.tokenCounts&&Object.keys(x.tokenCounts).length).map(x=>({
   id:x.id||x.doi,title:x.title,organization:x.journal||"Research paper",url:x.url||x.doi,
   year:x.publicationYear,citations:Number.isInteger(x.citedByCount)?x.citedByCount:null,
@@ -52,7 +57,7 @@ function drawDocuments(){
  $("selected-count").textContent=term?match.length+" of "+A.docs.length+" documents":match.length+" documents";
  $("selected-description").textContent=term
   ?"These are exact word matches in the indexed text, not automatic evidence that a study supports a proposition."
-  :A.corpus==="studies"?"Citation counts rank only the curated study set shown here. These records include title-and-abstract words only.":"Click a word on the left to reveal all matching curated cases. The index includes published editorial case text, not full external articles.";
+  :A.corpus==="studies"?"Citation counts rank only the curated study set shown here. These records include title-and-abstract words only.":A.corpus==="uploaded"?"These documents were selected locally, with full-file lexical coverage. They are not ranked by citations.":"Click a word on the left to reveal all matching curated cases. The index includes published editorial case text, not full external articles.";
  const target=$("document-results");
  if(!match.length){
   const message=A.corpus==="studies"&&!A.docs.length
@@ -60,13 +65,16 @@ function drawDocuments(){
    :"No documents match this selection.";
   target.innerHTML='<div class="atlas-empty">'+enc(message)+(A.corpus==="studies"?'<p><a href="https://github.com/brandinealnku/ai-in-the-wild/actions/workflows/rebuild-language-corpus.yml" target="_blank" rel="noopener noreferrer">Open literature metadata workflow ↗</a></p>':"")+'</div>';return
  }
- target.innerHTML=match.map(d=>'<article class="word-source"><div class="source-meta"><span>'+enc(d.organization)+'</span><span>'+enc(d.year||"")+'</span></div><h4>'+enc(d.title)+'</h4><div class="source-pills"><span>'+enc(d.sourceType)+'</span>'+(term?'<span>'+d.counts[term]+' uses of “'+enc(term)+'”</span>':"")+(Number.isInteger(d.citations)?'<span>'+d.citations.toLocaleString()+' OpenAlex citations</span>':"")+'</div><p>'+enc(d.description||"")+'</p><a href="'+enc(safeURL(d.url))+'" rel="noopener noreferrer" target="_blank">Read source ↗</a>'+(d.caseId?' <a href="./index.html#explorer" class="case-jump" data-case="'+enc(d.caseId)+'">Open case library ↗</a>':"")+'</article>').join("");
+ target.innerHTML=match.map(d=>'<article class="word-source"><div class="source-meta"><span>'+enc(d.organization)+'</span><span>'+enc(d.year||"")+'</span></div><h4>'+enc(d.title)+'</h4><div class="source-pills"><span>'+enc(d.sourceType)+'</span>'+(term?'<span>'+d.counts[term]+' uses of “'+enc(term)+'”</span>':"")+(Number.isInteger(d.citations)?'<span>'+d.citations.toLocaleString()+' OpenAlex citations</span>':"")+'</div><p>'+enc(d.description||"")+'</p>'+(d.url?'<a href="'+enc(safeURL(d.url))+'" rel="noopener noreferrer" target="_blank">Read source ↗</a>':'<span class="local-file-label">Local text only · not uploaded</span>')+(d.caseId?' <a href="./index.html#explorer" class="case-jump" data-case="'+enc(d.caseId)+'">Open case library ↗</a>':"")+'</article>').join("");
 }
 function setCorpus(v){A.corpus=v;A.word=null;$("term-query").value="";$("document-search").value="";document.querySelectorAll("[data-corpus]").forEach(b=>{const active=b.dataset.corpus===v;b.classList.toggle("active",active);b.setAttribute("aria-pressed",String(active))});
  $("corpus-title").textContent=v==="cases"?"Editorial case-language analysis":"Citation-aware scholarly language";
+ $("fulltext-tools").hidden=v!=="uploaded";
  $("corpus-description").textContent=v==="cases"
-  ?"Words are counted across the titles, summaries, evidence notes, risks and educational/business questions in the approved case library. This does not include external article bodies."
-  :"Selected empirical AI workplace studies; citation counts and title/abstract token frequencies come from OpenAlex when available. Ranked only among the curated studies, not the entire AI literature. No full-text analysis is implied.";
+  ?"Words are counted across titles, summaries, evidence notes, risks and educational/business questions in the approved case library—not the original article bodies."
+  :v==="studies"
+  ?"Selected empirical workplace AI studies. Citation metadata and title/abstract word counts come from OpenAlex when available. Ranked within this selection, not all literature."
+  :"Analyze every word in your own authorized plain-text or Markdown study files. Files are processed only in this browser tab, never uploaded. Citation ranking is not available for local documents.";
  analyze()}
 function exportCSV(){
  const rows=[["word","documents_mentioning","total_occurrences","corpus","text_coverage"],...A.terms.map(x=>[x.word,x.documents,x.frequency,A.corpus,A.corpus==="cases"?"case_editorial_fields":"scholarly_title_and_abstract"])];
@@ -80,6 +88,19 @@ async function load(){
  setCorpus("cases");
 }
 document.querySelectorAll("[data-corpus]").forEach(b=>b.addEventListener("click",()=>setCorpus(b.dataset.corpus)));
+$("fulltext-files").addEventListener("change",async ev=>{
+ const input=[...ev.target.files||[]].slice(0,10);const loaded=[];const errors=[];
+ for(const file of input){
+  if(!/\.(txt|md)$/i.test(file.name)||file.size>3_000_000){errors.push(file.name);continue}
+  try{const text=await file.text();const tokens=words(text);
+   loaded.push({id:file.name+"-"+file.size,title:file.name,counts:tally(tokens),total:tokens.length});
+  }catch{errors.push(file.name)}
+ }
+ A.uploads=loaded;
+ $("upload-status").textContent=loaded.length+" full texts loaded privately"+(errors.length?" · "+errors.length+" skipped (format/size/read error)":"");
+ if(A.corpus==="uploaded"){A.word=null;analyze()}
+ ev.target.value="";
+});
 $("metric").addEventListener("change",ev=>{A.metric=ev.target.value;analyze()});
 $("min-length").addEventListener("change",ev=>{A.minLength=Number(ev.target.value);analyze()});
 $("include-common").addEventListener("change",ev=>{A.showCommon=ev.target.checked;analyze()});
