@@ -8,7 +8,7 @@ async function validate(page, label) {
   page.on("pageerror", err => errors.push(label + ": " + err.message));
   const response = await page.goto(BASE, {waitUntil:"networkidle"});
   assert.equal(response?.status(), 200, label + ": dashboard returned non-200");
-  await page.locator("#count").getByText(/8 of 8 reviewed cases/).waitFor({timeout:15000});
+  await page.waitForFunction(() => document.getElementById("count")?.textContent?.includes("8 of 8 reviewed cases"), {timeout:15000});
   assert.equal(await page.locator("#total-cases").innerText(), "8");
   assert.equal(await page.locator("#outcome-bars button").count(), 3, label + ": expected outcome bars");
   assert.ok(await page.locator("#function-bars button").count() >= 4, label + ": expected function bars");
