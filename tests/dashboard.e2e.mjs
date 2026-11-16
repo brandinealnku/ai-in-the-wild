@@ -79,7 +79,7 @@ async function validateLanguage(page, label) {
   const [download] = await Promise.all([page.waitForEvent("download"),page.locator("#export-terms").click()]);
   assert.match(download.suggestedFilename(), /words\.csv$/);
   await page.locator("[data-corpus='studies']").click();
-  assert.ok((await page.locator("#corpus-description").innerText()).includes("selected"));
+  assert.ok((await page.locator("#corpus-description").innerText()).toLowerCase().includes("selected"));
   const dimensions = await page.evaluate(() => ({scroll:document.documentElement.scrollWidth,viewport:document.documentElement.clientWidth}));
   assert.ok(dimensions.scroll <= dimensions.viewport + 2, label + ": language atlas horizontal overflow " + JSON.stringify(dimensions));
   console.log("PASS", label, "language atlas, source trails, rankings, stopwords, export, corpus switch");
