@@ -30,8 +30,16 @@ async function validate(page, label) {
   await page.locator("#reset").click();
   await page.locator("[data-tab='evidence']").click();
   assert.equal(await page.locator(".ledger-card").count(), 16);
+  await page.locator("[data-tab='compare']").click();
+  assert.ok((await page.locator(".compare-empty").innerText()).includes("Select up to three cases"));
+  await page.locator("[data-tab='cards']").click();
+  await page.locator(".compare-button").first().click();
+  await page.locator(".compare-button").nth(1).click();
+  await page.locator("[data-tab='compare']").click();
+  assert.equal(await page.locator(".compare-col").count(), 2);
   await page.locator("[data-tab='story']").click();
   assert.equal(await page.locator(".story").count(), 16);
+  assert.ok(await page.locator(".story-chapter").count() >= 3);
   await page.locator("#learning-view").click();
   assert.ok((await page.locator(".story").first().innerText()).includes("A question for students"));
   await page.locator("#professional-view").click();
