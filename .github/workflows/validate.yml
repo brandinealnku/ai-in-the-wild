@@ -16,9 +16,11 @@ jobs:
       - run: python3 scripts/validate_cases.py
       - run: python3 scripts/validate_discovery.py
       - run: python3 scripts/validate_assessments.py
+      - run: python3 scripts/validate_study_language.py
       - run: python3 -m unittest discover -s tests -p 'test_assess_evidence.py'
 
       - name: Check research dashboard JavaScript syntax
         run: |
           node --check app.js
+          node --check language.js
           node --check review.js
