@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-16T22:19:57Z",
+  "lastAssessmentAt": "2026-11-17T21:05:48Z",
   "drafts": [
+    {
+      "candidateId": "candidate-1c41eba793ef37ef",
+      "title": "Pilot-to-Scale Retail Innovation Case — Scaling Conversational AI, Omnichannel Deployment, and Regional Innovation",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjM5N2lsTFNfdHJCdkh2OW9KZ29fZ3NuemtHV1diQWNLRm9tbWtoZkpLbmVSZ1BpZnhnbE5wM0k4LUNLTHR0MXBYNWFmYmdMcGZUZEJsMmZYQ2cwaUE3dW5yVGItZDdfVG04NVVwclRiSWxudTgwdTU2eFRXQ3N3Y1ZrT2g4NnhkVnJZYWJSTVlNRW9NTWFmRmgzd3NHcDFHUnlWRGpfdjdUYzdJX2hWVnczNndySGhCRDBjOEpjTWNpNEY3ZENjZ2ZkOTVWTGo5SExr?oc=5",
+      "assessedAt": "2026-11-17T21:05:48Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-1c41eba793ef37ef",
+        "company": "",
+        "title": "Pilot-to-Scale Retail Innovation Case — Scaling Conversational AI, Omnichannel Deployment, and Regional Innovation",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-17",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjM5N2lsTFNfdHJCdkh2OW9KZ29fZ3NuemtHV1diQWNLRm9tbWtoZkpLbmVSZ1BpZnhnbE5wM0k4LUNLTHR0MXBYNWFmYmdMcGZUZEJsMmZYQ2cwaUE3dW5yVGItZDdfVG04NVVwclRiSWxudTgwdTU2eFRXQ3N3Y1ZrT2g4NnhkVnJZYWJSTVlNRW9NTWFmRmgzd3NHcDFHUnlWRGpfdjdUYzdJX2hWVnczNndySGhCRDBjOEpjTWNpNEY3ZENjZ2ZkOTVWTGo5SExr?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-b230702f04249db5",
+      "title": "Blockmate Provides Update on AI Infrastructure Strategy and Development Pipeline",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVi1TZk90LWNPR0VQeFdjSFp0NHJ6bDd1TXl2Um9GOWk0S0dUQ1FqbldibmdJZ21TUHp5YmRYUVVpbTFfRlZBNmdKVHJTcEtVNlM4azlWTVpiLUs1eWhfVWlRdUJQNU9ZVElpRkkwSFVPUWtrSkdkMXVrWlZCZ0hxWjNuN3U3dENxUlZXSjJVSGRnUDI0QjYxODhIMjFZYktfTVZEV3ZQbVViRlVXMFV5d0RXakdlU3psNUhWRGdsa1BxVDhlUXJac1VIZi1faUQ2WGs0R3VaMUJCVEE?oc=5",
+      "assessedAt": "2026-11-17T21:05:48Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-b230702f04249db5",
+        "company": "",
+        "title": "Blockmate Provides Update on AI Infrastructure Strategy and Development Pipeline",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-17",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVi1TZk90LWNPR0VQeFdjSFp0NHJ6bDd1TXl2Um9GOWk0S0dUQ1FqbldibmdJZ21TUHp5YmRYUVVpbTFfRlZBNmdKVHJTcEtVNlM4azlWTVpiLUs1eWhfVWlRdUJQNU9ZVElpRkkwSFVPUWtrSkdkMXVrWlZCZ0hxWjNuN3U3dENxUlZXSjJVSGRnUDI0QjYxODhIMjFZYktfTVZEV3ZQbVViRlVXMFV5d0RXakdlU3psNUhWRGdsa1BxVDhlUXJac1VIZi1faUQ2WGs0R3VaMUJCVEE?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-c658f5a72261332a",
       "title": "MicroVision Lidar Powers Commercial Driverless Trucking at Scale with Kodiak AI",
