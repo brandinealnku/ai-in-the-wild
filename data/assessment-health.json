@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T21:05:48Z",
+  "checkedAt": "2026-11-18T20:43:27Z",
   "aiConfigured": false,
   "model": null,
   "newDrafts": 2,
-  "draftCount": 10,
+  "draftCount": 12,
   "statusCounts": {
     "needs_human_review": 0,
-    "needs_configuration": 10,
+    "needs_configuration": 12,
     "insufficient_source_access": 0,
     "assessment_error": 0
   },

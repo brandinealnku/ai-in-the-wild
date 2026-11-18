@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-17T21:05:48Z",
+  "lastAssessmentAt": "2026-11-18T20:43:27Z",
   "drafts": [
+    {
+      "candidateId": "candidate-abc1a2d65d5ab5aa",
+      "title": "SambaNova Expands TACC Partnership, Tripling SambaStack Deployment to Accelerate Scientific AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRlZsU29hVHZyWEM4RGFvYy0xT3MyX1l0dEhXZ1RnUTlWNVJqU3RVMVVCODRaR3VPUXVQdDlEa3VSMjZlZ1FseUg1NllnR0paTDRLOGQzMUVqVDgzQUdWMG1zUXZOWE1McnhSY2RCQ2pTS2tiZHZadG1BRWczaHpfa1ExUHdoUHRrU1JkUWdIMjNLY21XMWpnX29SeUt6YTM5b3Vmc0phc1pVU2RNN2huZ0JaMVVpSkkwalFOVU5hakJuMzNwNEduY2tvWE43Smx5dkMtcnVxeFJQc2d1dEdNX0Y2MHEzcWs5eU1WdDVHNl8zSVhXZkRkU09uNWU2MkpuSExnLTF0bTV6V0Z6dV9pclB3eENFZw?oc=5",
+      "assessedAt": "2026-11-18T20:43:27Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-abc1a2d65d5ab5aa",
+        "company": "",
+        "title": "SambaNova Expands TACC Partnership, Tripling SambaStack Deployment to Accelerate Scientific AI",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-18",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRlZsU29hVHZyWEM4RGFvYy0xT3MyX1l0dEhXZ1RnUTlWNVJqU3RVMVVCODRaR3VPUXVQdDlEa3VSMjZlZ1FseUg1NllnR0paTDRLOGQzMUVqVDgzQUdWMG1zUXZOWE1McnhSY2RCQ2pTS2tiZHZadG1BRWczaHpfa1ExUHdoUHRrU1JkUWdIMjNLY21XMWpnX29SeUt6YTM5b3Vmc0phc1pVU2RNN2huZ0JaMVVpSkkwalFOVU5hakJuMzNwNEduY2tvWE43Smx5dkMtcnVxeFJQc2d1dEdNX0Y2MHEzcWs5eU1WdDVHNl8zSVhXZkRkU09uNWU2MkpuSExnLTF0bTV6V0Z6dV9pclB3eENFZw?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-17fa0b07a9e2d4a4",
+      "title": "ThoughtSpot Introduces Customer Hosted Deployment, Giving Enterprises Full Control of Their Data and AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSEdoa1h0QjZ6ZGh0Q09vWkFnT1pGUGQ2TTVlbGdwMEppSldzY3pDMl9FbXBva2pJal9BdFB2aGFHMVpDLWgzQVdJV0dxeGNWZGFYdmp3amVjVmhkbkJ6RDcxTDliR0c5TkhUZFp4LThNTkxNb05SZnd4aW9NSjY5WnhHVWdEbnB6VzAyOVhuQTZscDdoZmdOalZJVFhmdVRKN0x5QkppdnduYkRkSkVPUzdYTWYzS0dNSFVuZU1YaGJzdm9zcFF0TDctVzJ4d2U3S0stTXJRU2xuV05FRjh3VWVnc1hPZVlnYmNKejFoMkxOMmN5QzRJc0NrblNIMFRHSnZfZTRBNNIBjAJBVV95cUxNblZZaUxXdHphSFBZOGdGWUxnSG1MU2pfcDB1MEs2bUw1Mml3V1J4R2Z6UkFrYUpGeU9fS3E1Y0Q3Rk1nSFFmbGNyUmsxc0M2cnBlZU0yNkVmT2NZRzdOYm00NnQ5aVMzTm0zSlI0cGNoX1JGY2xodDROLXI0Mnpqb0RkazVQNWUxTnh4X3VRWHY0eV9jd1IzMDFoSUY4ZUdkcUg1YzJBUmNsM0ZMMGxpanNjUk1Hc1Bxbm9YM01jYklGUkJWcEx4di1nT0xKQkpPa1J5aDZZWFB0T3NqbUp3VUtKNzBQNm9raUNxSy1uMFlSMlNQR3JfblMyNlZ2NTgzeE1hYmdhVmxuTXRE?oc=5",
+      "assessedAt": "2026-11-18T20:43:27Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-17fa0b07a9e2d4a4",
+        "company": "",
+        "title": "ThoughtSpot Introduces Customer Hosted Deployment, Giving Enterprises Full Control of Their Data and AI",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-18",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSEdoa1h0QjZ6ZGh0Q09vWkFnT1pGUGQ2TTVlbGdwMEppSldzY3pDMl9FbXBva2pJal9BdFB2aGFHMVpDLWgzQVdJV0dxeGNWZGFYdmp3amVjVmhkbkJ6RDcxTDliR0c5TkhUZFp4LThNTkxNb05SZnd4aW9NSjY5WnhHVWdEbnB6VzAyOVhuQTZscDdoZmdOalZJVFhmdVRKN0x5QkppdnduYkRkSkVPUzdYTWYzS0dNSFVuZU1YaGJzdm9zcFF0TDctVzJ4d2U3S0stTXJRU2xuV05FRjh3VWVnc1hPZVlnYmNKejFoMkxOMmN5QzRJc0NrblNIMFRHSnZfZTRBNNIBjAJBVV95cUxNblZZaUxXdHphSFBZOGdGWUxnSG1MU2pfcDB1MEs2bUw1Mml3V1J4R2Z6UkFrYUpGeU9fS3E1Y0Q3Rk1nSFFmbGNyUmsxc0M2cnBlZU0yNkVmT2NZRzdOYm00NnQ5aVMzTm0zSlI0cGNoX1JGY2xodDROLXI0Mnpqb0RkazVQNWUxTnh4X3VRWHY0eV9jd1IzMDFoSUY4ZUdkcUg1YzJBUmNsM0ZMMGxpanNjUk1Hc1Bxbm9YM01jYklGUkJWcEx4di1nT0xKQkpPa1J5aDZZWFB0T3NqbUp3VUtKNzBQNm9raUNxSy1uMFlSMlNQR3JfblMyNlZ2NTgzeE1hYmdhVmxuTXRE?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-1c41eba793ef37ef",
       "title": "Pilot-to-Scale Retail Innovation Case — Scaling Conversational AI, Omnichannel Deployment, and Regional Innovation",
