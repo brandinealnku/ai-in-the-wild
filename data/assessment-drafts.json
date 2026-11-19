@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-18T20:43:27Z",
+  "lastAssessmentAt": "2026-11-19T20:48:01Z",
   "drafts": [
+    {
+      "candidateId": "candidate-31e6ba96c54bce1b",
+      "title": "Leobit Research Maps Voice AI Engine Strengths for Business Deployment Decisions - The Courier-Journal",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVBQdWk4SWRGN245Q1Bqa0hiQjJPOVhXRW9EWHAwYWdQSUN5QXJIWEhweEtJSzZ5SW5SbkVNRXdjeWpWTTRyNXNRYUtOSS1xbmYxV0xlOUlHMEdGd0w1NGtTNVMyWXpDdVNKVFd2dlZrZGoxOTlyRklUdUQzTTYtVnd1WFRkTzFzRkozV24xU3FiWjVTanltRjdYNy1zTUtIOEw5d3J3NzF1dEdJNWpZeDNmR3RCc0dkRFgxN0RWN000dThROVZITXV6NmZ2SWdhZlBUQWRjVQ?oc=5",
+      "assessedAt": "2026-11-19T20:48:01Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-31e6ba96c54bce1b",
+        "company": "",
+        "title": "Leobit Research Maps Voice AI Engine Strengths for Business Deployment Decisions - The Courier-Journal",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-19",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVBQdWk4SWRGN245Q1Bqa0hiQjJPOVhXRW9EWHAwYWdQSUN5QXJIWEhweEtJSzZ5SW5SbkVNRXdjeWpWTTRyNXNRYUtOSS1xbmYxV0xlOUlHMEdGd0w1NGtTNVMyWXpDdVNKVFd2dlZrZGoxOTlyRklUdUQzTTYtVnd1WFRkTzFzRkozV24xU3FiWjVTanltRjdYNy1zTUtIOEw5d3J3NzF1dEdJNWpZeDNmR3RCc0dkRFgxN0RWN000dThROVZITXV6NmZ2SWdhZlBUQWRjVQ?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-14c83f4a625f928e",
+      "title": "Global Banking Annual Review 2026: Precision with speed",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGMxZW9DUi1QOXoyd2N1Y3lnTTRBX25tanFkTFlNblVPSTU2YUhMOVBhbVc1em43bXNfRDlBWlpyeDRpOGh1djFGUGM1YW00a0RIRGYydHJJRGtlZGtKbURyTjIzd1N4OEZidTBET1ctVHJQUWxTZXBuQkZ2czFtakVjUHZDT05UNmpCYXlTOWFmOEo4Z3AwakFnY2Y?oc=5",
+      "assessedAt": "2026-11-19T20:48:01Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-14c83f4a625f928e",
+        "company": "",
+        "title": "Global Banking Annual Review 2026: Precision with speed",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-17",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGMxZW9DUi1QOXoyd2N1Y3lnTTRBX25tanFkTFlNblVPSTU2YUhMOVBhbVc1em43bXNfRDlBWlpyeDRpOGh1djFGUGM1YW00a0RIRGYydHJJRGtlZGtKbURyTjIzd1N4OEZidTBET1ctVHJQUWxTZXBuQkZ2czFtakVjUHZDT05UNmpCYXlTOWFmOEo4Z3AwakFnY2Y?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-abc1a2d65d5ab5aa",
       "title": "SambaNova Expands TACC Partnership, Tripling SambaStack Deployment to Accelerate Scientific AI",
