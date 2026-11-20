@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-19T20:48:01Z",
+  "lastAssessmentAt": "2026-11-20T20:32:22Z",
   "drafts": [
+    {
+      "candidateId": "candidate-1454e9f89c641edc",
+      "title": "Elite AI Deployment Engineers Command Pay Packages of Up to $1.45 Million",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnlpbjRITzZWM1JCeXRfdWcwaTdiQUEzSGJscW5hMkJObGl5UTFTQXpYRThYOHJjQjdsbGhXeG5TbkxocEkxQ0FjRmU1aWJNV2pLV1ZLYmMxbVcwcVcyNGpGUjJVSzF2WElBMmhYY2s2TXYwalFacjF6RmEtZmpYLTdiS0xTUW9MNmNnUjh2TXphTUM1WnV5VnI4UWpOVW5KNDdVTmo2QVRMSklGRWN3?oc=5",
+      "assessedAt": "2026-11-20T20:32:22Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-1454e9f89c641edc",
+        "company": "",
+        "title": "Elite AI Deployment Engineers Command Pay Packages of Up to $1.45 Million",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-10",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnlpbjRITzZWM1JCeXRfdWcwaTdiQUEzSGJscW5hMkJObGl5UTFTQXpYRThYOHJjQjdsbGhXeG5TbkxocEkxQ0FjRmU1aWJNV2pLV1ZLYmMxbVcwcVcyNGpGUjJVSzF2WElBMmhYY2s2TXYwalFacjF6RmEtZmpYLTdiS0xTUW9MNmNnUjh2TXphTUM1WnV5VnI4UWpOVW5KNDdVTmo2QVRMSklGRWN3?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-d0cbcbf63ad2d202",
+      "title": "What FDE means at OpenAI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
+      "assessedAt": "2026-11-20T20:32:22Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-d0cbcbf63ad2d202",
+        "company": "",
+        "title": "What FDE means at OpenAI",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-10-22",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NEd6UTZDdVRiaUFfUEdtMDZuRk1CVDR2QnFLN29TU2tfaDEzV1RUMUVQNDFKT1A5QkQ4eVRxX3BvenlYNGJpNEV4WjBMZnJWY1c4TjFna0M4QzFLRWpXeG1IbVJIUnNYcGNXUw?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-31e6ba96c54bce1b",
       "title": "Leobit Research Maps Voice AI Engine Strengths for Business Deployment Decisions - The Courier-Journal",
