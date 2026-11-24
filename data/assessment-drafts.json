@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-22T19:50:49Z",
+  "lastAssessmentAt": "2026-11-24T00:04:16Z",
   "drafts": [
+    {
+      "candidateId": "candidate-5da09e0855500f3d",
+      "title": "How AI Companies Want to Be Governed, and What That Means for AI Governance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0NHN2JaT19DUnpQUGpRMU93OThITWE4akJpcGtERE5ZRnBaVG5raVhuWnZtVzhRTk9SYXd5S25JcnNpODVjQVVJSnNKcVJvMVQtaHA2MG1GZF90OS04Y1BET3dUYnJnWFdfU0RmLXJDSldNWDNBOS0yX1R2T2pHYlBfa290REdySjNaelNTSUFiRTVnTm5pbXNvZUtnOVpT?oc=5",
+      "assessedAt": "2026-11-24T00:04:16Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-5da09e0855500f3d",
+        "company": "",
+        "title": "How AI Companies Want to Be Governed, and What That Means for AI Governance",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-02",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0NHN2JaT19DUnpQUGpRMU93OThITWE4akJpcGtERE5ZRnBaVG5raVhuWnZtVzhRTk9SYXd5S25JcnNpODVjQVVJSnNKcVJvMVQtaHA2MG1GZF90OS04Y1BET3dUYnJnWFdfU0RmLXJDSldNWDNBOS0yX1R2T2pHYlBfa290REdySjNaelNTSUFiRTVnTm5pbXNvZUtnOVpT?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-21fc50318e28bbfa",
+      "title": "The AI revolution has a business model problem. Workday thinks it knows the answer",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHgydnE5RmltQ2lLUlh3akI4TXFGSUJkemVuaEQ1MkdxcUpBWEtsT0puR1VsaUt1NkJsekp0Z2QtV3dkeXRncGxHWVBnWGg2WVBDVndUb1ZMSEZMa0Zoa1MzbG1kd0thaXlCcWNKWXJza3N4ZXlESG9ZWDFEaVowTWdna0tJc2UtSTZuOFkwWl9FNjN0Qm10bEFZZDJKVDFTMnhZcDRwb0ZtY0FWZWpKUlc2Y3Jvd3RHeXc?oc=5",
+      "assessedAt": "2026-11-24T00:04:16Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-21fc50318e28bbfa",
+        "company": "",
+        "title": "The AI revolution has a business model problem. Workday thinks it knows the answer",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-23",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHgydnE5RmltQ2lLUlh3akI4TXFGSUJkemVuaEQ1MkdxcUpBWEtsT0puR1VsaUt1NkJsekp0Z2QtV3dkeXRncGxHWVBnWGg2WVBDVndUb1ZMSEZMa0Zoa1MzbG1kd0thaXlCcWNKWXJza3N4ZXlESG9ZWDFEaVowTWdna0tJc2UtSTZuOFkwWl9FNjN0Qm10bEFZZDJKVDFTMnhZcDRwb0ZtY0FWZWpKUlc2Y3Jvd3RHeXc?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-449c981b01146069",
       "title": "Insight Enterprises fast tracks AI deployment",
