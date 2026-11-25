@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-24T22:36:38Z",
+  "lastAssessmentAt": "2026-11-25T21:50:29Z",
   "drafts": [
+    {
+      "candidateId": "candidate-16b9096c546f01e8",
+      "title": "Lyzr Introduces a New Brand Identity as It Advances Its Vision for Enterprise AI",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW5qRkdjT1pYVl9LVGRhVE0yT1JtbEpULUdnQl9Bd0RxbVFkQi0yaXl1T0w0SlFIUlpnODNWZDZKMEZfZDAyM0FKTzdnckpzV0FuZXhxa1NEb1pYRXVBREstcmJKNjduMzNqYmg2enZBODIwaFFONTlFcnRYQXBrT3lzcFdQb3B0Szg0dVl1R29yQVpIWFZGdVphZWF3ckhwWEtaRVFTSE01OENvZzk2a01tVlo1ZVhEbGozY0JwUVZwWEtUV0hpMEZxbDJDOF8teHc?oc=5",
+      "assessedAt": "2026-11-25T21:50:29Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-16b9096c546f01e8",
+        "company": "",
+        "title": "Lyzr Introduces a New Brand Identity as It Advances Its Vision for Enterprise AI",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-25",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW5qRkdjT1pYVl9LVGRhVE0yT1JtbEpULUdnQl9Bd0RxbVFkQi0yaXl1T0w0SlFIUlpnODNWZDZKMEZfZDAyM0FKTzdnckpzV0FuZXhxa1NEb1pYRXVBREstcmJKNjduMzNqYmg2enZBODIwaFFONTlFcnRYQXBrT3lzcFdQb3B0Szg0dVl1R29yQVpIWFZGdVphZWF3ckhwWEtaRVFTSE01OENvZzk2a01tVlo1ZVhEbGozY0JwUVZwWEtUV0hpMEZxbDJDOF8teHc?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-51d29873ccb24bc7",
+      "title": "Top 10: Ethical AI Companies",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUVQ1VFJPT2VXZG1wTU9odE9sZVNsZWxYN0ZpYTdEdV84ajZSUlNxTzltVTZ2TzYtdjNZem1sbEtLUnFKNTFJTnhlaVpGeEJBRmZDcTdMZS1sMUd3UE5TN0ZNajRCTnJYTTlYaXExT1I?oc=5",
+      "assessedAt": "2026-11-25T21:50:29Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-51d29873ccb24bc7",
+        "company": "",
+        "title": "Top 10: Ethical AI Companies",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-25",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUVQ1VFJPT2VXZG1wTU9odE9sZVNsZWxYN0ZpYTdEdV84ajZSUlNxTzltVTZ2TzYtdjNZem1sbEtLUnFKNTFJTnhlaVpGeEJBRmZDcTdMZS1sMUd3UE5TN0ZNajRCTnJYTTlYaXExT1I?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-1e0637d6356fe755",
       "title": "AidenAI Raises $32 Million in Series A Funding Led by A91 Partners to Scale Enterprise AI Deployment",

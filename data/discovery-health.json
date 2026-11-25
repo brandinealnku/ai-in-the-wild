@@ -1,59 +1,59 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T22:36:36Z",
+  "checkedAt": "2026-11-25T21:50:26Z",
   "status": "healthy",
   "sourceSuccessCount": 6,
   "sourceTotal": 6,
-  "newCandidates": 61,
+  "newCandidates": 68,
   "totalCandidates": 300,
   "pendingReview": 300,
   "sources": {
     "enterprise-deployments": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
-      "recordsSeen": 27,
-      "newCandidates": 3,
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
+      "recordsSeen": 20,
+      "newCandidates": 4,
       "note": "Google News RSS discovery; not primary evidence."
     },
     "measurable-results": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
-      "recordsSeen": 24,
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
+      "recordsSeen": 25,
       "newCandidates": 5,
       "note": "Google News RSS discovery; not primary evidence."
     },
     "failures-incidents": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
       "recordsSeen": 9,
-      "newCandidates": 2,
+      "newCandidates": 1,
       "note": "Google News RSS discovery; not primary evidence."
     },
     "health-finance": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
       "recordsSeen": 60,
-      "newCandidates": 32,
+      "newCandidates": 13,
       "note": "Google News RSS discovery; not primary evidence."
     },
     "manufacturing-retail": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
-      "recordsSeen": 28,
-      "newCandidates": 9,
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
+      "recordsSeen": 23,
+      "newCandidates": 7,
       "note": "Google News RSS discovery; not primary evidence."
     },
     "agentic-workflows": {
       "success": true,
-      "checkedAt": "2026-11-24T22:36:36Z",
-      "lastSuccessAt": "2026-11-24T22:36:36Z",
-      "recordsSeen": 30,
-      "newCandidates": 10,
+      "checkedAt": "2026-11-25T21:50:26Z",
+      "lastSuccessAt": "2026-11-25T21:50:26Z",
+      "recordsSeen": 60,
+      "newCandidates": 38,
       "note": "Google News RSS discovery; not primary evidence."
     }
   },
