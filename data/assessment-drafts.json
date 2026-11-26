@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-25T21:50:29Z",
+  "lastAssessmentAt": "2026-11-26T21:44:18Z",
   "drafts": [
+    {
+      "candidateId": "candidate-209fe62b78fd1607",
+      "title": "The five enterprise AI deployment models",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdE56a0pBTUlXbkp1Q0g4TjJpdTQ5REFfMURMSUE1bFZmcTFvN1J0ejFVRjNRQ2ZHek52c2hYTkFQVFlaMzc1cWx3dkJxUnluVmdtYzZZWG1HTVRjNWFraWJNdUlKU0NpNFhxUE1CXzNUQjMxLUhV?oc=5",
+      "assessedAt": "2026-11-26T21:44:18Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-209fe62b78fd1607",
+        "company": "",
+        "title": "The five enterprise AI deployment models",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-26",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdE56a0pBTUlXbkp1Q0g4TjJpdTQ5REFfMURMSUE1bFZmcTFvN1J0ejFVRjNRQ2ZHek52c2hYTkFQVFlaMzc1cWx3dkJxUnluVmdtYzZZWG1HTVRjNWFraWJNdUlKU0NpNFhxUE1CXzNUQjMxLUhV?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-9f45c2403d280fb0",
+      "title": "YCC deploys NTT Docomo Business AI security service after ransomware attack",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWM1LWNMWFR5dEZkVS1sR19DNlFxcjMyZzRmR2E3R25NV3M4dm5YWTNBLUx6bHcyd1Q1b25xQ0NFMmNiM29nYlF6QWVMZ3VvQk4wakFHX2tFUjlhZ1NNS0pJaXR1VFE3bkRsbWNxV2FvaF9uSjdiTWIwckJwemc0TmVUY25ybl9PN2Y5TFhaYi01Y1NHS0xIVzcxSm41bWJfV0NGclBXUU1vcEFYd3QtbWRmYzVLQmI2aFE?oc=5",
+      "assessedAt": "2026-11-26T21:44:18Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-9f45c2403d280fb0",
+        "company": "",
+        "title": "YCC deploys NTT Docomo Business AI security service after ransomware attack",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-26",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWM1LWNMWFR5dEZkVS1sR19DNlFxcjMyZzRmR2E3R25NV3M4dm5YWTNBLUx6bHcyd1Q1b25xQ0NFMmNiM29nYlF6QWVMZ3VvQk4wakFHX2tFUjlhZ1NNS0pJaXR1VFE3bkRsbWNxV2FvaF9uSjdiTWIwckJwemc0TmVUY25ybl9PN2Y5TFhaYi01Y1NHS0xIVzcxSm41bWJfV0NGclBXUU1vcEFYd3QtbWRmYzVLQmI2aFE?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-16b9096c546f01e8",
       "title": "Lyzr Introduces a New Brand Identity as It Advances Its Vision for Enterprise AI",

@@ -1,7 +1,695 @@
 {
   "schemaVersion": 1,
-  "lastDiscoveryAt": "2026-11-25T21:50:26Z",
+  "lastDiscoveryAt": "2026-11-26T21:44:16Z",
   "candidates": [
+    {
+      "id": "candidate-209fe62b78fd1607",
+      "title": "The five enterprise AI deployment models",
+      "publisher": "IT Brief UK",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdE56a0pBTUlXbkp1Q0g4TjJpdTQ5REFfMURMSUE1bFZmcTFvN1J0ejFVRjNRQ2ZHek52c2hYTkFQVFlaMzc1cWx3dkJxUnluVmdtYzZZWG1HTVRjNWFraWJNdUlKU0NpNFhxUE1CXzNUQjMxLUhV?oc=5",
+      "publishedAt": "2026-11-26T08:15:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-9f45c2403d280fb0",
+      "title": "YCC deploys NTT Docomo Business AI security service after ransomware attack",
+      "publisher": "Telecompaper",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWM1LWNMWFR5dEZkVS1sR19DNlFxcjMyZzRmR2E3R25NV3M4dm5YWTNBLUx6bHcyd1Q1b25xQ0NFMmNiM29nYlF6QWVMZ3VvQk4wakFHX2tFUjlhZ1NNS0pJaXR1VFE3bkRsbWNxV2FvaF9uSjdiTWIwckJwemc0TmVUY25ybl9PN2Y5TFhaYi01Y1NHS0xIVzcxSm41bWJfV0NGclBXUU1vcEFYd3QtbWRmYzVLQmI2aFE?oc=5",
+      "publishedAt": "2026-11-26T06:34:35Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5dc168a3cbd2cc75",
+      "title": "Infosys (INFY) Stock: Rallies as CMMI Level 5 Recognition Strengthens Global AI Position",
+      "publisher": "Blockonomi",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWtSX1I4VEc3N2J2dURMOEFXSXhNRDhzT0poa3BnUlNOVUxKVWV5eU9lellYaHhwOXM5OF9WWUhhajVqSVU4ZF9ELUdyZmtxTjR2bVJhUml5bU9PTzVoSmpqNGctV2stSHZsM3VIdG0ybktDemt5VGJ6ZElLLWxEUTdPM1N5MUJ2VE1Nb2t3a3dTeERQUDZrM0dGbFlod0hocmhHWTVvZldzUk5aX2c?oc=5",
+      "publishedAt": "2026-11-25T21:45:41Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "enterprise-deployments"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-8758bc5e6617337e",
+      "title": "AI slows growth for Infosys and keeps it afloat at the same time",
+      "publisher": "The Register",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ20yRkNvbmV3LVlfbC1EZFR4MEJOSGxaMTJOaGhrdWdLWGNuampCcGd6OTlqa3pQNzJHZXdQZWtsQUVlRmItTlRVblVQNFNXU0REdTJPd2ZlTnFxRnpHbktPS0tGOERmRkE1b1NoZDg2VzVjeEUxVnVNTXZqeEs3cVRtNGhRLTNRdWo1RnkyNUEwT2VITEhtdC03T3lnOHpwd2xxVjBjWTVoYWlpSkVkOU9oNVFSN1FjY1lN?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d43bcdd211d79814",
+      "title": "Autodesk Earnings Call Highlights Growth and AI Momentum",
+      "publisher": "TipRanks",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGNxeTBIVjQtU05MUlNqenZkSDRTdk5Vb2pzM2RnTWcwX0hyZjgzTDd6cmZLUmhmc0NlVmFOdUNyRGhlQUgyRVd4M0hJeUt0MlczRDEteW1nN1RIbng2elRucnlGdmVXZ0JPYnNtQUVKMGVFSW1FSG80c1pqSjdWUnJuLUVEbXlBX3NBRnQtV3RvMDVmcVpjWVpUa2tJSVdqY2lidXRwSEJ3c0Vw?oc=5",
+      "publishedAt": "2026-11-26T00:09:16Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "measurable-results"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-002ba8dc104d4a44",
+      "title": "Virginia AG sues Elon Musk’s companies for sexual images made with AI chatbot",
+      "publisher": "FFXnow",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXlfYzhDcjVkTTR1RWM5eXdORXhZX01sQzdFakZjdEdZVGdsRzVnNWxMREs0dFhVVkpNd05Cd1ltNUw0a2NfcW1wRnZZWmc3MVRPVlNXeDVXNEpFelpyZndZQWlzQUV6eldDWUE5RERZS1E2YWF0QTg5T3BhWXJpWjFWSVNieEQtNXhkaDZmTWxXdnE4bElHUzdieFctbnkwc21MbU02cWdJVjdFSVF2Tg?oc=5",
+      "publishedAt": "2026-11-23T16:45:04Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "failures-incidents"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-be3955092ecc38ea",
+      "title": "The Disability Gap in Healthcare AI: From Bias to Inclusive Co-Design, Testing, Deployment, and Governance - Petrie-Flom Center",
+      "publisher": "Petrie-Flom Center",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnNFSk9nR244MEZXV1RuWmpWbnA0YnNsZlZ4OEFvMDlRdlUzMG9IZVFnald5RTZKaVV4Y05TbmV4a1R2c25ucUo1R3NiMno4VGxGZnZLX3JlYWQxZmcyc1U4VkVHZmhpUll0SWxiT3hYc29mUFptbGJLU1hLcHE4UlFQVW90VVllRU1oQXJIY0sydUhJTXNfVnpRSUpSTHlKYTFIYnN5dTRNOW0xRWRvdGpTdjFLYW9STmUyaGN0Tm54YnlGYXNWQnFpMkNwUFRTOGYwbmxpS0kxYjBNd0h2VTBkQQ?oc=5",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible adverse outcome — verify with primary evidence",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1a6516bc3277a8fe",
+      "title": "AI vendors, health systems join physicians in liability for clinical AI: AMA",
+      "publisher": "Healthcare Dive",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkQwZkVNUUpxZmFKSnRWbXNuTjJPaDZsYjVjejlVR2JVbWNUdUtLQnNOOTFCbWUxT3VuQTlkU0QxOVd3YWFJOGItdThNTkU4Ql9BcnJaMTFWNXZOMFRaQVFiRUFjN2tJYVFQdHh2dUNMR3N3UzkwZVhMMXlJWGM4Zk0wYW1yWmZacUp4b01ocXZ6SWhBcUstWHFoZXkxUFcxaUxfNy11QlRLeVRuVXFaN2FvcDE?oc=5",
+      "publishedAt": "2026-11-02T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5c92ac3389a978f2",
+      "title": "AI in Healthcare Market to Reach US$ 1,078.42 Billion by 2034 at 45.3% CAGR, as Generative AI Transforms Healthcare Delivery | Exclusive Report by The Insight Partners",
+      "publisher": "Yahoo Finance",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzg1ZTRpVWttaEN5SV9JaWM3Rk1oV0xfaEd1SVl5bXlVbHV6THk1aThnelg2Vl8zVVE4YzJJalFCcHFnRzlSQTFRTTNscjM2Z3dVdXNscmFqX0NXeVFlRzRNNnk2bVNSTGlvQTMxME9HaTBVTm9PclE1cWJzUm4tb0FhbUlvUkw4bHJWZjRDcGt3R3o4?oc=5",
+      "publishedAt": "2026-11-26T14:59:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c40e9a6bdf9b526c",
+      "title": "Scoping review maps generative AI in healthcare and finds a carbon blind spot",
+      "publisher": "Bioengineer.org",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmlMSlc2MHJFSDFzTXJTYUt0ZGtJaXlFS09hVC1UOUdZcUtUbzJkU2h1NXpTS2hkQ29Dckhia1VMMEJXaDVseVB2WU1SMHpyZzg1TnZQUHhyVlVhUWxIUlo5LThEclVSSy1qUHBoMXREeXBEcnNsTzJjNW00ejMyMWF3akZ1Rl9GSEc5dlBoOXpVdm96VFJ1Q2wwOHp1M0dQWVFoQg?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1cca0cd52b0d7ff9",
+      "title": "AWS, GOSH & Hyland Partner on Agentic AI Hospital Initiative",
+      "publisher": "Healthcare Digital",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVFmX01Xa3dZRk5uRnQ4NVBCdDhSVW5QSTRjZXlndzkxMi1pZkprTThjRVNzM2llTWVXM0ZGbHppVXBRSHJwakwxYzFibk9qcEsyUHlSZjl5Z2lCVjFBMThyZ3JlaTJrYUFjT0JSQ19KN1d0MU5tVVlNWXgzbEpGRGZPNG4wY0NwejRKNkV3WHNCUlVnYWVhTg?oc=5",
+      "publishedAt": "2026-11-26T16:17:13Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-a92c5fb4fadbc7e7",
+      "title": "African banks accelerate AI adoption amid legacy constraints, new report reveals",
+      "publisher": "African Business",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0ZObTdoZkpaZFRIeFJOWGhsalRiS3hoSTJienBfMWNYaFU1eHBhb19mSldiVmVqaTN4Y0dZX2YxRk41OUVFRHZsd1labFRJVUp0eUgzdHdvalROVE9LMmRCLXI4YUlLYk5VT1EwdVZUNHpCcm9SdkZocjhvVi1ncnluS0twTmlKTm11TEdqYllKdDFYU0xYZDBOSnFGdFRzQmFzYXVsald5ZVFBT1EyeHlQcmpIcVRVSEJOdFZRRGJiMl9Yc3c?oc=5",
+      "publishedAt": "2026-11-26T12:42:29Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c5bc10a703a3ee7a",
+      "title": "Schwab Clients Can Now Trade Through Claude",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkZBY09hWmh5eElYZzVnNmVoQVU5Q2gzVlFWdFNIZ0hVQ1VCUlppNWN5ZkZhZG15azY4Mnd1Q0VFdmdjSkpQN0gyTTR0N2NSajdkMUJscUxrbUhpX0RDalVCd2p0X0JfLUpGZ2pZOFJQWlZRMDA3TUZHSk03eGllY3ZGWQ?oc=5",
+      "publishedAt": "2026-11-13T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f2715f28f2a31eba",
+      "title": "SBC Medical Announces Capital and Business Alliance with NeuroBrain Dynamics to Advance Clinic Profitability Through Medical AI",
+      "publisher": "STT Info",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNLXRLWFpTMmVMSHlhRWdOQmV2VUJuZFZsNzNhNHBQUlh5amFxUGxfcEhmcDVKVnM3Sl9fMDJnOGN5eEhzNUozVUNlYUhVeXR2UVZSYkRDbnNubzRZSHgtb2c4MGtka3VwNWllN3hnNGM3bEw4TDVzN1hOZFAtVjRsWlVsaGt2M3FOcFo4U196SFM5T2FnR2JLNjM3eXlpWnRVUXlRUXlLUzJhNEhRaXFjM2RubzQ0Uy1JWWUzLUtQbWNob3l2WDlhNEJsOFNRWDZkOGt0UjVVaXZqU0cxdlJjS1k5czZUY0s5VWxGcTlFUktqTGtOR0ZEc1B6V2pJQ0NORG1aSFNpT3RPRXRQNkVhRU9HUXRNNHJsczh2MWd6OVhSdw?oc=5",
+      "publishedAt": "2026-11-13T11:30:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ea879705daba3e62",
+      "title": "Generative AI for Clinical Documentation Market Size [2034]",
+      "publisher": "Fortune Business Insights",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUVoUnBEWEtBZkl6ZHNkamtaWUhBQ2ZhdnNGXzVfUmtZTTdUVW9VdXFocUtYREVIaTFoTWs1RWxfeUkxMGJGLUdTalNGN0JWaGhXMDVmR0ZnSXRGRDNpRzVGdVZMVmhyN29fWTJJVTlTNTJHMUdwSS1GQVNIc0RtbHdiU0YyZGxremtlLUw2MmpraVBmTTJwM3BR?oc=5",
+      "publishedAt": "2026-11-09T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-1455f9fe5af694bd",
+      "title": "Kohl’s Says Its AI Assistant Is Driving Higher Conversion",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmhkTTFzTEI5QzBWM3ZNRHl2Vjc2ZkROcGQ3Z0ZrZVl1eDdoM2d2RVVGSFZsRjIyT01Wc3VZVGVqLVB4Y1Q4em8zanFFVnRFYXZYR3VXUVpQZG5KbEpxYVZPci1acTg0S3A0WkRzSzkxVGZqeU45cDdBZG5jc244T1dhMFlQcWlrTll0Q1pNZjNhVGs?oc=5",
+      "publishedAt": "2026-11-26T17:30:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-371dbea25736612f",
+      "title": "Schrödinger Pays €22 Million to Close a Drug Discovery Gap",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEUyQTNReWp0MVF5NjYyUUdXb0NNMjdzTXhQOF9WWkxQZUVEaWt6d2tWRXItZGhhLWdCOE95QkNJWHRVRGEyYWhFS24zczd0c1NwVHA5T3FlYzlvcHVmVmNqeUxPZ25qNjluRE84WVhVNTN0TW1VcVZ4cmFfd1RNZWJFOG1pN2M2WE1YZmdvbzA5Mml5?oc=5",
+      "publishedAt": "2026-11-26T12:30:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-32d949485c079e11",
+      "title": "Why Big Pharma Is Renting Drug Discovery",
+      "publisher": "AIM Media House",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oVmhwRHJFZjRBdkpXZEpPM19wU2JrbHBkamR4bFExX1FCTnZsWHpfTTJ5X0lVbENZcl85WVBFZngzMGpGejJ1QThTOElvbnlxMmFPQjlzcjViOXdwUFY5V0N3TUowSDh0cTZsWEZPWjIwWFBNdnpZNzBTRWx4dw?oc=5",
+      "publishedAt": "2026-11-25T19:30:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-cfe7421adf20dc11",
+      "title": "PwC India opened its Future AI Experience Lab in Gurugram, which went live on November 23, 2026. The facility featured more than 90 AI solutions and assets spanning agentic AI, robotics and physical AI. These solutions covered manufacturing, infrastructur",
+      "publisher": "Instagram",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mZmdSeUlTV0tzU3U1TUlFLXNNbDE2RDEyb0tYeUtLeEJDY2dZUnpIbWpHZkFHUDA4aW8xMThfb3BwR2gwWUZCLWZ1V1B4QktDVlE?oc=5",
+      "publishedAt": "2026-11-25T15:30:56Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-6d976eb13ceac859",
+      "title": "AI in Fintech Banking Market Is Booming Worldwide | Major Giants Bank of America, Wells Fargo, Citigroup",
+      "publisher": "openPR.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3B0NlZ2cWRfNmNSWmswZ1BVeXMtNTNYaVAzdEktaWRuSDJsODg3ZmRqbm1OZ0dhVGowdWJUaGkxQWJaSy1kRWkwUnpHX0FkSjgtVWczWEI1X0xfaXJYYUMyRkFSRG00OHJOZ25udXU5ZTNRbF8yRk93RjdqYUZmUkwxaHh2MFV0dzFHaDhOeWg0dGxPektNR1lfZGFrY1U?oc=5",
+      "publishedAt": "2026-11-25T08:20:15Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c7cd6f1e05953a27",
+      "title": "Top 10 Best Data Science Companies In India In 2027",
+      "publisher": "Inventiva",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2M4NmxGOGpnejJ1WDc0VHFEc3VISGNjR05yd2IxN0FvSWhMQUV5MWxxbUM4LWlNQ0pMUllYYXFESmRMSzAxRkhMeGtrNFJPeGdJSzZZLXpaMVdzaC00UXNtSTFJaUpJNGRmUmpjY0YwekJMNHZSQjg1TXhyWUJfWnRGUTViUF82VUN6b3RqOFc?oc=5",
+      "publishedAt": "2026-11-26T12:09:02Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4e5fa05b0bc53c18",
+      "title": "Top 10 Best Databricks Consulting Companies In India In 2027",
+      "publisher": "Inventiva",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVERWcnh2R19CNWRqOW80Z1U5NjRKdXpQaFJmODJRcDJxRHMxYkhIaWVHcnZvTXA2Ym5uWTc0MVdCYmhRWTZhSzQzZFdpVEhwdDNHS3NiUm5wMDUyUW1sTWQ3ai14Q055Y1VYRVR4VVhJRHVxNGV1RkF0YUFTVTFWNGlBWE92OU5iQktObF9PNjhQSWs4REh2MDNhT18?oc=5",
+      "publishedAt": "2026-11-26T12:33:31Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "health-finance"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-ee1165246148943b",
+      "title": "Revolve Lifts Revenue per Visit By 50% With AI-Personalized Landing Pages",
+      "publisher": "PYMNTS.com",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlZ0blI4VkRuWHlBSjdydmlLRE9zSGJlS3piMVVlOHY5ZmYxYU9YUFZDdTFUWTUzdk9zLVRhY2p4bDAzakhSSzF4QkNrblprNUV0TG1JeUt0ZWlxU09kVVJPalh6cFpkbzVwcmx1bWl1VlpJblhCcWFDSmlRTkhyOWxpRTdTaDBFN1FiVFI4WVBrSXF5M01Gb2V6TUJlSXVodi1QMnZsZkxidUMxWG9oSGc4cVFiaFVsOW92OQ?oc=5",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3acc3226d4138938",
+      "title": "Microsoft Intelligent Manufacturing Award North America 2027",
+      "publisher": "Roland Berger",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmEwWXRTeWtfUmxlWHJ1VkwtYW9wNVY2TWZWOU1yMG1FOG44S0lXRFdkaGh6bWFZSTZKNENGaFd4Zk5ocG9ZYnV2a2pvamRyQTFrNjQtS2dlcmt6VHRBUzdsZEY1UHJHcEpqSUhhWlpfM0RBNTFkcmI4VUh3TE1HQXU3T2RONDhCZG9oejVFQ0tHZFFtM1B5cGZMVzU5NlVNdExaTXBPWUc5MmJsMV9zOUhDbEppb01UcDhqbw?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-3a38ad67a5f6a32e",
+      "title": "AI Is the New Search. Here’s How Retailers Win the Answer",
+      "publisher": "Bain & Company",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2k3Y0ZUYUZ5d2VIYXhUZEdTWW5uZkUya3I3RnczZ2ZCQktBLUdHcXVkRzk0MURaZEM4N25WbnB4MnMzblFrVmhMTlBtc1JRSDNiVUlmVkpLNlFvVjJ2eGRxbldRMVZzWXZQUlc4eFVFX05vR3FNdlhtZ0RRdlF3NzMyLWZSenhFemljR2Izdw?oc=5",
+      "publishedAt": "2026-11-20T18:54:43Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-30030df391b97395",
+      "title": "National Laboratory of the Rockies case study",
+      "publisher": "Google Cloud",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11MWdkbFV6X2VUTE9wb1BSVWlTdEN1dXY4QWZKYTZJeEljaF9pNGNCTUJDN1BZSTVFN3IwUl85aEJNUkVjMXIzNjNTUXAyN05rYm1Eb2NKTXU1VUFYcHREdnN0YndQdFNDOVdqc3kyemhwVXBPbnhfTg?oc=5",
+      "publishedAt": "2026-11-04T13:04:19Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-2023d0ae4a8260da",
+      "title": "Special report: Physical AI moves toward the factory floor, but full autonomy remains years away",
+      "publisher": "Fierce Network",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRG5Ma2YtbnFWd0I4eVNKV0pBQTZoVnBaQ1hLUXNpVzFGMk9ESndybFRKRi04dFlWMGtTY2RtcUYyZFZNOWlhT2F6dlFjdXl2S3ZZS2FxODFlU2RVYVgybEpuSXhiemlGSGc0YzFvd0pyLVpqaFdNOVVSak1DZXNma2tiXzk1cHYtS3cxUi1rWm1BT3JnQ1JBMW5KUTdxdjZMX201MTNmQUJzX2lMU2tkUW0taTNWOHFGbV9ObUNhNzc?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f87fac01f49a6dd2",
+      "title": "Which AI tools will Americans use to navigate Black Friday and Cyber Monday in 2026?",
+      "publisher": "YouGov",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0VfS0ZXRXloelhpT3hxX2ZXQUZ5eE9kMG1id0J6ZXZwdUE2TFNGZnN5ZFBBaVFnMXRTSEptalRZcVNVOWxZcWpyYzZGbTk3ZUd0d0VSSmEtSEtGaVoyM3I3bjczeURIdExZM3hyaFlCNEpiNE0tSHNGcEpUaHVTbm1hcWlsZ1hqb3RGZXVmUUVoc1VKUWxvWFNyWWh0elQ2VGkyU3ViWkxzcjh2U3NtLURjclZlR0VsQ2ViMFVENk0?oc=5",
+      "publishedAt": "2026-11-04T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d279f7d72a2f5c83",
+      "title": "AI Utilities: Top 25 Use Cases & 48 Case Studies",
+      "publisher": "AIMultiple",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OQUpZaEdLbDRpLWxJbjh3SXZJUDN0TmFSMmhvMUVDNHpmR1hIRnFVYWlKRi1neW1WeHBtUUR5aU00QUVPTUhQNjRpaw?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-fd18459786d7cd40",
+      "title": "Top 11 SEO AI Use Cases with Case Studies",
+      "publisher": "AIMultiple",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vbjFRSldsWjFMT1I4RDNKSUZGbUR4a3ZnZkd4N3FkNXpTT0lBWW9XNHJkQlQzUlBtWkpnb09XWmt5eVk?oc=5",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-f40478ddf1ae9c8a",
+      "title": "Consumer Duty Index: AI & the question of trust",
+      "publisher": "YouGov",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3lSZnRBQWNnYUVVOEhZbGhrd1RoZzgxT3NVdGlFZEJCYkEzQXlYSTljR21Ua2F4ZjhESW9LX1hfQ29wZmJGbWVOTlBndERYTG00d0NfdnVWdXNQNGtLd0dVZXlSLW8wb29Rd1ExV2dWUVppZXR3MFBQWS1MVlJXQXNqM3pHV1U4RUVV?oc=5",
+      "publishedAt": "2026-11-26T11:36:41Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-5946ba547a0c3105",
+      "title": "Retailers Face Ransomware Surge as Black Friday Nears",
+      "publisher": "Wisevoter",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUS15U2pjaHd3eXE4cU5tNnd0NEt0b0lRbGFKcndJQUl0WEJBdGpTTy1UaHhIaUU1QVV5clZpZTNkV0FjdnF5V2kwSlJWR1g2N0JXLUVOVmVWUEZ2bmdrNFY1Q0JwY3ZqMmRSbXBydDUwSzdpREVmb3pqVmMyT3l6U3ZXY0N6MWRZbEhVUXVvUElzVVBHSld6ZGo0c2hOTVk?oc=5",
+      "publishedAt": "2026-11-26T11:13:06Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "manufacturing-retail"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-19c5cdfa4246b82f",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+      "publisher": "Microsoft Source",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+      "publishedAt": "2026-11-10T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-e9fe9c5b4e39ef24",
+      "title": "IBM and Microsoft Launch Agentic AI Platform for Enterprise Deployments",
+      "publisher": "Petri IT Knowledgebase",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZW9GUmhqTldzVVVjR0hWV0JqaURoeWtqZU5HVzJzNklkazZ6dHM0d2FVVHJCalhHTF81ZjBBdk5hWGk0X0dnM0JLVFJpSEIxV2tCN25IMjk0Yjl6RmNyR05rc3ZzSW5zLUF1UnBB?oc=5",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-4de96ef5ebbbbaf9",
+      "title": "2026: The State of Enterprise AI",
+      "publisher": "Menlo Ventures",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-c8a21b96cdcdbe9e",
+      "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did",
+      "publisher": "TechCrunch",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5",
+      "publishedAt": "2026-11-18T17:32:10Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-883a64bdaae0b6f3",
+      "title": "LTM and ServiceNow turn internal AI agent deployment into enterprise go-to-market play",
+      "publisher": "CRN Asia",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWtaQTlPbmJuMjN4X0hMcWoxSkVldUVSWjY1UEVJMnhSNEpmbEcxS1c3QmtwcjczdFdhVE9EYTkxVkVhMGk5WWZkdlprQi1vZXBMcHVJQ3ltNVdJYUtpRGVLQm82U0FTS29talpYMkc3UzZZRXNDRjBtWjRHUGN6ODVPNUVtZ09XcF80aEstTWxxRDlsYVdXcHEzU3p4UURxd0FFSklfeHV3bGg3OXVTVElwa2VsbjlIMVNqYTRqbHo0Nkox?oc=5",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-aa806527b1829d84",
+      "title": "Israeli AI start-up NanoCo brings governance and security to enterprise AI agents",
+      "publisher": "The Jerusalem Post",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObllYdVVfNy1hU0dkdEVydkJQeC0ybmxqQzNORU44UWVOd1pyZ29IbjZha2JqNTctekhUb0JmcFRDRmpreVl4Ym1fX2xuOXZCYktkZENNODdRLU5kek5BZjhUMjFoUmQ0Y2ZoZg?oc=5",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-d445931e9cdd7e13",
+      "title": "IBM and Microsoft unveil Imagine Enterprise for workplace AI agents",
+      "publisher": "EdTech Innovation Hub",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0k4ZERTOXN1QkVIbGFNN0FqOWdVYkNZODVOdFFzcVNtQ0hwY0V5UFI4VHB4c1E5czFXN1FjTDNJbVZycFpDVjdZYThOZFNNb2N2VUJJS2RIaWlPNXNia0F5bi1MT1lWUHNTU0dieXNJMGtOWDM5dFpSSUFIbDRnbGNYNDhGYWU0RXZBcHZob044YnNmcG9Mb2s2T3ZSVWkzeTZvcGd1eUJpMGxv?oc=5",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-39a8d8347e86f9d9",
+      "title": "Microsoft & IBM: Inside Imagine Enterprise’s AI Agents",
+      "publisher": "AI Magazine",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjRBQ1hDSWstN2hLMEVMT1BVNUFWdFZsaW1DS2FoeDJ3NXlwQUdHUVE3NUx6M3BXaE14Rzg3WTlTVmtIU1VNUVlYVi1CWEZkczhvR0YzN093WjhyOGs2VEYtbEs2cUE1QnRIWUFJMmQxSDBPVU9MSDNnWk9XQlZ5czZWaXo?oc=5",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-367703dbedcaa7a4",
+      "title": "Viridien partners with AMESA to accelerate and scale enterprise AI autonomy",
+      "publisher": "MundoGEO",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFd1S0tKb0xRNEJaUVZMOWM3Njl5VUl0VTlOZU5qbFRWTjFuWEdMNFFhV3pvby1ERTljbWdnaHAzWVZ5SU5nSnp4eTdJMGdiZzZnOUxBelJ6eEoyU045RmhXWF9BZVZGenM5VldPVVY1eVZ6VVlmVVYyaUVFdnMtaXhibldpRHBOSU4xY1o5SjlET0lENXRuOXRtX2F1Mk9ua1gxT09EcE9BZlNHUXhXWtIBtgFBVV95cUxOeFhUYW9WVXVLN3dMVWY0U0ROazRWcE14ajJqOHpPNklMTEZFRjVSaTJLeW1NTWNEanRjUklkbGxLRy01aUJrZXVTWTFYRXA4N0FPMG9NY01VbGpiSlo5OC12bEtKMFVPUzJ0bDdhUzBBYkxYeGVYV3JHQTBPN3dJSm1yZGlCRlhDZC1pQ1dGRUg0YjNfcW8zUEFBMnFGMUp6X2pUVlFxVTNNY1VnQS1RbDNteWc2dw?oc=5",
+      "publishedAt": "2026-11-05T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-001e4e012a1a975c",
+      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365",
+      "publisher": "Microsoft Source",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
+      "publishedAt": "2026-11-12T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
+    {
+      "id": "candidate-779781d3eaf5ada7",
+      "title": "Snowflake Helps Enterprises Deploy AI Agents with Trusted Business Context and Built-In Controls",
+      "publisher": "Business Wire",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzJCVERsdzZ3aFo0dTJkUkowandzbXllV3NxeDQyQlpOQ0ZnMjNLMGdUSVJVOExqdzVnQnp5QWtWMmx6WjA1NVBRejM3UXJrbGFacUh5U050SWZjQU83Q0xCOWZfUmNXTllyaVlObmlYZ2l2YWs1dFlKYlpTYzQxeXlFdGFNMmU1Tkh3Q2FCQml2RUhvSzdxTFNMZHhTYzlXSVpURWp5b3BwWTMwSnU4c3BoOE9WMmNmdGV5dm5GVm5FLW8xR0RqNGtyR0E4amtKeWRPZ014RkU3MzhqVkxZWUgtTEI5VUFH?oc=5",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "firstSeen": "2026-11-26T21:44:16Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
+      "sourceQueries": [
+        "agentic-workflows"
+      ],
+      "status": "needs_review",
+      "evidenceStatus": "unverified",
+      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
+      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
+    },
     {
       "id": "candidate-16b9096c546f01e8",
       "title": "Lyzr Introduces a New Brand Identity as It Advances Its Vision for Enterprise AI",
@@ -9,7 +697,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW5qRkdjT1pYVl9LVGRhVE0yT1JtbEpULUdnQl9Bd0RxbVFkQi0yaXl1T0w0SlFIUlpnODNWZDZKMEZfZDAyM0FKTzdnckpzV0FuZXhxa1NEb1pYRXVBREstcmJKNjduMzNqYmg2enZBODIwaFFONTlFcnRYQXBrT3lzcFdQb3B0Szg0dVl1R29yQVpIWFZGdVphZWF3ckhwWEtaRVFTSE01OENvZzk2a01tVlo1ZVhEbGozY0JwUVZwWEtUV0hpMEZxbDJDOF8teHc?oc=5",
       "publishedAt": "2026-11-25T12:42:09Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -25,7 +713,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVBQdWk4SWRGN245Q1Bqa0hiQjJPOVhXRW9EWHAwYWdQSUN5QXJIWEhweEtJSzZ5SW5SbkVNRXdjeWpWTTRyNXNRYUtOSS1xbmYxV0xlOUlHMEdGd0w1NGtTNVMyWXpDdVNKVFd2dlZrZGoxOTlyRklUdUQzTTYtVnd1WFRkTzFzRkozV24xU3FiWjVTanltRjdYNy1zTUtIOEw5d3J3NzF1dEdJNWpZeDNmR3RCc0dkRFgxN0RWN000dThROVZITXV6NmZ2SWdhZlBUQWRjVQ?oc=5",
       "publishedAt": "2026-11-19T15:02:53Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -41,7 +729,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUVQ1VFJPT2VXZG1wTU9odE9sZVNsZWxYN0ZpYTdEdV84ajZSUlNxTzltVTZ2TzYtdjNZem1sbEtLUnFKNTFJTnhlaVpGeEJBRmZDcTdMZS1sMUd3UE5TN0ZNajRCTnJYTTlYaXExT1I?oc=5",
       "publishedAt": "2026-11-25T17:50:48Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -73,7 +761,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUx3c3BHRF9obDZKMnhvNU5qeGNUcmRtTktxVS1HRjlIZUJmLW1NSllrZUtKNlkzdzBmLVNmMU9EWG1wdWJRM18zYW92MkEwOXFEY285MVFoLV9UbDRxRkRzT0JzcExHNUlxNTRFVVBTdnNnSkhBbVdNeWxZR2czSDk3RGVtdGJhbVZWQy1vOGxadDNER0VhSzE4eC1Eci1qR2hBcVd5UzNqUDYyZFltb2piUFhxUll6eU13NjhlLWdKLW8?oc=5",
       "publishedAt": "2026-11-25T16:14:23Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -89,7 +777,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGMxZW9DUi1QOXoyd2N1Y3lnTTRBX25tanFkTFlNblVPSTU2YUhMOVBhbVc1em43bXNfRDlBWlpyeDRpOGh1djFGUGM1YW00a0RIRGYydHJJRGtlZGtKbURyTjIzd1N4OEZidTBET1ctVHJQUWxTZXBuQkZ2czFtakVjUHZDT05UNmpCYXlTOWFmOEo4Z3AwakFnY2Y?oc=5",
       "publishedAt": "2026-11-17T00:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -105,7 +793,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkY5eHd0YmxkdEZ4MUhEQmc3azhaQjlyVVRzM2FHcXZQVkVpU0g0ZmRINFNyX2d6N0VyVEoybmM0REp4SjdhbG9tcWxfdmFHRzNZbERwV1pSR3NOWGE1cm9sdGFyNFpnbVNNcGk3dldCZ0pxNVh3cVg3ai1RS2pGenBZU19mY3dRd2Y3V0FlemJmYmtwRkRRRGVvYk9Vd0lQMW1YUHFocU05V081N3lhUzhnVU9PS2RSeHhJ?oc=5",
       "publishedAt": "2026-11-09T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -137,7 +825,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVhCdjc2VWZoOG5PU1FuUlJVVDVkMzAtX1d5Yi0wTW5YTlVFQ1VEU20xVVlGQ1VDbHZ4eHh0VnpoTnliVjctNGNKUkZ2WFdkZjJrck5lMmtoZkhPeGxvOWNaOXprM2dyYWppaE1oZlZVQ1FxVmxjZlFqVUFfNEF5UlNIdEZ0RUhyOTFFYlpSVXRRMW1HdHYtaFNxNjZfbGVSMlpHWll5UThhS3NYVlpMU185SmllbWxvdWpLbmthNFI5VzlTeXlSd0tnRUVkeDEtQ0w0SWZoMnI?oc=5",
       "publishedAt": "2026-11-25T00:32:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -153,7 +841,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpESHhxYkMyajdiaGt5cUdCYV9zQ3J0Um9Selk2YWs5OHZCVFlqaWp0a3lsVWRjZUdLMnNpQlE4ZWlIRTc3TmxFUGZKYzhDZm9qWHVtaEZ5YXZncDVRYU02eUc3amRGSGNMbUdXRGpwblA3aHpYeURMNjZST0Rqb1JWT0JZMzcwRl9QbndxRXU?oc=5",
       "publishedAt": "2026-11-25T02:52:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -185,7 +873,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XZDdnenlhN2ZxNjU2YllYbVZ2ZktsX1F1cEVKUVFRX0xmQjNIVUUxSVA1cldnV3VTNW1VSDZnVl9jUmtLdl9nNmU0OEhPNDZ3RWhjUDVPNmtKd2ZIb2lydk1xWTI1R1ZOWTd5UVVDS3J6dzBYdHc?oc=5",
       "publishedAt": "2026-11-09T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -313,7 +1001,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDT3V1V3ZVOG51eThjVlZUamlmLURNSUNDb3otZjJpdTRsa19iRV9KUlpGcTJmakZ5b0R1aEJseFVwTDdDM2ZoMldtREJURVM5ZnNLaHZabTAwMVBaVkdkUm9aXzd4aG9CT0p4WE5LejJIbHNrdVkwSHlR?oc=5",
       "publishedAt": "2026-11-09T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -377,7 +1065,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNG5oaUhSZkMxUFJMa29TWXl4S2xJeGNwX1YtYVlKMDU4S0JjRlNWQUR3N20wQ2ZrUC1FQzEwSE92U1hhZGhENnFBcVpfeEhVNENzOEFGRzdmY01jRlZJakxHVUdYS2owT2YzcU9FR2RIa1lFOVJFV19BdTIxbmR5SlFfUldVNlNESkktOWNSU3BWcDAyM3NQdkdQVFlTckpZalEyaEw4ZUxlQjYtTnc?oc=5",
       "publishedAt": "2026-11-25T14:36:31Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -393,7 +1081,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmZ4LTFWeWZUSUhTWVphZWc4a1JmMk05Yk1wcWg4TklJZHZiUkN2b3VpZkZzY2JKczhIcUFYUWthcjE0VTNEVUdjM280LXZZVjB3NmFCN0lobG5xZUtFZ2tXRW91X3lCRHQwRFdJdjhsTm02QUlBNFpORTVGODhTaW9HSXZBNU0zS29MZW0ybGM4X1RINnVfcXEyWk1PMmtUYUxn?oc=5",
       "publishedAt": "2026-11-23T22:20:01Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -409,7 +1097,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUldXVkxWOE81amt2QzFleFYzV0dUa0JmS2QzZWZuTXV5a0hBUGUwMUdaWTlmUTVTVC1uZEUySTdNdXdkVnF3Wldzb2JCeG9PbGxIWkY3amo2SG9rLUpuYnRlenFGQURoRFhUcWhMUEswQWNxaGZMYg?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -425,7 +1113,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XN0ZQZ25SN212YXBPbXNUNEJxQ0VPaU1uMndldGk1T1U4a2QyaGNyMHBwVGRybl94Nkl3dnFmUU13WFMxUU90dkhxSWRjeWw1VGZCRWpDandNYlVreGhQaWJhQ09VaU5tVUNQdWpJUmRrLXdQUXd3?oc=5",
       "publishedAt": "2026-11-25T14:10:49Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -441,7 +1129,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRG00bzhvaHZ6NE51T3p3RjRIZlp4eW9ZUzhLT015XzNLcE1IcUFMWkw4V2VlUUs5RlpDR1J2czFlbnp4LV95SG5BNUs2VnozSHQ4Qzk5d2wzUVVrMk85UFVjVElobXdhVGNuZF9lNnNwYXAxRGZiN2dqbW84OUtGM2ZSTVVJRXlDYlhaLTM3am9MMVB2TkhmTkp0dE0zWHBTbVgzOFRIcF9nTFppSGNR?oc=5",
       "publishedAt": "2026-11-05T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -809,7 +1497,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd09FNUJzNWVDVjlmamdrQkZpbHhDempEWENIMzZQdWdTdUN3MC1WRTFtbnBHR29ZajNDdGtmbUxHSnZFRGJoVm9ibWZSY2VSNlNkWGZERGZIT3lkZHRSQThnVzlPdHVVUER0T2FvanRZMVBEaVdram95ZF9vMkI5cVhHbU53Q0VUVF9hY1RKTXA4VGlHdHN5Y2hTQzQyY1VNWUFNejVnWE94UEtKN0M5V1VYY1JJUlZCaGIzVVMzY2tTclJ6SllqTVp1Mnpld2NwS1hEVkZoNVZxX05lM3R1dk1CelpYS1hsR2g1NURLN1A4cjQ2Q0Q0?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -889,7 +1577,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ0JKcU9QbGlGdWh4ZnBvdFhtSFVkYlhTVDBhNldJbUkyeldBaWRLR0d1dHh3cGRFRE5VYkN1UzN2WHpkc2I0ZDRxN3pSeTBpWTVsNHZfYmJ1QjhFdExrTlh3WWxOcktmN3ZnZXU1dmt0ci0xNFJBZ0xMMjA3Q0RONjBLVWdqMGhmWUZxeGw1dUptVDRSTGpwUVFVVENoQnVmMTBNMlVONkFWQXl6b0tHc1lhMDM2YnpFVEpQX3NBU3I4NWdYVDE1WVdidDlFTTFoeVZER0FySzJwaWNsYUt5NlQtaHB1NktCUGN2Wg?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -969,7 +1657,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVlOcGFFWDhRRVhGSmZpcDBtTXVqUVNHaXN6bHBEM3JuVkQwR3BUVDVRT0lBVjZkRmdUSWhIRXB4UTF5OHhtRXMxRXA4WE9LaVBhWFhYZzNod2Jrei13b0lUVlFwaDVFQ2lFU0R1cU55TGlBRlN6TWR0eWRQNWRRSDZFZllJMDgwXzdUNDZlemdVOXpmX1cxUUVHd2E0UEdPRWdRX2V3?oc=5",
       "publishedAt": "2026-11-25T05:56:48Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -1017,7 +1705,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNtRnY0V0ktRm9xSnVrYk5GZDJRWnJlbWlKSUtnWlAzMXFOVWg1QzV5N09wN2dLSDlPbDc3THFIaTZHbHhYV1NaVDhBY2NvbllOdnZWMXNlc2FRYWp0a0dHdUdrVkNuMktiX3FHTXM3RHpnX3YtZ21mc2p6RDhlYy1rVV8wMFhvV0pWaUE0NV9tUQ?oc=5",
       "publishedAt": "2026-11-25T03:13:31Z",
       "firstSeen": "2026-11-25T21:50:26Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -1097,7 +1785,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUFjTTRqRFJ2MnBwaGZfWVdBb05NUHFvUDBST0hGcEJvMXExbXk4TTB1UVdfYjJuWTdreXNFSmFHQkNKZ0JrbWlaUjlOSWZOMHJwZVVHNDR2ZWhiY3lUUmNOM2lVVno4V2VTakZKdXVlZTdJV1hBWTJtTnVUNUZXX0J3UVhmUnZJVEZ1M3lTR3NaOVA5VzZ2RklrbGtxcG5mQUlSWi14QW5jdXJqZ2xmZFRBUVdPeU5NOE9lMjN6OVJSTHl0M3YtYU43Z3V0Qmo3bTNRaQ?oc=5",
       "publishedAt": "2026-11-24T14:44:05Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -1145,7 +1833,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGdCY3E2YUc0ZGNnSHlpTHVrS2hGUEVqYzFnY3JGanJKTmxGVERJRkN1OTZwX0dPdkpfY2pUS1RrTmFaeV9QUFRXVE9TeklBekFBZmRrUnNoeHdvTk1QSFFpRFFlWTNhZV9EWEdyclNXSzlfcXp0dzVoUDVTNnRCakRwY2RmQ3hKdUN3MEV0VEFKTEkxLUxHOG9lRHpNSmR4Rm9yXzFlekJtdTlLOXBHOGxpRHZ5S1pIak1yVkJFbjZoUDhIS0ZST1ZCcw?oc=5",
       "publishedAt": "2026-11-24T10:26:58Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -1161,7 +1849,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdm5xTVZQQmcyNnNLNEt2WWNfWEdfMXJyUWQxWmJnY3VOYVZfcGk0a1V3VmRVRkFrNU0wNUw5aEVjQ3FuamxNeWJFcS12MVJLSDQ5YnU5a1lNTFJFc3hnbkxqeGZvc0hmY2dhTHdiOHpNeGJncnBfcGRJWkxfdGJaVExBbjZSMkNabUo1SjZfeHFHVjBrdnc2dzFWb29QRjNydmdhTGVoTENnRkR3RlNia2lHTXIxUmJDS2UyallzOHhiUjNrR2xRX3U2bDJSbU5VQmc?oc=5",
       "publishedAt": "2026-11-24T10:03:01Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -1193,7 +1881,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3BaNFZQSC1mVmRGZWw5V1dkVmhWeW8xWTByRklsRlJKaEpjVzZ3d0YxWjJ3NFBIamtBSkVWc1ZfRF94VmdNcXdnZWhuckxpbm5aeW15VUlESFhLQnJ1ZFA3LW9uc1IzdlZraXBaMGdHU2N1Mm5VdVNsd3FYb3luSFIxbHpMRFE?oc=5",
       "publishedAt": "2026-11-13T08:00:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -1209,7 +1897,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTB0bFpxT2hSSFVQQXFtdEhBQ0FkX1hMTkZTTmJyVjRSWUhwV3lsdll5VVMwekt2SjhWSEVwUDA0Wkh2NFZnQVRqMWpvUHBpYnJNVUpjVk84cUMwbVFSUS1ubXZ3ZVVYQmNENVBBWGxtelAxam5DLThlNjByaWlGaFItMGNYblNlYVhkNnFqMDZyaklvUEJFU0RrWTFVQnBoSWU0R0FEMXN3ZnhEM1pDTFBpblpsbWc3Wm5kMnViTjlGVmtXRFVOS01n0gHPAUFVX3lxTE5RZms0UjUwdE5LLTFLSGpVdnBlSGxzNFdDQlp4WkJmQ2V5amstLXN4cTh5enBHMkEwcGdwN1Ffb2lyR09FWWo3SW8tYlBzWXhYYklhakRMbUZMY3VKQmkxYWJVRGYzZF92cVRqeEk3bDhfTlVTajZTUU9ybVVONk5KSEREbVlUak5sZHhXbml1MHBYMHFITE1acDRFbXNRNzdqYXYtWEZ3bjdFdVVQTXBkeF95U1ZjV21GbkppbzQ3bWVZTkF5OEVYa2JVVGlfbw?oc=5",
       "publishedAt": "2026-11-24T08:08:34Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -1273,7 +1961,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUS1WcTNJem51by1ONW1BWW9ZMFpjLTY1blhyaThRTW1HaDB5NHFfMlV2UmhJeXVjXzFrV2VncmwzTFBfU1l6Z3ZRZENxOFNhQWFEN3hlVVZGMUlTYlJsb29GcjBWNGhsZ2p4NlF1d0htX1F1QWtnRlQyTi1KakdnbzN0OFpfTkVNTWtxQng5RS1zWGNvNDNGMlA2Z1NpU0tXTjd6aVo4bGQ4LU9TZHpPaFlFTDFUSUdfOFktWTUzYzd4dVQ2UEU1MmNsb3NDenlXM2c?oc=5",
       "publishedAt": "2026-11-24T20:04:23Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1321,7 +2009,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXV5VDFJaXNvYlZZSllQLUhXa3hFTmNDNENpZzVZQ1NFaDdfVlRNX2hhS1BsbUd4NmNJWURHeTMwSTctTEtrZzRNNnpqeXl3c2RBUjdyQTltOGRCZjlRVnpiVWJWVWZDQmJPSlNETUp4SmtMSE90cEJXbDRNcnJraVlfMldXYk9zUWlnVmhTRGhQc25UdVNZcFI2UFJHdVFDc1REeXVoM2Z4QXk5eWFjVE93NmNWVmoz?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1481,7 +2169,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFNwVE5wbmFIN1hfbGJMaG5wZWE0QkR5Tl9tdkRGMXNXV01Vanc2NWZyU0p6c1JoU3B3X2RTQ3I1Q2hLNGxMUnF4ZDFNT0pLV0xJR2JnVkZhZTZ3OFZHeWFPRERmQjY0bktHc0M2OV91MEJMa0RvaVBPeDJSWldLRDNpVEx1R2pIS3JfalBLRmxRSTNua0FZYllVM3dVc2N0OUlMRUVDZDRSSTFuMzdybjZia0ZRanFKZUhOZ3IzaVh3cGdG?oc=5",
       "publishedAt": "2026-11-24T03:04:03Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1497,7 +2185,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVpb2dLaFY0bm9rLXM0d0xiUWNlTWdJX0ZNVTZyNDZGTFlLZnlwVGVtTndDUDNXVkllZEhCSm1zalN2VWhkclVYQlV3aWE5NEUtVW9manR5U3hkMHpkb1NINWh2YWloNG52eFV3SlQwdzZMLXI2YVI2QVBhSWVobi1pZUtJMGszQ2E0ckdzOA?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1609,7 +2297,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOF9xT2E0dDBpRWk4VEV5MjczQ0x3aDBuaFNJVmxoUWVrdW5DTW1Fa2VselZXUUJ5Vzd4d1RiWHZmWnJKV0sxY3RhLTNMbzlVZG1VQzRPbkRreWp0YXFSZmVfVUJZOTZUZkNwSWt6eXp4bV84NGdyNVhQVG1nT0pVRjhBR1lOSnlwUlNxRW0xYzhuZS1BSGJRWjBDbWo?oc=5",
       "publishedAt": "2026-11-24T07:35:57Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -1769,7 +2457,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3l5LWZxRXVqOHAzVnpLUUl0R2g5UjBfdmlxNi02QldOQ2VsOHd0N3RNS2hvM0U3Q2ZQUy1ObFJhSXEwYlVoakQ2Vmg3TnhhcE9sMGN1Q2dfaUFlS3FPdW1yOGtPekVDQjRNQUR5bkJoYXhJcklINHhaZUpuWjh3LWVfY1pyOVBIWlRsalpDdnNYTlQwT2xEWktiQnB5YkJuZXNfaXdHWGc3YV81VllJZlZzVnB6dFk?oc=5",
       "publishedAt": "2026-11-16T15:57:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1801,7 +2489,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU25fNWtkUEVxQmlKMVdtMmZNSWRZTldoRTZmbkg3NUZtNXQtMmtJRzBJUTdmeVN2TWwzeEZCZ2hjOHdNM3NmYlZZNzU1RXplOE50NWd6dm4zbUhxWHEzeUlKYmNGbXJrSUJYeWdQRWpNUldNODIzZEZXX2VCaU1yNl94YjVvc1doVWI3MmtYR01LYllmNmpZTjc0cjNoYWJ3VGg4aEViVHhtb0dXRUs4Q2NUclEwemJTVmNvS1Z4Q0VGaEJqQ3R3TlJfWUZnbmNjSjhnRzRlV3JqWE1UamRVSUJVN0R2TDJLS2g4?oc=5",
       "publishedAt": "2026-11-23T18:11:24Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-24T22:36:36Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1833,7 +2521,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGttTXI0dDdwcXZuRi11dEdjTnFuU2cwOUZJUlQzTVhoNGR0clpvRWxQOERGMUF2aWVBS3ZGUnVjdUNrQXlRR21XUnF1ck5lWlN3dExURmYtZTByV0VYcGo1bk05QUlwWkVUZlJ4WWZCRktsZ1g3a1lZSkJEdkw2bmY2Zi13dw?oc=5",
       "publishedAt": "2026-11-24T19:22:23Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-24T22:36:36Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1849,7 +2537,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzJ3Ujdzb1l2cWZkQVd1YkNJZkFsTllhSVB5bTB5SkxyUkt6dDdpZkJuVU9nczluWURRZXJBZHROcXRPWWd6ZjdVckRZcmtydWZWVWpvU1Zia2FsLXpzNk0tcVVBYW5Nc3BabFpyWnpGOXFfY0t4YzV5eUptam5TSDRIbjVhUkQwR1ktZElPRkxxWGt3cTR4YUkzWi0?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1897,7 +2585,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR28xMHJGUHhidEc3WkpTalpuZDh4OFhhU1pzSzdhRXdROXR1MnZLYXJ3bDVmSlFRVHp2cExxLUNSZlBBd0Jud29qMVRZVjRUWXN0QTBSeU80QkFiWjBmQ1JER0phREQza0RDa1Fka0UyM1FvNDdlQVVGVUJlUVRVMnNoU2c2eU1XM1V2YllZWEtHRVFkYlBRN3NhSldPTXhoLUI5atIBpAFBVV95cUxPR28xMHJGUHhidEc3WkpTalpuZDh4OFhhU1pzSzdhRXdROXR1MnZLYXJ3bDVmSlFRVHp2cExxLUNSZlBBd0Jud29qMVRZVjRUWXN0QTBSeU80QkFiWjBmQ1JER0phREQza0RDa1Fka0UyM1FvNDdlQVVGVUJlUVRVMnNoU2c2eU1XM1V2YllZWEtHRVFkYlBRN3NhSldPTXhoLUI5ag?oc=5",
       "publishedAt": "2026-11-24T06:17:07Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -1929,7 +2617,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNak1LVkNWUlZGb01RVlNhaHhxd2FuN19rdU5hUGtBTDZIT0dHbTdjTkduTGNfUFhFWjJxbkxMU29WaEJ0TW5ISzZleWJGdmtqeW8tVmI0TFZQcGh3SVVWbks4QzlocGEyT0NNTmM4VGRSOHR1clIwLTdNVFdXUjRPUF9hZ2FEYlc3LUt2WnNMNDZVVXpLSm9Ld1ZyM0Q3YkNCcHgzSzBB?oc=5",
       "publishedAt": "2026-11-18T15:09:19Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -1945,7 +2633,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc0dla3k1dXI2QlJBUnRWQ2o0RjZwRkZYZ2hhZ2NUSnAzYjBNX1VJM3dnTk13RFBXM3VGWHRTNFhTUDl1V2VzUTRyOHo5YjgyYmp5R2JUM0lMc2ZtRU9pRkp2Sng2eWNQSVBwbTBNUHRaNlNsZ0hIV2pDaXVpVjBzUFFLTGNKcVNvMU84ekRVNjFJaGx6ZFIyOHh4dXF6azJVQVBTc1EzYUloYVZSeFktUUpWN180R2RFV3Q5SEdPQ0doQl9lSmRTTm1kOGxzelVRSHZWem80dW5kNm1PYlJnOFkzTl9MQdIB5gFBVV95cUxQc0dla3k1dXI2QlJBUnRWQ2o0RjZwRkZYZ2hhZ2NUSnAzYjBNX1VJM3dnTk13RFBXM3VGWHRTNFhTUDl1V2VzUTRyOHo5YjgyYmp5R2JUM0lMc2ZtRU9pRkp2Sng2eWNQSVBwbTBNUHRaNlNsZ0hIV2pDaXVpVjBzUFFLTGNKcVNvMU84ekRVNjFJaGx6ZFIyOHh4dXF6azJVQVBTc1EzYUloYVZSeFktUUpWN180R2RFV3Q5SEdPQ0doQl9lSmRTTm1kOGxzelVRSHZWem80dW5kNm1PYlJnOFkzTl9MQQ?oc=5",
       "publishedAt": "2026-11-17T02:36:54Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -1977,7 +2665,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa08tSkpUNGIydE1qUjNfU0RBaTNyMzk4b3VTelVUcmNBcm5uYk90V1lnZjlRMll5Y3pJYU1lTkVCQjBfN0V0Sjhic21vNkgyNGtmV2txYnIwNUZBV3dMZHI5aFBIR0U2ZXNrckp2VDZCWFgtWGlFRjFKQ1JBQmxRWXgxWmJ5S2pnQThQck5OOFI?oc=5",
       "publishedAt": "2026-11-24T17:32:21Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -1993,7 +2681,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWk1kTUhzYWxBbVFYczBiNVNZS3d5QXNFSVB1WERyVFpZTzQxSzVpQXZjR0M2cUxoNWI0bmNYVzJORUxUREFsNFpwR1Q4WVEyZm5ZYU92WUNnbVNuaFhYVUw3SG1HMHB5eUhTSm1QakRqdFc0OEZNdUZGT2p2SlN6bQ?oc=5",
       "publishedAt": "2026-11-20T08:00:00Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-24T22:36:36Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2025,7 +2713,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa3MxNkVJd0Z2aVlEZ01HUk5EMUJfNjVKVUtGTTNUSldHUnlKVVFyNE0zTkpNN19hak5lbHQwSnZYWFBGTXNKb1lvdE5XWE1aNkFzWUlZVzBzUmVfLWdmNmVYbkswUW1ZakVBM3RlNUpZYUlQN21MOVJHRWF5bXZHY1A2cVJKd1hGUjdFQlFISmNweDh0OF8xbkFmQ1Izeko5SmtsRXFITXBuMmVvVHFBQ014OFdPRTZpNmI2akpYWGhhZjg3TFJHMjZtWE1vUTREQjhlRDNrN242Znln?oc=5",
       "publishedAt": "2026-11-16T17:59:12Z",
       "firstSeen": "2026-11-24T22:36:36Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -2073,7 +2761,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFM1SWpWQi1pNDA5UDBzSW9qVnlDZGFLVkE0ajc3eWdWQkdvTUN4NHV5VjR2V2JORDBvMnJnOEt4bVFJdzFWVFhSTFZOaFY3ZE1IeWFRYm9aY2d6U3d2M1JvZHhoWXZBZmdKdVVWMzJrc1ppUG5wVnQzYTdEY0NJZlBkelBCeUZFTWNHUHZsdTNqQmpKOG9SNUlVcTNzQ1NLcndXeU1n0gG2AUFVX3lxTFAxNE9vemx3Q1E5Ym5zUmRRWDQ4MkJuNFJpYWpKaWNqYkdnUk9fN2ZrbV82MWVMMVJDel9faW1vYW4zZF9pN2V1Z2ZJLThIRzd0WU9rZjA0b1RlakthQzVsYzFFYVlRbEpTSk5YNkttSXU3b19NVExtNFRtME1xVl9DNDQ5MERaeW10T0RfQ2U2Wm84aDRJVVJQRlJGTkpCMXR0OHdidjQ2TFNjbUR1U0hHTy1kbmhB?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -2105,7 +2793,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTB4S3VBRVA3WENNZUk5YXFrdmhkUFFyT0d5ZDZFekZXZkcteUx0RlZqX1YwaTdWMWlXVnc3TGVCRVhOTjhDcVd4ODhxUUc5LUhBem5ueWpSMWpGQnN3RVZ6SE9SYUlBREVOd2xUOGZVam95eGpET3BfVEtiWW83YkpMQ1JIdVdndnc?oc=5",
       "publishedAt": "2026-11-12T08:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -2153,7 +2841,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXhTWXdQV2FSMnhfb0ZYaDE1RGJxRlhQWmgzOVJ5QzFHTU5aYk5rZ2dra08zOHRZM2Mwd1BYaTk0andja2RGX2pmQ1lQWnNtVC1mN1lJeldiVXRPVnNSRFlIcXV2aF90WFJiUFRkQ0Y3UEhjOWk2UkpveU9WN1E3SlR5OHVlY2RSb09GMU9FX29OLXJHemlLTlB6aW5CbkE2MWc?oc=5",
       "publishedAt": "2026-11-14T01:17:46Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -2217,7 +2905,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMVdmakFESVgzVm9MMWNWelVNSl9pY2hUY2pTMUlMN3k1elRoTkxHS3gzZmF0blR0dDVuQWM1TmtJTzBkdElwWkdJSm82WFloY01sNU5VMEJFWEY1ZE5qVndPYjZHckwzbGhQRGxubFhYczFwdGtyenFZZndNdnlXdFVuMzFsdXZ4YXBPS1hvam4wWjE1VXl5alhaaWdiMUFnT2FFYnpDUlVmTDVVVkxockxPTHEyNFpDZllwUGw5TFZYeGdDeG1wLVFxaGktZ1VNLTc2VnFtUGdFNVBqdHhxV0xhUDl3WnJDa0tsNlVwZ0EyWUVaVW1RZXV5NzFmZzRMOU44WG9yZw?oc=5",
       "publishedAt": "2026-11-17T14:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -2233,7 +2921,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBabGV0dnBGZUtYTnQ4UnZ0X1BySGZOT2poSVhHcnJKYUhpVkpOSEljZjlCUXJDTXp1VGpXSGo5bXRmV3daNEJwdHFWUGo3b3MyYlVSVm02aW1IY1VScnpRaDZiaTJJRGZUbzR0TmdoRFNjTm5HWFpHVEJ3dnVmdw?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -2265,7 +2953,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0daeXFxLWlHSnpDQ3N0RU5MUm9VaXNpVXU2YW5PSjJUZWFMaFl5VTlzNGgzZklCRDhNZnNzYTcweTRGaUR2UFh5RzNIczV2TzJrdWFhekxhbWRTcTgzdWttcUt5QjlrN1VEYmhSczJXcDZMbzFReGg2UTNDbm9DcDBlZXV4akNSVkIzbnJDSUVsUXVU?oc=5",
       "publishedAt": "2026-11-23T21:38:12Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -2281,7 +2969,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOE5sZlpmajFsSkFhZ1kxOVJ5NXd0VkJFMTNpVWN2QWRyOElpd2ROc2c4ck94YUtueDdPdmVlTXZCLVR2YW9sX2NFd3hMYmdjNFZlNHluWDMyYXlrN3luLVp0NUVkZXhienFxTVdkY1cwc1hXaVVGUk9XdG1XYzBuNFhKZjFaZXk2ZVJRMUlSQUdGWnhJS0Fsa1lHS0lsSEt1QWlOaldpNWZtdjg1Sl9hZXJzZXozVWliZjV1UFpZRnZLeXJsZ0VKbW1BZExtSjYwcWU5MjVUWExhbWx1YjBqcXZuMFBGbXVadmlBMTJSbVBiRnh1cFhma0pjUG1GaG5N?oc=5",
       "publishedAt": "2026-10-28T07:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -2473,7 +3161,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGxlRDBwTE15c0NpdGEwanI4T3hQWEp4RThZMFIyeUZUX1gwRkg0MGdSVGx1aVpqSGU3SUY4N3NlQXV5RENDci1RaF9aZHdwU0FiZzE2YjlaYlFzSmZjY2pER1R4amZsTlk0d2RyVHhnN0NoVEc1OFZKWG8xdS1sUWVVUjdfdFFzMjI3ZWZ3M1lVcWtQaG9aZw?oc=5",
       "publishedAt": "2026-11-23T18:59:50Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "failures-incidents"
       ],
@@ -2505,7 +3193,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkY2NkZYbkhYYmJQcTJYR1RXYXBxVk1kUFZJMHBnVjYyZ2RZYlRWUFlRdXJ4bWxmRGZFbEZwcWI5RWlyTERydnljTnlTTTYzalN4eUF4Tm9ZU2FPT2NSTGZPUzhkWXZFWnpzYzdrQWZWNjc1R0ZGN3lfZG5PdmtlX0hLMHVKMnhtVm1WT2RtNUk?oc=5",
       "publishedAt": "2026-10-30T07:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-24T22:36:36Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -2521,7 +3209,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQclZkZFM2aUNORF9XdC1TU0ttS2VPLVJUeWU5T2hHbE02MVZ4VnZDSk9UUVIybGpCd0poWG5LTHdQX0xPQUNYYW5HOWNtVFZLc2xlaDl4c3R6MXk5eXJVS3RZS1VvcGc0TDUwSmhkY2RQLTZpeFZjb1BJcU9aU3VJUFlScHF4MlVHRndPWXlNM3dmcHZmU1dpa3FqWERRUGVTWDN6QjQ3eDc5LWd6NTRnVS0wYVdlTU5KZmJ3X1czNF84Z1NtSFlsb0ZFVGpfZTNOT0c0?oc=5",
       "publishedAt": "2026-11-16T11:41:49Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -2601,7 +3289,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDNXLWpxd0VXY2JLcEx3dmlNWUdNaWNrQV9VUVhCTk9DUWdSLWg3WWNHQm9Oa25WU1FZOUhTSlg0WGM2bi1EVlRsUjVVOFpNRmptNTByeXR4MGdxOTFvRGhUN2F4MkN5RWlNbzV3SWtoUUNHSi1yZ1RIZnNyTzZPemZ6OXFrc2lfdk9hUA?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -2617,7 +3305,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak9hSGZQVzJacllDa1pGYzZxaUwyTkJLMzk2c0Y5dzd3VHlpczA3X2hrcV94WlBvVkotYmNNemRuY2laUkhwOVlXdG5aY3E0b0cwN2g0U0IxUjVqS1ZGM1ZsUmlYRzJEaS1vRFJaOFZ6UkI4OVNxRXBiOWpFR1Q1c0FOS1J0Rk0yakYxMm1TSXJjb0phUW1qaTZqcw?oc=5",
       "publishedAt": "2026-11-12T08:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -2665,7 +3353,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjZmNktJQTFwVkFWMFhkUjBmd1lWbmpwemFjT3dVY3NRZTVRNERLcGdsT0VlZlJKbUMwRGFHQzBkejZzTWdvOWhwNEM5em5YQWNfbDJ6WV9nVzBob1hNd0ZNRllvZmk3WGE2RVVSZmtxbFAyV2tLd2h1RGNvVlhXcVFENlpVQjd6TUFUU2ZIa05qcFJHZUJERnVOeXNTa2lObWdiWWF0RWhuWGw4Z1BOVlBxeVFGOFFVLVgxcjczMWtHb1pFNklpV0VGWWVnWWlwZzZqV0g5RdIB1wFBVV95cUxNZjZmNktJQTFwVkFWMFhkUjBmd1lWbmpwemFjT3dVY3NRZTVRNERLcGdsT0VlZlJKbUMwRGFHQzBkejZzTWdvOWhwNEM5em5YQWNfbDJ6WV9nVzBob1hNd0ZNRllvZmk3WGE2RVVSZmtxbFAyV2tLd2h1RGNvVlhXcVFENlpVQjd6TUFUU2ZIa05qcFJHZUJERnVOeXNTa2lObWdiWWF0RWhuWGw4Z1BOVlBxeVFGOFFVLVgxcjczMWtHb1pFNklpV0VGWWVnWWlwZzZqV0g5RQ?oc=5",
       "publishedAt": "2026-11-23T11:57:10Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -2681,7 +3369,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazMtTHpNZWM5aHNURkxFVmVja1FWNXhoYVUza2xCVTJhbnk1bjB6Wm94c0dKeTUtUjFGSDhtWFhyUjJLd3RKUHpyeHVzLVZyX1NpNTBVQUFJWV9VLThZRHV6bUdSUlZqRXB2WXpKMHJGWERwOFc1TmZMbGFLalNFSEJzUHF2LWlGcFBlOS1wUU5RVmoyRVVKSi1vY1FTMWNQZWY0Q0ZWMTNrRDNBXzNscDZCeE15aFZlR1RvbHhxVQ?oc=5",
       "publishedAt": "2026-10-29T07:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2761,7 +3449,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0lNLUNuMnVXNnRnOVl4WlFqZDNiTHpJbnZObnpVdmU2M181bjZuMlZqSFJDZ0hBVElSX3QybTVzb2xzN1FPbzd2M0lkRE1jYkJTVkU3SnNxTTl0enJ4NWFscDNfQzZlU3lFZlFkcGVmZ21menNvVnN3UmoxenIwM2dsMUcxQnY1c2dwNGV4TEpTd0U5TENTVkM2aUw3NktWWEI5LUVPSmE5OTNTQmhsRTh3?oc=5",
       "publishedAt": "2026-11-10T06:34:01Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2841,7 +3529,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cXJKalROck8wdXUtWmZDVlBhLTlnLVNyWWFxVmVyNUl1QUJBVWdLT1BLbDJCTmp1MzBfUU9WajZkRks1TDRuQldJSDZ6bHpROVJCZlhCYVNVUQ?oc=5",
       "publishedAt": "2026-11-10T08:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -2889,7 +3577,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXBhTE5RbDRraUsyNXV3RjE0RGlTM2d5ZHBJWWdzTWVIX3JhcGNvbXFnT3dteUh5NkIxTThrSjVBeTJzZjRTZE5JTmFYUUFSbE5DbEQ2RVZFdlNRc0MtZEJidDFYSnVtcV9Cb0VkTjcwVkVJWk5ZRTJuUmdjQnJCLXZ1bFhEMldHWWhBUkszcHpWMVA5OVg4SzlR?oc=5",
       "publishedAt": "2026-11-23T05:44:42Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -3097,7 +3785,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqMkduZTgzODRuRnlxZ0t0NktzN0U4RWR3UXd6UnBYMjhuc3Zxa3RMczQ3eGt5YWlPMnUweEtxOE9lVW5FLW1taFlrY1JLNDlma2ZlNVUzZGRZV3lOTlZWa2dzakRfRjNtb0JYakJhSVJSOWc5dXc?oc=5",
       "publishedAt": "2026-11-23T09:35:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -3257,7 +3945,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5",
       "publishedAt": "2026-11-16T11:39:35Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -3273,7 +3961,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzJTdVV5dVRGYi1kNm1xVnRzMWtSN00zX2l6ZVdpd0pNQllsd3J5TzBaZnQ4OFNOOHdoSEdzT2RpSmxWdzB2NEV3Y1BpLS0tUzBiNTZMc3dadFZoUXBNcjctUnRmRGd2X3hoM0F3dlh0TEQxN2tJLXU1dm9TcVhrV29YOUI4R3JKR3pUZkgxQ3hiaUtENi0tdTd4Y2M3MWNyUE9TRGNXelBnOGttZlp3?oc=5",
       "publishedAt": "2026-10-30T07:00:00Z",
       "firstSeen": "2026-11-24T00:04:13Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "agentic-workflows"
       ],
@@ -3337,7 +4025,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHk1VXVYTTRzLXhCamg2UTE4Q2JkVHRGZTVEVnhkU3cxZkktVVVGeHpVMXBrTTNSVUM1VDdpeDM1RVdWNHZ6dzRxM1VhaV9CWlFfX1BDM0s1d2g3RDA0ZUhzUlVPWHZFdDZxYWdXNzBlRVJMV0s2VF9tMmtnTk1Qd2o1cXVOcWcyejFmLW9MUHdpQms?oc=5",
       "publishedAt": "2026-11-09T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3401,7 +4089,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZGlkbHdqV0ZBc21QYU5HbWE3TWVaWFpnejJ3aWJ6OE9ZYmxJM2s2d1NWNlptYUc2TEEyckhNaHpQUl9fRllRSFVRUm5YeWVZWnExOFI1cGhfdDVYeEZERWRxWUVFTDZ2X0FHWQ?oc=5",
       "publishedAt": "2026-11-04T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-22T19:50:47Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3449,7 +4137,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2dLMlpVYXlLWHFWZDhPOU1tVDY3aVpwdmhNWEkwcUItVWJYc185R0hUSmIxQmplSHE2UWx5ampSMHl5dktpZl94LUJEa3EwYmVRTzFURExIZ0o5d2Fwa3hXXzU3RVBlRkdwckE2NVFXYm93UGstVE1ETjJHaVFDWjlvU295SmttV3pTQzNtZDQ?oc=5",
       "publishedAt": "2026-11-05T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3465,7 +4153,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeXZoVG84d29SMms5TE95eU9UV2l3SkVUNS1qclczSG9vQTc1RUhKaUlMZXdpT3RNSzVCU1cxSC00YVRTbkdyeGctUHltTGJmQ3NrdXhfRmZuSUhmWVBIcGdxUTlUcXhWMHYwdGFYdkRWbzJjV3U1LTh4ZERCREp6M3pKNGd2WkJFS2I2SmtfQnUzVUFJUG14VEFMekg5VkFoS0RGVENCX2JiemFDdnJjWnBQZWRtdUFaT0ctV1ZIMG1MdDEzQ2hqVEpsQnhpRk8tZ1hDQ3RDUC1WbkhyNi1VWTRuM3gyX0R5cnNHd0JieEVJRkxI?oc=5",
       "publishedAt": "2026-11-12T13:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3481,7 +4169,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGZXbmxGMTROSlVweDVsamFWYTZkOUhTS19CM3NDUmVNV3ZmR0JWMU9UZl9UX0s4Yzh1Q1hnX3kxU2d0bU14U2t4bzVTSGl0NFdWN29oSTVRVFBHd0pPc2JmMXN2eU9UMk91SUdfTFNaMEV6T1phZXhFdXNpMklaQ2ZDZE1iOG5nSjYtbHFRcXVOV2hKTEhvQXhmWW43U00yWnV3LTdaTjh4ZzBjZ0Vwa2FzQXEzLVVlZU4yNDdzYWR0UXN3QlVaN0ZlYVg0Yjg10gHWAUFVX3lxTE9KQ0QxRHhZWlpOTWk1MW1xSkwzaGpITk12cUgxamVJSG9hT3djSEhHLU5sTGV4REhwaDJVM1hTZHBGNktvUEpsSlpMcHdXV2xEeFVqajFkNHpxRVVQd1NKZnZqZXZjMU5xMk1GOHFhTll0UWpTN1JvTHd6LTRDOHY0dks2TlJiSm1JQzkwRWhTSWpXbGFEMW40Mno4UEVSRjYtZTNWOTlfc3RyakRkSFA3M092RzdDbDdyNTF5VFBHLTlXZEdTVFhGS05QLXlnWklDamMyUkE?oc=5",
       "publishedAt": "2026-11-11T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3529,7 +4217,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNm1JTUNCU1NKcTdvcldMU1NvUWJxMlRBYTREMklUWWl2Nzg2Tks1NXcybFZEVVZwM2pUSWhzODBsUkhaYjIxZmllYzFaN0JnZ3JPUk5IUF9XS0x1MTN5djlwcXYwcHkzVHY0aTdUZEVMYS0xSC11aA?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "enterprise-deployments"
       ],
@@ -3561,7 +4249,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
       "publishedAt": "2026-11-01T07:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3577,7 +4265,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVNaSmgxWWF1ZXNraF92SlpCRWxDb0hoVkU1M3VGemp4Rl9lcW41alEycGF3emtROEE2OXV2SF9GQlo0MDYyYUN6c3VqUU5ocmN2QkQwSUZEMy16Smx6SUJnc0ZUSGtQVm93RnJsLWhPekMzN3M0LXNNOTQyV2x0VDBfbHplM0plVWcxZ0Jnd0dIUXMyb0FPdE5qYXJPZVBPSmg1MjlvLW5xYXRxeU4xeGlrRW55ckVfN2swSnV4Q3RxcG96?oc=5",
       "publishedAt": "2026-11-20T07:22:27Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3593,7 +4281,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdvek9vSk4yX2xvOEJPbEtLWHI1ZzdDZER6enA1UHBmcXpIaWhPZnZ5aWVzcjdERmljVVU3bktiRXFFYjRoMlAxZTV2eXp5NDJrTUllZUY4alJCVmRGNVYwVDB0ZWUxVERWWWtsRkJSeElwTUlXMzliNDdZZmRDcGNFbjNrc0xGSGd4OWtQdC1EcUFVWHdiSDRB?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3609,7 +4297,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYW9PNldVeWdSczNrRWNYMjBibkVWdGFxY1FaQl93RmVtS3ExSU9rb1BEZ3JjSUJVaW1USDlneEo3VHdlOHptLVpFLV9pOWdRNlZqZ3Y1TThneExCb051ZlVzdHFZdmVUWjh6Wm5oTUZPbzJqZ1otOWEybWRaMFhBeXFPUUV6MHNvOWJjc18xdXZMSDRyTGd5dWNtenp1ZFNZM3h1bE9xMzN4c3U4RDdPZkxxT1NzV3hnNWRDVmQtWHdSUVZ1YjNwRF9ZMmZEYmc3RVE?oc=5",
       "publishedAt": "2026-11-10T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3641,7 +4329,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zck9GSWEtLWpjell3alRPeVVBdDRXY3MzWXQxMkpRdjhKZUplb01vbVRXNFd4X3dxWHZWVS1HSE5tYUh2NDNtWGRSRG8tLUNReHRreVZPYmRoOExLVWxfZnM5Z2pTMjQ?oc=5",
       "publishedAt": "2026-11-04T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3657,7 +4345,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KR0NvMWptNXZ1VDZwVWdzYjdUeWdGZU51Z0tjQllVWTlTXzFkQjRxMEd2OHU4RXFfdGZrcnAxYmlocXRLOGRrWWNJMWdKRE9qYzV2NERUdHJ6WG1sNVdqN2FLYnNiRDlmR2hUMHBrLWZjV3lsZ1pJRjk2bDhlQQ?oc=5",
       "publishedAt": "2026-11-10T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3673,7 +4361,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3V4d2ZreWcxVzlOalRzLVdhaDA1czJ2S0ZlYURwSEpKYWctTDZPREg2LW9iQnF0RVozMXVFYVhxOURzOV8zM0lrZ0lRa1BtelpOZ0d5Y240RlB5dkswY0pRS0lyc1k2VWlJbG83dEJjdXMwRFJDUDN0ZlRIaFlhX3p4RGhDUTVwTlhaUFUyRDBVQXh0SXB5ZTcwN1k?oc=5",
       "publishedAt": "2026-11-21T15:12:08Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3689,7 +4377,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
       "publishedAt": "2026-11-02T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3721,7 +4409,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVVRUcFR1cElEeHFQTm1XN1JaR0hEbDZQTzNLdUtPa3daU3BpQVU5b1M1Rm9qb1psVEE4TUhxLTFCM29fX0NrZmhIYlNtdUxubmIwV0dNbjA0QUp2X0JOdU5vb0JSc0JJZDlJdnVpcEQzM0w2MlhsVS1IT3N1dmVVdzg2ZExVOUZ1RklRalFFRWVoeWV2RXl6aU5oaXlybUJodU04SVBDUHF2RG5sWXUzMm91SjNQSVVOYzBnZDBWYw?oc=5",
       "publishedAt": "2026-11-03T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3753,7 +4441,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkF2RktZcmJYb2FsTGtrQVN4YVBEaTlYSGJNOFdVY3I2ZWdmbmdURndJRGVmVlhoRjB5RWR0LXNpOFVOR0UzcjZkUFB6NUU4S1Jldk8wTm1mRENrNXE4VFhWbmlFcGpwVndkVkFqUmg2ZC16TlViV0taaFFjTnRfTmY1c05sNWItZmxmc2toRHlSVTladzFXYXRvNGI3aE0?oc=5",
       "publishedAt": "2026-11-05T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "measurable-results"
       ],
@@ -3977,7 +4665,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTJXOGZBQjRWNU1DVldSQUFnZ0pUMmlaSW02YTdral84V3I0Q2xOU2ZtY1VpQTRFOXZYZlJ0Y0dYN3ZYR01zX2gtVGlzM3QwWVhWVHlKM3IxVC16Y0x2Zm1rMWVUWmRCNDdEbUJkQXlGTWhwWHRLWF9fbDZfcVd3U1R6RzROQXRwcF84WEZpaXU2bkZpaUtYNnd5V3ZwWUJSNFNkZmo0allkbjJZdkJwbzVKOUQtOWJnODBUTWdTc2s3dmtFaUpBd19laDZNc2dJRkg2d2RFdDBlVEttUmd6UUdyWTZaNkJOYzNTSnZ3bWlJVUJGRTF2U1RYb2E2b3c?oc=5",
       "publishedAt": "2026-11-06T08:00:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "health-finance"
       ],
@@ -4041,7 +4729,7 @@
       "discoveryUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmlneXFBUnVCYVVtM3BrMm1vYXRiOWN5VC1iUXdnRWpfSFdzTlQwb0k0d1Bsal80NUNXTmFCZk1pZjIzVVBDRExkcWVQTEtaY3lSOEFCNzRpV3RNWDdwblVfTTJvWkV3MGt2TlhwY213aHR4S3JMcS1rWno1VFY4NjVvX3pZQ05hUTAzTlVNTTR1ZHRKOW9BQ254ZjhQY0FaWTIzMVhUVW9CNWJpdHg3cw?oc=5",
       "publishedAt": "2026-11-19T16:54:00Z",
       "firstSeen": "2026-11-22T19:50:47Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
+      "lastSeen": "2026-11-26T21:44:16Z",
       "sourceQueries": [
         "manufacturing-retail"
       ],
@@ -4108,694 +4796,6 @@
       "lastSeen": "2026-11-24T22:36:36Z",
       "sourceQueries": [
         "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-4f893b27d0e386f1",
-      "title": "Enterprise AI with a Consumer Funnel: What Anthropic’s S-1 Reveals About the AI IPO Era",
-      "publisher": "NYU Stern Center for Business & Human Rights",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpfS0lYZ19HcTZRMzBudEdDUUhBSFZwOFJrQ21SNHk2OHk0aHhTa0NMQ3hLSnV3U2hCUEd5NnBOZldzRXdwQkdCVjZwZ3hZRk9wam8wZXcxdlM5UXRLejlabDlPQWtMQUxpRmZtaDVCTS1wUUp3MzM5OXFHVmEwMUxSSUYtUE1zT19nVXk3ZWFYVlN3dXBtdGh6MnJjek9aZkIzdHhJLVRSc3NoUzl4d3FILWRqbW5VY2RJQnEwUWg?oc=5",
-      "publishedAt": "2026-10-29T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-22T19:50:47Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-b795735fc46ebc38",
-      "title": "Kainos CEO Brendan Mooney says government 'cautious' on AI deployment",
-      "publisher": "BBC",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxcVhVM1J1Qy1aOHhxcE11c2g4ZjZFUjMwX3B6OEtVXzhFb29JVk81eFJiOXVoZ0NWaG5ZU2xhb2Z6UC11ZU53TjQ4ZXU2ZWhRTk1JV1hiV1ZsYjg?oc=5",
-      "publishedAt": "2026-11-09T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-22T19:50:47Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-cae14c4238dab2e0",
-      "title": "After Anthropic’s IPO, What Will Prove the Value of Korea’s AI Companies?",
-      "publisher": "Korea IT Times",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbm9pdmxzTXBsMEkzOUU2c1VSY0FyRDR4Qzlkd2dRaDlsZW81ZW1aNDExOVYzOFhKaVNuOXcxVkFreWpsMDBYelBORjc5eWNnLWVxRGVsU01JUENkeklUVWt3S0ZVNHRCWWtrNGRPTWY?oc=5",
-      "publishedAt": "2026-11-21T10:01:52Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-22T19:50:47Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-db8fa3522ab4c60d",
-      "title": "Singapore’s new platform connecting AI leaders; Waymo’s plans for driverless ride-hailing services; and investments by Databricks and Google Cloud – read to find out about these AI developments and more.",
-      "publisher": "Singapore Economic Development Board (EDB)",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFBwM09vR0dfU1lmYkprUEVNS2lOM3NKTmVITXNTcEY3OWc5ckR1YW5VR0I2dW9oVDlGMEZUSlNmR0JRcW5obUp5eEJVZ0YtOXFrUEpPaVdxTXZJTVA1S1RvQ1d3OFFudVZlaENnS1E4LW0zTmdhbjNwRVhVVUpIdXh2Z21LQWprU2R6ZDBFMW5ZSzhDeUtscGlSUXB1NU5DU0hwdGl1WjZCeEhjS0ZvYTFMV192OE16bGJWamhNendWcEpPV3RyYWlERVhLNnpxakdhczZJbw?oc=5",
-      "publishedAt": "2026-11-16T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-c1d8352fb87ebb31",
-      "title": "From pilots to profits: Listed new-age firms scale up AI deployment",
-      "publisher": "Moneycontrol.com",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFI2S0VWVkV0OWRQOG9UZncteGU0dVRUc1p3Smp2NEk1LUJwbkZ0ejBFMkJiWVZIam9DVlhJMzVxRG1kQkJHMGxyWmh3YkZlbFFsUTEtaURlNFd6eXBoWVpjSDRBOE01T1Rtc19VVjduU0NLbUtsUnA4Ykx6dE44YWV3YkNXcm1jZDV1QjZpTDFhbmM5emRHV0syQng2alVuZVlmZy1PNGxPV0tPeXVkUjQ4VFJhb0g1R2UyWlFiZWdfZGdvTGR1N2JJUE4wOGdIYzFDUXFGUFXSAd4BQVVfeXFMUHdxdzRicmJPQ3R4SU1VNm80SURFQUozZVFsUkpsQ1N4RkdzODc4NzdQN1JzMUVtM1ZSZ0VmOE42VzkwSWxsbFVoNW05TUR0THlHbzJHVVhHY2kyNUhVREF4OWZoZVZMZGcwcUozMGU0RDM2aUs4MlVabW5Za21CcXFRNW5McGhuMDBWaUtLY3NWYWtzSWR4eUtwM09DT09SYUFWLVhuM1ViTzZVdzZ5M3VmamVHQk9OdUFBRkQzLW4yUV93Mm80VWRLbFlnV1doNXdYalVxcWNjQ1BPZDR3?oc=5",
-      "publishedAt": "2026-11-21T04:28:22Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-8ca21ca4c390a3b4",
-      "title": "MLOps Market Size, Share, Trends | Growth Forecast [2034]",
-      "publisher": "Fortune Business Insights",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DeUtQRmVQU1Zpc2gwZE03bUktUnRib2xBU2pQN1pMZ3B2MTFMNVVqR0NhWEZRVjloOTJBa0FzM09VOVZvUFZrbmRPX3lWME4yNkZHdnVOZ25aZk5DUGVJcE1qaW9FM3hBRzFv?oc=5",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-25T21:50:26Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-33c8530785e45f5d",
-      "title": "Anthropic CEO pledges to slow AI development and deployment until safety confirmed",
-      "publisher": "디지털투데이",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0hzU1RBZjJzTWhKd0pfSlhmRERGRzNEb0M2emJYVnIzendmU1ZhdmREcFNEMkZlYWdfajIxc0trVUJFZzFnN3Rrb3BENG5JM0YtY2ZVejU4NHN6MlJVbzJsaHZvMFdDVXJzYTllbk9uTFBLVDlIU3ozdjB1YlZkTF81aFhZMEJPdnhzX3l2OTFCWUJaS1lGOG5mQVhHNjlLbDhqTHZlcTZkVFRDUEhDb21BZHpyU3JJcVNVUjFQSE9yQWVYelVz?oc=5",
-      "publishedAt": "2026-11-20T02:08:11Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-22T19:50:47Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-c293e818e5f8b7e2",
-      "title": "No-code AI Platform Market Size, Share, Report, 2034",
-      "publisher": "Fortune Business Insights",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03MlFkQndUTmlXa2xPY3RMVkZnTE1taWpGZndXc2ZRM2FmcWtlS3pJeVU4ZFFUaDlwWUd1VHc1Y0FIQTQwa1NfMGpHUGE3QTY3YjlxcDcwZmNLOTlFQWl6S0RSMGZxX0UxOGhHRW9HTWZCR256cjNKTjZqZjZaUQ?oc=5",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "enterprise-deployments"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-9515bf7a46ad7ca7",
-      "title": "The AI Payoff Problem. Is AI paying off? Examine Apollo’s… | by Adnan Masood, PhD. | Oct, 2026",
-      "publisher": "Medium",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cnlQR25HSWotMXM0LXNjby01R3FYWHZzNDVFYkw3RDFwVlRoMndZQk9WN0FSbGxvVTFiNlJoaGxTbERXdms2RVljaGppZEQwRFFITHVqekVJRkcwOHliaDYxTmFReDJpZW5CV2JkT3VHMXg5?oc=5",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-a6229f181b83de86",
-      "title": "Smartsheet AI-powered platform bridges gap between planning and results",
-      "publisher": "SiliconANGLE",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnR2NzFveURtTHk3ZDFyaHVoMGgxMnAzX2FFdWItLWhsbHFuOXltVGxoX09Wa3hIUmI5RmlRVG5NcURGcjU1MDdBenFpQXdSdmhmRXB3OUtwME9vV09lN0ZBQnYweEhyLUU2dnFGekhoYUYxUVBQWnVzY2tDR1RSVG81N1JQMTVIS0RpRHVueWg4LUJUTWlCZVRxQThDeDNIRFhYZlFFb2Iwbm1R?oc=5",
-      "publishedAt": "2026-11-04T17:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-faeb0ec062cbab07",
-      "title": "Is your AI marketing investment paying off? How to assess savings, ad performance and sales",
-      "publisher": "Ad Age",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xekZoOGhEN1BZVWFkMnNOTk03UXV3Z2JhelZ2ZG14RmVfallkX3lsLVpKaU5SUlN6dHlXYmltRXlIM0Zxd01lclR3N3hadEhuVmw0enNjNnhZbWFZMVlfVUpkWTVtU3pWVTNYRXlVZVE?oc=5",
-      "publishedAt": "2026-11-05T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-260747b09c0ec96e",
-      "title": "Cadence Raises Annual Revenue Forecast as AI Boosts Chip Design Productivity",
-      "publisher": "THE ELEC, Korea Electronics Industry Media",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5haXVNb04zbHQySklWTFFPbkRlMU9HV3k1M0Z5RldUc1dWSHE1VmpQRWhVREQycUtOWVl0SzNseXo3MFItbW40bG1nU3VTTUhrazdLRFByWkFqU1RnbFVVMG9ZVkpod00?oc=5",
-      "publishedAt": "2026-10-27T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-65b2aa37bc12bf3d",
-      "title": "Cadence Maestro puts domain-trained AI agents to work for chip design",
-      "publisher": "CIO",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
-      "publishedAt": "2026-10-29T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-09f84955c6fec8ef",
-      "title": "Artificial Intelligence at MassMutual – Two Use Cases",
-      "publisher": "Emerj Artificial Intelligence Research",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92OUNXeHgxbjJER1FWMUlqVXdLOV9xdUhuNkdYbDVlcjNlYXUtRDA3Ykp4V0xiaW85SEhhZXNtVEtuS0djXzJySHVaZk9HQmVWMlYyVDVzbmRjMks3TkUzTjFWLVIwWXRMZ080aXBIRDdTMTNFcFVPbF9n?oc=5",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-858c56b706c39896",
-      "title": "PwC's 2026 AI jobs barometer: 10 findings on pay and productivity",
-      "publisher": "qz.com",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qZzlGZ3RWNlFSdzhsMXFFMXB3a1NnRE8tMHdaNlZPTUUzUzJyaFR0cVpCeEROZzN5bjN4TmZobjFIdGZoOGhkdXc1OU5obmdWN3dnRDY3X1dfbTY4bzZRZWRVdzZVU1BreDRaSA?oc=5",
-      "publishedAt": "2026-11-10T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-bac7b39f231d1e05",
-      "title": "Cognizant Technology Solutions (CTSH) Q2 2026 Earnings Call Transcript",
-      "publisher": "Fortune",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMURVNTEzT2ROM2hQbHZneUNzbWpoeGZ6WFgtOFd0OW9uaHRKdUtkb0hGNnM0Zmhpbm0wZlRIN3BaOF8xQWJpZUtFN3p5WEp6VDZMbW9iQm1scWk5U0tuN0NPc1ZwVXRuVmEySWhVRWJIRkNjdFBhNGxNQXVqRmR5eGVB?oc=5",
-      "publishedAt": "2026-11-10T21:28:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-ef9af6a8fe8ae4f0",
-      "title": "GDYN Q3 deep dive: AI-driven delivery boosts margins and productivity gains",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXVXdnVud0cydlA5eWN6NVRkOFhGMF9VUWVhNUNJeFBTc3VhMXNSMEJlcEtiTzV5MWNBZjBLV3pzcjZ3T01CeW1BaTh6a216enh6aFZaU29qYWdqTVJSUndhZjVjY3hpWDdPc0ZqNERjcEpsWTVZak1VRFFIRGRYeU13bkNmLVRtVzFzYjBIYkNPSW0xVmdQQU5tazUwY0VYUjd0bko0UjlVdmhabHVQaEpzN3puTTZnZ2dRSHptZ2ZmaXpuWi13Q09LSE54Y2VT?oc=5",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-8568ba2e2629e21f",
-      "title": "Canva Learned to Draw From Its Own Templates",
-      "publisher": "The AI Economy | Ken Yeung",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FaXpKUVE2S0VKZFllSlhhS0RUMFl3OUViMS1yME5FSkRUM21ZSkJaaGZ3aHFmenVtSW5BMjZqSlVZd25rRWZOSUViOV9XazRzOFZYX0lrUTFjSk1DRHhhclFHWWlreWFteUZab2U0dFo4V1RVN292R1FMd1JUdw?oc=5",
-      "publishedAt": "2026-10-24T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-057527720ead8fa2",
-      "title": "India's Infosys falls after revenue growth view cut flags AI, competitive pressures",
-      "publisher": "Reuters",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc?oc=5",
-      "publishedAt": "2026-10-25T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-3a1f95a8193b0bb6",
-      "title": "What The Hackett Group (HCKT) Said on Its Q3 Earnings Call",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHJsemVBYzc1dFA4cDNOc2xGd3ZrcDl3YmExeXpZaEdGV0tKTjIyX1AwSEJvUW9UWUlMb19DTW1TelJMQ3pOWTRFRzBCYjJRVUZMaXRaSnRDSXZyLUszWDRaV0hxcVF2M284MHZHOGk0ZzlFNjhDR1ItUHd4RExaRG1WWHpsN1ZtTU43RnF4X09oYWo2TFpJTHRYeFJhQXJTSmNQbHlhWjdSeW9iMnpKXy13bWhUdk9K?oc=5",
-      "publishedAt": "2026-11-03T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-3e79aafd2884ae6f",
-      "title": "C.H. Robinson extends three-year run of market outperformance in Q3",
-      "publisher": "www.bluebookservices.com",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGtPQllRWWczYlBmR2tFM29RcWFIV2g4YUkyQVZ0NHRjdUNqMk1Kam9RSEdQMEVFY1c2clZKYzMxek1tR0JtaUU0a1NGVnFVQ1huZlFpaHVVbTNhVDdwR3A5MS10aC1wUk4wQi02b0VPb0d5RUJHeU0tMkUtODEtSXVYdGMySi0tOUMxaFJucnFkN0VJWnR1SmFhbVJwcUJUN1E?oc=5",
-      "publishedAt": "2026-10-28T20:55:11Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-84189efbe2f761fa",
-      "title": "USFD Q3 2026 deep dive: productivity gains, specialty expansion, and margin stability amid macro pressures",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNkZHNGZpQ09uX2dELXRHTWFvYU5qYVlzaEtRWFNoTE9nQWNNRktDVVA2bWpVT2FHLW5kM0RSZFA5Y0wtdm9jQzl0SDhhV3R1ZUR6NlIwcEFMcmZHd1AzcTVpUGRldkZMWWRKVnp0LUwyR2t4MnF4RlprQVlkZ1RBdUpGb09kblhLbTVwRkNYdlZRMkJUUUhIZm9SX1E5ajN6cXB4Q3VyNzlZMFFhVzA0T0F0bXNDTDlHMVEyZmtwMHVlNmVNTEc1Z2N2ZzR5QkQ1VnRYUnNyZkdZM1MzR0pJdjdJdlJmNF9PX0RCb2hKOVlHdDJoUHhF?oc=5",
-      "publishedAt": "2026-11-05T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-a8edd5d775f1272c",
-      "title": "AMP Q3 deep dive: advisor productivity and tech investments drive stable results amid competitive recruiting",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDkwQi1VSE42WFgyMFVBSm9uUERJM1RyWTltOHBYT3dlQkw1YXFUSkhaVkJBOUtHeE5JR0p4Tkc5TEJDNzN3Qi1oYzh2TkhLX0lPSE9zRWd6WF9wZUk0VjZuTFZ3MWh5RTNzWnZnRGwtYlZFSElrU2VxLTVLMm5yREJSNEFOcU1vQU9PZXNzRm95bVB4d29RZWo0UmJkZ0pKbTBvV3BmSEcyWXVyaHVvTUNUQlNESHZVZlFtLVdlY2FCeWJLcjlxVTYwTmN3MmctdXlmQ29PV3JPVWFjRUhYTWY3Rk1sSkNydHNEenpnZVdtQUlRdlpUU1JpeWw?oc=5",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-6360560190a88fc3",
-      "title": "PCOR Q3 2026 deep dive: AI advances and DroneDeploy acquisition fuel broad-based growth",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1hkazN2S21JcnFiNFVrM3NZR3lvdXJjWkRpcVFpNjYzSlJ3ZkoyMDI1blprSEthMWpKZXdraU8yYlN3bXFmb2ZwY0h2QUQyOFd5eE5UVENoWGRoME5SbkhrYTZ3Y2E0Zm90YWdQT1p4MWRHS0xneTQyUmNJUVhaRjJYNlFJclpNWUg5bWFDMlVwTnlDVEhOX2plUkU3QTNTLW5mRkJpVGNBQXBtR2hTNFRmZ1YyZ1NPRTEzeUJueGFRcW8zNHpuS2FJYnN2ODFJbWs1UGdZSS12cmtSSmE0bg?oc=5",
-      "publishedAt": "2026-11-04T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-056ef9c879ded777",
-      "title": "CUBI Q3 deep dive: AI-driven efficiency and diversified deposit growth highlight quarter",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZDZERnZrYWtYRGJEUUd1c0VINWc1YVR1QnhTTENNOThtRDB2RzVGajI1NnFFMVN2Z2IxbF9mbUlOamxIUHZKR0JnaDFfVzJKVGpfZF82bnprRTVNWmpSbHlKMzZmUkRKZDRtV0wweFNxWHpHSTlBM0hYSmZJRmhHS25aMmhjSWlYcU1FSUllbHl3VVBuY2tfYXB0Mjh2emowUlhEZjYzSXpoZVZTUHhnYjBTWmk0Yi1MVlhxMXNGcmhjQTh1MEluWU1WSXk5ZUNDcVkzU0thNkFWSTVlQUswdDRB?oc=5",
-      "publishedAt": "2026-10-23T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-34334d7f4472fb69",
-      "title": "Cognizant Q3 Earnings: ‘We view agentic AI as the most significant enterprise opportunity since digitisation,’ CEO said",
-      "publisher": "CRN Asia",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS214aVBDaXJLUjBodHRIMFNiTXlpVEhoZ2lWd1QyZVNZUkxWS2NESW9SMWlLSzNSYlViS0JVdnpPNTVoMDlSQUhSNTl0RGRPa2tPR1BVSi1oYlpGTVl6N2N6ajFRMXhmZkoyTTI3czBORFBzY29GTHVPNm9qVkxaaVRZc1FXZnk3UXVVUFoyN0tYTnF6dkotNDR0b0h0ZGxUM0hCVl85NEZnNDV3Rk9IXzlPcWI2VFlSMjJaeW5SWTlsc2hQSVVoamhfS3dPOHNoNy1ZYUhwOXhnMGtwbXlUeVpuNjJFNmFVb1FV?oc=5",
-      "publishedAt": "2026-10-29T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-39d286a2c4790ef4",
-      "title": "What Calix (CALX) Said on Its Q3 Earnings Call",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDZwQm1aOG93VUdVemloRXlUUnFQMWtDbTdIWEs3TkVocjE5SGV1bnZLTDRfUTBPUVVZTmNwdlFaSXVWVFpxOTdZOTZxZk5GMGlHb3VzMVlxd2hVQ2l4c1VJRTYzMlBuZkdNUS1lVHlJTVIxX0VXWE5Ja0NUWDBGdjlGZjdZZW5CT0JvZXRlcVkyUjdsd1MxaDg2WnhUVzFTZDJFNXNmUW4?oc=5",
-      "publishedAt": "2026-11-03T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-b38a51bffff2e358",
-      "title": "Alphabet (GOOGL.US), Google's parent company, Q3 earnings call: TPUs expanding from Google Cloud to customer data centers; 2027 to be the \"golden year of productivity\" driven by AI",
-      "publisher": "富途牛牛",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0UtcDl2R0FaWTBGUWVDcDNteDhzSWxpMmZVMGRoSGJNbk9OZGF0YlZqNFFOejl2eEFTOEs2R0ktNzFoTi1QZGNaWWJLYTBibDRhUjdaNXl3cUdiZmJ1TE03YnRRT3QxX1BHRko5cllOTUQtWnlJNlJLcTl2WTUtb24yTVJUQkZOOXRjRGZjQ3pXV2V4dXBhUFZEZ1NTa2V2SjZTNW9iUXY?oc=5",
-      "publishedAt": "2026-10-29T03:01:17Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-2dea30a367426a55",
-      "title": "CXApp Inc. (Nasdaq:CXAI) Announces Date for Third Quarter 2026 Financial Results and Business Update Conference Call",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFAzMkdLUnJYalozR0otV2M1bEVwWHFhN19YXy1IV1JlRnd1RkdBeDB0VzJpRFZyOVBtSDZQWTdZTWJodmJvb1U4UHduSDFvVXdZYWdHcGUwR2lJb3lMQnBPZ2NDWW5EUGNGYlVOWG85ck50bGk0aTQxSDBrc2tfNzdDTlJBaWJWRVBTSklnOGlLTm9mUjNCbHl2RndlR2R1TkJPUGI5SWlPOFA0dENnT3JXMlVueWhCVjFJdlA1SDU1MVJScVYyTE9MekxlYTBhWTV6TnltdWJSOHlIZHZoZ2xmQzMteGh2TktzVjk1RmZfOEFaY2FCY05ySG9jcklJNk5N?oc=5",
-      "publishedAt": "2026-10-28T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-b278c14ecefd3905",
-      "title": "Salesforce vs. Oracle: Which AI Cloud Stock Is the Smarter Pick Now?",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjJvYk0zNmtpZUtKbGVlMG1icHlSbmtVWGJjaTZsbnl6TVZyWHlIQ0cxWHpiY1Q0ODdmZFdfX3V4dXp5eGVxSHB2ZWNfcUNSMXFKeTA0NHZQMUQ4Q2syWkdVMVJMRkZTMzlIWEE5bHd4d1JodTlDRjhoOHBnbFczdmQzZ3FXV0FiX1QyTjFuMVU1c2RSWE9SYVBOSzcyaU5hZjNmUVgwU1NQbExyeUY1SkpaNlNvNVhLMWxDRjJR?oc=5",
-      "publishedAt": "2026-11-16T15:38:22Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-64e6abece5137353",
-      "title": "Tencent's AI Buildout Deepens Free Cash Flow Deficit",
-      "publisher": "The Defiant",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3NiQ1ZNNVNBMThRandnQWtKa3lRalBuZDI4ck0zR083SlhOVkRhVmFadzhGWVZYWlpBRnJEUlpKTEswVm1GcFZKLXVRbzZLX1hmREFJUi03RzNscWdNVHN6c290MU1RYTBseXdrRHdpVzdwZHZpQTlITGxxalMzOEV4Vno4ek12N2ptem15QQ?oc=5",
-      "publishedAt": "2026-11-19T11:34:13Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-6da09f2ca393eb60",
-      "title": "Piramal attributes 30% productivity gain and 0.86% 90+ DPD to AI",
-      "publisher": "Multibagg AI",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1RiWVpPT0FvYXZHY3BZQTVaMmtndEhLdF9aRjluYmdnMVEzazhES2JPaGYxa3NsNlYtanBBdGJBem1WelZQUFZldF9pRHRWZ0VMQUpJR0twZjFHM0ltTGZudDN1UHd3R2N1V1ZjMDZ3TVpVeXFHRkJ5Sm1zNXAtWWpSSXppTXQ1cDZaOVZ1LXZkSDhGMUphT3ZleUhKdlpKaFh2QXFOaDlfYXh3bGZpWUd2bW95aVdvUGhBZg?oc=5",
-      "publishedAt": "2026-11-19T04:00:23Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-ac3fe502174d5e47",
-      "title": "Infosys Q2 FY27 results: AI revenue surges as growth outlook weakens",
-      "publisher": "DQ",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1d0S08ybHo3RVFIeG1CTjFGcFRIdkhVLVF1Y2RMSGJpejFDMkZ3Tm5rVEVzZGFidG5CNVJ4WWVHVDg3Z3BudFdhWmdMbzlRMjdJY0J5UzdUZjNWSnF4bTJPTU5mcTNJQlU5MUozcEZMRFR3cVVVdnJWd2ZHMTdWdE1SUTBmRnN3cVBQN0Y4YzBuTU5YSzh3V3daX052V3ZmX3FjZDVPUTPSAagBQVVfeXFMT19XdEtPMmx6N0VRSHhtQk4xRnBUSHZIVS1RdWNkTEhiaXoxQzJGd05ua1RFc2RhYnRuQjVSeFllR1Q4N2dwbnRXYVpnTG85UTI3SWNCeVM3VGYzVkpxeG0yT01OZnEzSUJVOTFKM3BGTERUd3FVVXZyVndmRzE3VnRNUlEwZkZzd3FQUDdGOGMwbk1OWEs4d1d3Wl9Odld2Zl9xY2Q1T1Ez?oc=5",
-      "publishedAt": "2026-10-23T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-a2acfa4823ab0b9f",
-      "title": "What Infosys (INFY) Said on Its Q2 Earnings Call",
-      "publisher": "TradingView",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEhaWjNzR2xGTVduQ3dFXzJwYjJZOVBCRHBFdWtXUzFsTkhqYnFydGlSWGd3RlFNX185TGVtYjlFTkNveXBUbDFNWUhCQUVGc2VqVXVzdjZsTEZaRmtwbTQ0d1RaN3lBbFNVMDl6TGhZb1VRTzgyOURDNlExWEtzQWdGN2ZmZDVVWGtXUV9vWDFiSGFHeEYxbkwtUnI3VVpDWFhRSHJpMDVVTnM?oc=5",
-      "publishedAt": "2026-10-23T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-4cb7654155937e8e",
-      "title": "Anthropic IPO coming, but AI having limited revenue and earnings impact on the S&P 493: Larry Berman",
-      "publisher": "BNN Bloomberg",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3BERVB0TTZfUF82TUYySEd6X1ZMYTVoNzZOQjRxMnpRRGJTQlZEYUNhZHpHRW53TFVLSEZzR1pOQzl6UmNkdFd0eTV5dHhEdHIzdUkweHdUcWJqR09ic1JISE1WaGRqa3BQcmQ0bVhpRjlyWUFZaTFxdW9FbmFxY3pWLUhIMzZfS2R5YTJUUDFQZjhRUzdxbkNpS2tram4tOVFlMjlDVVdOYWJYNkN6OUQ2UU1FaEk3VlQ3clNBZV91SkJ5cllCOEJVUjlxUzFGZDNfbnZxRHhyb3hWLXN5bEdUV01XWVVvVU9j?oc=5",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-3b4960b04deceb2e",
-      "title": "WebWork Time Tracker Expands Productivity Insights With KPIs per Job Title, Set by WebWork AI",
-      "publisher": "HRTech Series",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZW5YN1JnNnFlazlnZTVyRUxGZnk1R1ROMGtlV1pqYW9odzNZT0RDTWhRWHpQMjZrWVd5dHZhbXYzQXcyWElfa3hMQVpjamROaWlvTW9JY0d6akJWZnU5QVljdzdNcmxyV1FvT2VlVXQwXy1TVVdRRVA5N3l2T2lYZDE4WkZHOTNKQ2VELVFmOUlzVkVJaFU4OHBlRENQRzhpM3lraEdPQ3AwTVhOWEhxTjhiU1Vzazc2Z3pMYy1XaVZNQndCTnl4d0pKZzMzRWdoUHU0?oc=5",
-      "publishedAt": "2026-11-12T10:44:35Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-25e09ae59467fc11",
-      "title": "AI contributes over 10% of TCS, Infosys’ Q2 revenue. So why are analysts still confused?",
-      "publisher": "Moneycontrol.com",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdzRscC0tSHFJaUduX21qd0NBc1ZwRGhXemFzaTViS1dPQkxrUGRHVXhhdTh1TzBqa0JNQXlEZ1hEODdNUzQxdV9nNE1VZXBEVEJvUUFsT055VExrSlFzU1NqaDAzeU81Tmo3QmJMNERBUlZIZldtN25icmtKd2p6cEZRUDFfdDFGaUpqajN5Vk4tVW1PM01MdjB4UnlWcVNCelI2eVZzaWVhUnpQX21mVFJ0U25KeXVMUjBMZkZnQWdHbTRLOGk5VUFKSWNwZ3VLLUpwRjBRZTZkYkRQbGNSTUlNWXRSNE5ZNWZrTFU5aFNNbzNZRnfSAfsBQVVfeXFMTWNqUkxZWGFhdmdTeW4tWlZfMjFTdkJldU13TzMzd095alNFcWZqTldJSDlOUFloSHhiNnJsM2MzbFE1TVhpd2wzclRRRm1jNmN0SU5Ba3hEbkFvcUp6V2Y0eDIzM0NjLU9tRms1Si1raVB2VkZHRnBGX0ZZY2ZyNWh2TFlZSzkzajlPNXBfMXByalg1b0RYZ0FGVDVtTWpiTnMzSXMtVGhiRjVaclhvSVE1WmdKcUdUVHpRSEZGNWJJNnlFVjlJdWwzRGN3RWxtYzAxRS14OHc3T042dmI5Ynk0YWlqc2Q3bWFPNDRjRi1CbXhjOFo1MHRpb1U?oc=5",
-      "publishedAt": "2026-10-24T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-21T19:29:32Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Possible measurable claim — locate methodology and denominator",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-e68e4a80b2d5fafa",
-      "title": "Amazon tells developers to measure AI results, not tokens",
-      "publisher": "news.lavx.hu",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE14YnhEbkNGYmZzSkl1MGRqcEZCcjlSTTdMbHFMWERHV0E0MldFX0JUSWNURFVCeVlvOUUzS3ZhQk9Lb2hoWjlmdEg2cFMzcG5xMHJVcHY0UmVOcnYzajhYTDRYLUdXaks1bDlUNjVGNGJfeGR3VEREV2VDZkVlQ1FJWUhwbUQ5aDZJUm9B?oc=5",
-      "publishedAt": "2026-10-29T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-5b97f54e651db943",
-      "title": "Tens of thousands left without access to Microsoft services following global disruption",
-      "publisher": "Knews, Kathimerini",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXByT1p1SmkxYzFqV091LXZ0WV80b0U4Umw1RTNmUGNyYzIwUU9uRTJTeG1hc1luM1NSVUZHSjFHY3I2SjBMUklnZnRQbGdnYmlob3BaQmJYcFdnYTc4MEZwMWdEbUFsYlBTdDd5RGI2S0ZDeUNJM2lqaDNIVTE1eU9QTW5veXJfVi1hUGdic2h1dTI4UDlnYmswT0FMYjV4cTVfQnhQZnk0Mm5OZjEtSjYzLUZmSV9DV1FlcHdfNV9Db2taSFBCWi13UHY?oc=5",
-      "publishedAt": "2026-11-13T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-04f96b03c88d82ca",
-      "title": "Better Home & Finance Holding Company Announces Third Quarter 2026 Results",
-      "publisher": "Business Wire",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2pfMnpqTXlpQlB6Rzc5b2FQeWFNbzZvQzNRQ3hkTkgzRUdFc2xjWlRabEw5cDhMUnNwQmVFYjZzX1h0d2NON2stLTR2alVFUWVEbHQydFg3eXZpTFl1MTVIUEg2SEl1Vk5TdzRpQlg0RUVEeFAwM045dC1lQTg0U25wbFZJWG0wQ0o1Q1NHZXM5Y0pnUDJQbjNPekJhMWRldXhVT1MydkxmdlgxVVYtcUtQSEItZGVFTTFabzZDV09kVnBqRmh5RA?oc=5",
-      "publishedAt": "2026-11-09T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-73e4e04c8ac9be2f",
-      "title": "Amazon to revamp developer evaluation to focus on customer and business results over AI usage",
-      "publisher": "디지털투데이",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTlc1WG9IYk82RkpHcEVGcF9kdXc1VEhnSlY2TklfdUNwSkI4RGtvdGFwZ3NoSFNKWFpxbGJpQ0xtU2pBWnIyYjdxdll4bVREYkp5Y0hKTDUtT1BwODN0N1VIM242QTdER2NoZGpLSG5MTGVxTkxSYThrRGNBWGxiTjFHR3lzRVZKX1VNcWxqSldtb0J1V0ptZndHZ0pWSHJuWXcyLTNTaVVoZVdJOVo3QzFIYmJfajBfQWFUYUMybk9Uc2ZzaWpxeUhmc1R0S3R0MGJDTDVn?oc=5",
-      "publishedAt": "2026-10-28T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-7573400a4c9942f2",
-      "title": "Dubai Chambers launches Agentic AI category as part of Mohammed Bin Rashid Al Maktoum Business Award",
-      "publisher": "www.wam.ae",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGJkOFdYZzlvVThjcE1ELWR0MHVEcXlKdVJsaFU4bjFZTmVad25PS04zMmotLVRHVldoSlczdEpxUl9ZekNsQWdaNFpXdkljbm9GVGhpeTgyYnRGYVZNSGNydFp0NjZqT3k4enV4YlVPS1FrMXI3SlgyV255WXZXRHJkRjYyWU9hdnF3?oc=5",
-      "publishedAt": "2026-11-01T07:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
-      ],
-      "status": "needs_review",
-      "evidenceStatus": "unverified",
-      "suggestedReview": "Unclassified — identify actual business workflow and deployment status",
-      "note": "Discovery pointer only. Full article, primary sources, deployment, metrics and permissions have NOT been verified."
-    },
-    {
-      "id": "candidate-439bc1d24963b378",
-      "title": "Marsh & McLennan Companies (NYSE:MRSH) Stock Forecast & Analyst Predictions",
-      "publisher": "Simply Wall St",
-      "discoveryUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2ZnZVFNMmotS00tTEJHLTQ4cWJoT1pveHpnX3lBTXpfcUpPU3RqYkNkeC1SVFBKdmk3S3NpTzBrV2N5OWpXZFEzVEEwT0RYWDc4b2E5VHFTVzlsSnpoOXlHdjQyTnFPOUs2Sm41ZFNJSmJCSWdmaVJJdzQ3YzBaOHEtYnk4Y1dmODY0?oc=5",
-      "publishedAt": "2026-11-19T08:00:00Z",
-      "firstSeen": "2026-11-21T19:29:32Z",
-      "lastSeen": "2026-11-24T00:04:13Z",
-      "sourceQueries": [
-        "measurable-results"
       ],
       "status": "needs_review",
       "evidenceStatus": "unverified",
