@@ -1,7 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastAssessmentAt": "2026-11-27T21:28:03Z",
+  "lastAssessmentAt": "2026-11-28T20:20:19Z",
   "drafts": [
+    {
+      "candidateId": "candidate-06541f44fd52f2e1",
+      "title": "The Rise of AI Holding Companies",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZGlkbHdqV0ZBc21QYU5HbWE3TWVaWFpnejJ3aWJ6OE9ZYmxJM2s2d1NWNlptYUc2TEEyckhNaHpQUl9fRllRSFVRUm5YeWVZWnExOFI1cGhfdDVYeEZERWRxWUVFTDZ2X0FHWQ?oc=5",
+      "assessedAt": "2026-11-28T20:20:19Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-06541f44fd52f2e1",
+        "company": "",
+        "title": "The Rise of AI Holding Companies",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-04",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZGlkbHdqV0ZBc21QYU5HbWE3TWVaWFpnejJ3aWJ6OE9ZYmxJM2s2d1NWNlptYUc2TEEyckhNaHpQUl9fRllRSFVRUm5YeWVZWnExOFI1cGhfdDVYeEZERWRxWUVFTDZ2X0FHWQ?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
+    {
+      "candidateId": "candidate-a7f3c77a6e7bf27a",
+      "title": "Leobit Research Maps Voice AI Engine Strengths for Business Deployment Decisions",
+      "discoveryUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXBsS0xLXzQyd1JsOUxWRWlHaFRodVBId1dFUHdFeDdFNm9aQ1M0VWJHcDVqejUxWW9BSnlvdkV6dVNXYUFQNk01OHcwRjQ1STFhNUhndFljRkVLNHBEZFRMSW1Oa0RUank3YlFJZnpnRnBZSXhtSGhYbjY0MVNnN0stY0FJRmtUelFKanlCT0pnUkx5ZjFtU2ZBby1nTDEtWVl6eDlQWEVTY25UU1VIWFFTdk53VE9zVHZIMVdVSTlIQ3F5enVLOVUtS1EzdHZQQjU0?oc=5",
+      "assessedAt": "2026-11-28T20:20:19Z",
+      "status": "needs_configuration",
+      "reviewStatus": "unapproved",
+      "model": null,
+      "accessibleSourceCount": 0,
+      "sourceReferences": [],
+      "relatedResearchLeads": [],
+      "retrievalWarnings": [],
+      "assessment": {
+        "organization": "",
+        "businessProblem": "",
+        "aiWorkflow": "",
+        "deploymentStatus": "unknown",
+        "reportedOutcome": "Unknown",
+        "sourceAssessment": "AI extraction disabled: configure GEMINI_API_KEY.",
+        "numericClaims": [],
+        "supportingEvidence": [],
+        "contradictoryEvidence": [],
+        "unresolvedQuestions": [
+          "Locate and read the primary source",
+          "Verify deployment status and outcome metrics",
+          "Look for independent corroboration or contradiction"
+        ],
+        "riskFlags": [
+          "Discovery headline not independently verified"
+        ],
+        "suggestedCaseSummary": "",
+        "studentLesson": "",
+        "professionalApplication": ""
+      },
+      "proposedCase": {
+        "id": "draft-candidate-a7f3c77a6e7bf27a",
+        "company": "",
+        "title": "Leobit Research Maps Voice AI Engine Strengths for Business Deployment Decisions",
+        "industry": "Needs reviewer classification",
+        "function": "Needs reviewer classification",
+        "outcome": "Unknown",
+        "confidence": "UNVERIFIED — AI-generated proposal",
+        "date": "2026-11-19",
+        "metric": "",
+        "metric_label": "",
+        "summary": "",
+        "evidence": "AI not configured",
+        "risk": "Discovery headline not independently verified",
+        "apply": "",
+        "question": "",
+        "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXBsS0xLXzQyd1JsOUxWRWlHaFRodVBId1dFUHdFeDdFNm9aQ1M0VWJHcDVqejUxWW9BSnlvdkV6dVNXYUFQNk01OHcwRjQ1STFhNUhndFljRkVLNHBEZFRMSW1Oa0RUank3YlFJZnpnRnBZSXhtSGhYbjY0MVNnN0stY0FJRmtUelFKanlCT0pnUkx5ZjFtU2ZBby1nTDEtWVl6eDlQWEVTY25UU1VIWFFTdk53VE9zVHZIMVdVSTlIQ3F5enVLOVUtS1EzdHZQQjU0?oc=5",
+        "source_type": "Unverified research sources",
+        "review_status": "pending_human_review",
+        "reviewed_at": "",
+        "requires": [
+          "Review sources and exact excerpts",
+          "Find independent evidence or document its absence",
+          "Verify all metrics and denominators",
+          "Confirm deployment status and business relevance",
+          "Check licensing and editorial accuracy",
+          "Manually approve before publication"
+        ]
+      },
+      "publicationBlocked": true,
+      "disclaimer": "Unapproved research draft; no evidence assessment was performed."
+    },
     {
       "candidateId": "candidate-b795735fc46ebc38",
       "title": "Kainos CEO Brendan Mooney says government 'cautious' on AI deployment",
